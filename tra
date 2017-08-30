@@ -66,6 +66,8 @@ car = car.replace(/𑢲𑣙/g, "𑢵");
 car = car.replace(/𑢼𑢼/g, "𑢻");
 
 car = car.replace(/𑢡𑢣/g, "𑢧");
+car = car.replace(/𑢡𑣂/g, "𑢦");
+car = car.replace(/𑢡𑣃/g, "𑢧");
 car = car.replace(/𑢡𑢢/g, "𑢦");
 car = car.replace(/𑢱𑣙/g, "𑢴");
 car = car.replace(/𑢱𑢹/g, "𑢴");
