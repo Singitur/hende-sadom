@@ -1,0 +1,82 @@
+
+var car;
+function transcrire() {
+car = document.conversion.saisie.value;
+car = car.replace(/x/g, "𑣝");
+car = car.replace(/a/g, "𑣁");
+car = car.replace(/b/g, "𑣗");
+car = car.replace(/v/g, "𑣀");
+car = car.replace(/g/g, "𑣋");
+car = car.replace(/d/g, "𑣑");
+car = car.replace(/e/g, "𑣈");
+car = car.replace(/i/g, "𑣂");
+car = car.replace(/j/g, "𑣎");
+car = car.replace(/k/g, "𑣌");
+car = car.replace(/l/g, "𑣚");
+car = car.replace(/m/g, "𑣖");
+car = car.replace(/n/g, "𑣓");
+car = car.replace(/o/g, "𑣉");
+car = car.replace(/r/g, "𑣜");
+car = car.replace(/p/g, "𑣘");
+car = car.replace(/s/g, "𑣞");
+car = car.replace(/t/g, "𑣒");
+car = car.replace(/u/g, "𑣃");
+car = car.replace(/f/g, "f");
+car = car.replace(/ch/g, "𑣏");
+ 
+car = car.replace(/y/g, "𑣅");
+car = car.replace(/w/g, "𑣟")
+car = car.replace(/𑣜𑣜/g, "𑣛");
+car = car.replace(/𑣒𑣙/g, "𑣕");
+car = car.replace(/𑣑𑣙/g, "𑣔");
+car = car.replace(/𑣓𑣓/g, "𑣐");
+car = car.replace(/q/g, "𑣄");
+car = car.replace(/𑣓𑣎/g, "𑣍");
+car = car.replace(/𑣓𑣋/g, "𑣊");
+car = car.replace(/𑣁𑣃/g, "𑣇");
+car = car.replace(/𑣁𑣂/g, "𑣆");
+car = car.replace(/h/g, "𑣙");
+car = car.replace(/@/g, "𑣿");
+
+car = car.replace(/X/g, "𑢽");
+car = car.replace(/A/g, "𑢡");
+car = car.replace(/B/g, "𑢷");
+car = car.replace(/V/g, "𑢠");
+car = car.replace(/G/g, "𑢫");
+car = car.replace(/D/g, "𑢱");
+car = car.replace(/E/g, "𑢨");
+ 
+car = car.replace(/I/g, "𑢢");
+car = car.replace(/J/g, "𑢮");
+car = car.replace(/K/g, "𑢬");
+car = car.replace(/L/g, "𑢺");
+car = car.replace(/M/g, "𑢶");
+car = car.replace(/N/g, "𑢳");
+car = car.replace(/O/g, "𑢩");
+car = car.replace(/P/g, "𑢸");
+car = car.replace(/R/g, "𑢼");
+car = car.replace(/S/g, "𑢾");
+car = car.replace(/T/g, "𑢲");
+car = car.replace(/U/g, "𑢣");
+car = car.replace(/F/g, "F");
+car = car.replace(/C𑣙/g, "𑢯");
+car = car.replace(/C𑢹/g, "𑢯");
+car = car.replace(/H/g, "𑢹");
+car = car.replace(/𑢲𑣙/g, "𑢵");
+car = car.replace(/𑢼𑢼/g, "𑢻");
+
+car = car.replace(/𑢱𑣙/g, "𑢴");
+car = car.replace(/𑢱𑢹/g, "𑢴");
+car = car.replace(/𑢳𑢮/g, "𑢭");
+car = car.replace(/𑢳𑣎/g, "𑢭");
+car = car.replace(/W/g, "𑢿");
+car = car.replace(/𑢳𑢫/g, "𑢪");
+car = car.replace(/𑢳𑣋/g, "𑢪");
+car = car.replace(/Q/g, "𑢤");
+
+document.conversion.saisie.value = car;
+
+var obj=document.conversion.saisie;
+obj.focus();
+obj.scrollTop=obj.scrollHeight;
+}
