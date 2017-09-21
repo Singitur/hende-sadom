@@ -71,6 +71,7 @@ car = car.replace(/Y/g, "𑢥");
 
 car = car.replace(/ी/g, "𑣂𑣂");
 car = car.replace(/ू/g, "𑣃𑣃");
+car = car.replace(/्/g, "");
 
 document.conversion.saisie.value = car;
 var obj=document.conversion.saisie;
