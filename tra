@@ -79,6 +79,43 @@ car = car.replace(/𑢳𑣋/g, "𑢪");
 car = car.replace(/Q/g, "𑢤");
 car = car.replace(/Y/g, "𑢥");
 
+car = car.replace(/(ष|श)/g, "𑣝");
+car = car.replace(/(अ|ा)/g, "𑣁");
+car = car.replace(/ब/g, "𑣗");
+car = car.replace(/(ं|ँ)/g, "𑣀");
+car = car.replace(/ग/g, "𑣋");
+car = car.replace(/ड/g, "𑣑");
+car = car.replace(/(ए|े)/g, "𑣈");
+car = car.replace(/(इ|ि)/g, "𑣂");
+car = car.replace(/ज/g, "𑣎");
+car = car.replace(/क/g, "𑣌");
+car = car.replace(/ल/g, "𑣚");
+car = car.replace(/म/g, "𑣖");
+car = car.replace(/न/g, "𑣓");
+car = car.replace(/(ओ|ो)/g, "𑣉");
+car = car.replace(/र/g, "𑣜");
+car = car.replace(/प/g, "𑣘");
+car = car.replace(/स/g, "𑣞");
+car = car.replace(/ट/g, "𑣒");
+car = car.replace(/(उ|ु)/g, "𑣃");
+car = car.replace(/f/g, "f");
+car = car.replace(/च/g, "𑣏");
+ 
+car = car.replace(/य/g, "𑣅");
+car = car.replace(/व/g, "𑣟")
+car = car.replace(/ड़/g, "𑣛");
+car = car.replace(/त/g, "𑣕");
+car = car.replace(/द/g, "𑣔");
+car = car.replace(/ण/g, "𑣐");
+car = car.replace(/ः/g, "𑣄");
+car = car.replace(/ञ/g, "𑣍");
+car = car.replace(/ङ/g, "𑣊");
+car = car.replace(/ऊ/g, "𑣇");
+car = car.replace(/ई/g, "𑣆");
+car = car.replace(/ह/g, "𑣙");
+car = car.replace(/(@|ॐ)/g, "𑣿");
+
+
 document.conversion.saisie.value = car;
 
 var obj=document.conversion.saisie;
