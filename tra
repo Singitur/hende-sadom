@@ -2,7 +2,7 @@
 var car;
 function transcrire() {
 car = document.conversion.saisie.value;
-car = car.replace(/x/g, "𑣝");
+car = car.replace(/(x|ष|श)/g, "𑣝");
 car = car.replace(/a/g, "𑣁");
 car = car.replace(/b/g, "𑣗");
 car = car.replace(/v/g, "𑣀");
@@ -79,7 +79,7 @@ car = car.replace(/𑢳𑣋/g, "𑢪");
 car = car.replace(/Q/g, "𑢤");
 car = car.replace(/Y/g, "𑢥");
 
-car = car.replace(/(ष|श)/g, "𑣝");
+car = car.replace(//g, "𑣝");
 car = car.replace(/(अ|ा)/g, "𑣁");
 car = car.replace(/ब/g, "𑣗");
 car = car.replace(/(ं|ँ)/g, "𑣀");
