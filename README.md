@@ -1,5 +1,5 @@
 
-## BoyoGagrai
+## BoyoGagrai and Disum Sans
 This is a Warang Citi font intended for free use.
 
 ## License
