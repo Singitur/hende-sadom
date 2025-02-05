@@ -29215,7 +29215,7 @@
 		"definition":"a ladle (when seen in a dream this can represent a snake, esp. a cobra whose head when extended appears much like a ladle); when used in prayers in the expresion nama chaṭu nama Lunḍić in contexts where the expression nama chaṭu is used to refer to an egg, name Lunḍić is used in parallel with the same meaning",
 		"subwords":[
 			{
-				"subword":"*mi lunḍić",
+				"subword":"*mit́ lunḍić",
 				"sub_definition":"ladleful; one ladle"
 			},
 			{
@@ -29225,17 +29225,6 @@
 			{
 				"subword":"*lunḍić suku",
 				"sub_definition":"an inedible suku (gourd) from which ladles are made"
-			}
-		]
-	},
-	{
-		"word":"lunḍiṅ",
-		"fone":"LUNDING, LUNDIN",
-		"definition":"to gouge out e.g. an eye",
-		"subwords":[
-			{
-				"subword":"*lunḍiń-olt́",
-				"sub_definition":"same as lundiṅ"
 			}
 		]
 	},
@@ -29901,25 +29890,6 @@
 			{
 				"subword":"*lunḍa-gurić",
 				"sub_definition":"to spread diluted cow-dung on the walls and floor of a house using a cloth and on the courtyard using a broom"
-			}
-		]
-	},
-	{
-		"word":"lunḍić",
-		"fone":"LUNDIC, LUNDI",
-		"definition":"a ladle (when seen in a dream this can represent a snake, esp. a cobra whose head when extended appears much like a ladle); when used in prayers in the expresion nama chaṭu nama Lunḍić in contexts where the expression nama chaṭu is used to refer to an egg, nama Lunḍić is used in parallel with the same meaning",
-		"subwords":[
-			{
-				"subword":"*mi lunḍić",
-				"sub_definition":"ladleful; one ladle"
-			},
-			{
-				"subword":"*lunḍić bonga",
-				"sub_definition":"the ladle' spirit, used in jest in expressions such as lunḍić bonga hatirletana, the ladle spirit is afflicting us', i.e. we are hungry"
-			},
-			{
-				"subword":"*lunḍić suku",
-				"sub_definition":"an inedible suku (gourd) from which ladles are made"
 			}
 		]
 	},
