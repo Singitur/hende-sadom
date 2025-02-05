@@ -3834,7 +3834,7 @@
 				"sub_definition":"a small carthen pot"
 			},
 			{
-				"subword":"*Chaṭu-Lundić",
+				"subword":"*Chaṭu-Lunḍić",
 				"sub_definition":"a collective noun for cooking utensils"
 			}
 		]
@@ -11905,7 +11905,7 @@
 	{
 		"word":"mena",
 		"fone":"MENA, MENQ",
-		"definition":"same as menteaḱ, (<a class="link" href="https://michaelyorke.org/wp-content/uploads/2023/08/Ho-Grammar-by-J-Deeney.pdf"  target="_blank">Les. 35</a>)"
+		"definition":"same as menteaḱ, (<a class='link' href='https://michaelyorke.org/wp-content/uploads/2023/08/Ho-Grammar-by-J-Deeney.pdf'  target='_blank'>Les. 35</a>)"
 	},
 	{
 		"word":"mena",
@@ -29212,7 +29212,7 @@
 	{
 		"word":"lunḍić",
 		"fone":"LUNDIC, LUNDI",
-		"definition":"a ladle (when seen in a dream this can represent a snake, esp. a cobra whose head when extended appears much like a ladle); when used in prayers in the expresion nama chaṭu nama lundić in contexts where the expression nama chaṭu is used to refer to an egg, name lundić is used in parallel with the same meaning",
+		"definition":"a ladle (when seen in a dream this can represent a snake, esp. a cobra whose head when extended appears much like a ladle); when used in prayers in the expresion nama chaṭu nama Lunḍić in contexts where the expression nama chaṭu is used to refer to an egg, name Lunḍić is used in parallel with the same meaning",
 		"subwords":[
 			{
 				"subword":"*mi lunḍić",
@@ -29907,7 +29907,7 @@
 	{
 		"word":"lunḍić",
 		"fone":"LUNDIC, LUNDI",
-		"definition":"a ladle (when seen in a dream this can represent a snake, esp. a cobra whose head when extended appears much like a ladle); when used in prayers in the expresion nama chaṭu nama lundić in contexts where the expression nama chaṭu is used to refer to an egg, name lundić is used in parallel with the same meaning",
+		"definition":"a ladle (when seen in a dream this can represent a snake, esp. a cobra whose head when extended appears much like a ladle); when used in prayers in the expresion nama chaṭu nama Lunḍić in contexts where the expression nama chaṭu is used to refer to an egg, nama Lunḍić is used in parallel with the same meaning",
 		"subwords":[
 			{
 				"subword":"*mi lunḍić",
@@ -32732,12 +32732,12 @@
 		"definition":"to pull out of the fire e.g. a piece of wood, some meat being roasted"
 	},
 	{
-		"word":"rul-biṅ",
+		"word":"Rúl Biṅ",
 		"fone":"RUL",
-		"definition":"the milk snake, believed to cause the rainbow (also called nur-biń)",
+		"definition":"the milk snake, believed to cause the rainbow (also called Núr Biṅ)",
 		"subwords":[
 			{
-				"subword":"*rulbiń oṅ",
+				"subword":"*Rúlbiṅòṅ",
 				"sub_definition":"a rainbow"
 			}
 		]
@@ -36521,7 +36521,7 @@
 			},
 			{
 				"subword":"*singi olt́",
-				"sub_definition":"lsunrise; the East"
+				"sub_definition":"sunrise; the East"
 			},
 			{
 				"subword":"*singi rakaṕ",
@@ -42135,8 +42135,8 @@
 		"definition":"today",
 		"subwords":[
 			{
-				"subword":"*tisiń-gapa",
-				"sub_definition":"one of these days ( sometimes the expression tisiń-gapako is used with the ko affix connoting 'approximately, see ko)"
+				"subword":"*tisiṅg-gapa",
+				"sub_definition":"one of these days ( sometimes the expression tisiṅg-gapako is used with the ko affix connoting 'approximately, see ko)"
 			}
 		]
 	},
