@@ -1,6 +1,20 @@
 @font-face {
     font-family: 'Noto Serif New';
+    font-style: normal;
+    font-style: normal;
     src: url('NotoSerifNew-Regular.woff2') format('woff2');
-    src: url('NotoSerifNew-Bold.woff2') format('woff2');
+},
+
+@font-face {
+    font-family: 'Noto Serif New';
+    font-style: italic;
+    font-style: normal;
     src: url('NotoSerifNew-Italic.woff2') format('woff2');
+},
+
+@font-face {
+    font-family: 'Noto Serif New';
+    font-style: normal;
+    font-style: bold;
+    src: url('NotoSerifNew-Bold.woff2') format('woff2');
 }
