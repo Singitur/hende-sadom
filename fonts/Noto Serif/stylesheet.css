@@ -1,4 +1,6 @@
 @font-face {
     font-family: 'Noto Serif New';
     src: url('NotoSerifNew-Regular.woff2') format('woff2');
+    src: url('NotoSerifNew-Bold.woff2') format('woff2');
+    src: url('NotoSerifNew-Italic.woff2') format('woff2');
 }
