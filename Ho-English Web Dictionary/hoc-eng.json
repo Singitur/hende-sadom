@@ -1999,7 +1999,7 @@
                 "sub_definition": "paths along embankments"
             },
             {
-                "subword": "*ãṛi-maḱ-biur",
+                "subword": "*ãṛi-maḱ-biwr",
                 "sub_definition": "to cut around the inside edges of an embankment e.g. with a kudali."
             }
         ]
@@ -2116,7 +2116,7 @@
         "definition": "to bring the burned bones of a dead person from place to place (to villages of relatives of the dead person)",
         "subwords": [
             {
-                "subword": "*asen-biur",
+                "subword": "*asen-biwr",
                 "sub_definition": "to take from place to place (as given under asen)"
             },
             {
@@ -2639,7 +2639,7 @@
                 "sub_definition": "to lead so as to cause e.g. a person or animal to get lost."
             },
             {
-                "subword": "*ayer-biur",
+                "subword": "*ayer-biwr",
                 "sub_definition": "to lead someone round about (e.g. around a town showing places of interest)"
             },
             {
@@ -5711,7 +5711,7 @@
     {
         "word": "biniyur",
         "fone": "BINIYUR, BINIYUR",
-        "definition": "a winding e.g. in a road (verbal noun of biur).",
+        "definition": "a winding e.g. in a road (verbal noun of biwr).",
         "subwords": [
             {
                 "subword": "*biniyur hora",
@@ -6038,7 +6038,7 @@
         "definition": "property, possessions; to acquire possessions.",
         "subwords": [
             {
-                "subword": "*biur-sekor",
+                "subword": "*biwr-sekor",
                 "sub_definition": "to circle or spin around."
             },
             {
@@ -6053,11 +6053,11 @@
         "definition": "poetic parallel of sangi, 'numerous', 'make numerous', (used in prayers).",
         "subwords": [
             {
-                "subword": "*biur-hućoḱ",
+                "subword": "*biwr-hućoḱ",
                 "sub_definition": "to come by a round-about way."
             },
             {
-                "subword": "*biur-uraa",
+                "subword": "*biwr-uraa",
                 "sub_definition": "to turn or wind about and return back; to return e.g. something borrowed."
             }
         ]
@@ -6095,12 +6095,12 @@
         ]
     },
     {
-        "word": "biur",
-        "fone": "BIUR, BIUR",
+        "word": "biwr",
+        "fone": "biwr, biwr",
         "definition": "to turn around; to wind around (e.g. of a circuitous road); to revolve, spin or whirl around, e.g. on a potter’s wheel; to return, e.g. something borrowed.",
         "subwords": [
             {
-                "subword": "*biur-nam",
+                "subword": "*biwr-nam",
                 "sub_definition": "to get or find by wind- ing around; to divine by having someone spin around sitting on a padki, a large poyla."
             }
         ]
@@ -6309,7 +6309,7 @@
                 "sub_definition": "to feel a spinning sensation in the head, to feel giddy de."
             },
             {
-                "subword": "*bohḱ biur-biur",
+                "subword": "*bohḱ biwr-biwr",
                 "sub_definition": "same as boḱ biyun- biyun."
             },
             {
@@ -6541,7 +6541,7 @@
                 "sub_definition": "same as bonga danda."
             },
             {
-                "subword": "*bonga-biur",
+                "subword": "*bonga-biwr",
                 "sub_definition": "by a sacrifice to turn back some harm upon another, e.g 1) upon a witch who is inflicting harm on another, 2) upon the people of another village who have driven out (bonga-enḍaḱ) a spirit who has now moved into the village of those who are sending it back."
             },
             {
@@ -8015,7 +8015,7 @@
         "definition": "to stretch out tightly, to distend e.g, a rope, the skin of a run ning animal; to stretch out a web or a thread (as is sometimes done from one tree to another to drive out spirits); the web of a spider; a spread out thread",
         "subwords": [
             {
-                "subword": "*chãi-biur",
+                "subword": "*chãi-biwr",
                 "sub_definition": "to stretch around, (as under chai)"
             }
         ]
@@ -10859,7 +10859,7 @@
         "definition": "to surround so as to prevent escape (of animals or men)",
         "subwords": [
             {
-                "subword": "*chur-biur",
+                "subword": "*chur-biwr",
                 "sub_definition": "same as chur"
             },
             {
@@ -10941,7 +10941,7 @@
         "definition": "a small fenced-off area around seedlings, small bushes, etc., usually in the courtyard of a house and often for a religious purpose; to make such a fenced-off area",
         "subwords": [
             {
-                "subword": "*Churui-biur",
+                "subword": "*Churui-biwr",
                 "sub_definition": "to fence off a churui"
             },
             {
@@ -11492,7 +11492,7 @@
         "definition": "to proclain something publicly, e.g. with drum beat to get attention; to call loudly on a spirit (same as ḍako in this sense)",
         "subwords": [
             {
-                "subword": "*ḍakara-biur",
+                "subword": "*ḍakara-biwr",
                 "sub_definition": "to go about proclaiming (as under ḍakara)"
             }
         ]
@@ -12632,7 +12632,7 @@
                 "sub_definition": "to twist one's way inside, e.g. of an insect entering the ear (refl. form)"
             },
             {
-                "subword": "*ḍera-biur",
+                "subword": "*ḍera-biwr",
                 "sub_definition": "to turn, twist, e.g a faucet"
             }
         ]
@@ -14595,7 +14595,7 @@
                 "sub_definition": "to sit squatting (with one's legs crossed)"
             },
             {
-                "subword": "*duṕ-biur",
+                "subword": "*duṕ-biwr",
                 "sub_definition": "to sit around e.g. a fire"
             },
             {
@@ -14627,7 +14627,7 @@
                 "sub_definition": "to sit near to"
             },
             {
-                "subword": "*duṕ-horho",
+                "subword": "*duṕ-horw",
                 "sub_definition": "to guard by sitting close"
             },
             {
@@ -15023,7 +15023,7 @@
                 "sub_definition": "to give someone enough to eat to fill his stomach"
             },
             {
-                "subword": "*em-biur",
+                "subword": "*em-biwr",
                 "sub_definition": "to give or put around (e.g. to various people sitting around)"
             },
             {
@@ -17313,7 +17313,7 @@
                 "sub_definition": "about 11- 12P.M."
             },
             {
-                "subword": "*gitić-horho",
+                "subword": "*gitić-horw",
                 "sub_definition": "to watch over some thing by lying down near it."
             },
             {
@@ -17914,7 +17914,7 @@
         "definition": "of an elephant, to take hold of by the curled trunk; of a man, to put his arm around (someone or something).",
         "subwords": [
             {
-                "subword": "*gonde-biur",
+                "subword": "*gonde-biwr",
                 "sub_definition": "to put one's arm around (someone) (to embrace with both arms hambud)."
             }
         ]
@@ -18690,7 +18690,7 @@
         "definition": "to fence off; to fortify; of silkworms, to enclose themselves in their cocoons; a stronghold, fort.",
         "subwords": [
             {
-                "subword": "*gura-biur",
+                "subword": "*gura-biwr",
                 "sub_definition": "to surround with fencing or fortification."
             },
             {
@@ -19848,7 +19848,7 @@
     {
         "word": "har",
         "fone": "HAR",
-        "definition": "to drive e.g. cattle, a cart, to follow, pursue; to get rid of, get over e.g. shyness; to wear out e.g. clothes, a ploughshare, one's skin (i.e. to cause wounds on tender skin e.g. of a child by crawling too much); with Baba as object, to thresh paddy by driving cattle (see har-biur, Baba tár); of a cock, to render another cock unwilling to fight",
+        "definition": "to drive e.g. cattle, a cart, to follow, pursue; to get rid of, get over e.g. shyness; to wear out e.g. clothes, a ploughshare, one's skin (i.e. to cause wounds on tender skin e.g. of a child by crawling too much); with Baba as object, to thresh paddy by driving cattle (see har-biwr, Baba tár); of a cock, to render another cock unwilling to fight",
         "subwords": [
             {
                 "subword": "*har-ader",
@@ -19871,7 +19871,7 @@
                 "sub_definition": "to reach by driving (e.g. oaḱte har-beṭakom, 'drive them (e.g. cattle) home'; when ploughing a field to drive the cattle in one line only as far as is needed to finish one kutuil (q.v.) in one session of work, e.g. one morning"
             },
             {
-                "subword": "*har-biur",
+                "subword": "*har-biwr",
                 "sub_definition": "to drive around (used esp. of driving the cattle in a circular motion in threshing)"
             },
             {
@@ -20977,7 +20977,7 @@
         "definition": "to move around staying very close to something, e.g. of someone trying to hide behind a tree from someone passing, or a small child hovering around his mother",
         "subwords": [
             {
-                "subword": "*heor-biur",
+                "subword": "*heor-biwr",
                 "sub_definition": "same as heyor heyor-bolo to enter pressing oneself against the entrance"
             },
             {
@@ -20997,7 +20997,7 @@
         "definition": "to mate, to copulate (recip. of hed, q.v. mage kaji) her - to sow; to sprinkle something dry e.g. powder on a wound",
         "subwords": [
             {
-                "subword": "*her-biur",
+                "subword": "*her-biwr",
                 "sub_definition": "to sow or sprinkle something around, e.g, rice-flower sprinkled around the sides of the compartments for the punji of a sacrifice"
             },
             {
@@ -21194,7 +21194,7 @@
                 "sub_definition": "to turn one's face away from (used figuratively e.g. alom heta-bageleya, 'do not withdraw your help from us', 'do not lose interest in us')"
             },
             {
-                "subword": "*heta-biur",
+                "subword": "*heta-biwr",
                 "sub_definition": "to turn the head around"
             },
             {
@@ -21317,7 +21317,7 @@
                 "sub_definition": "same as hili esp. for sprinkling using some object, e.g. a mango leaf, compare kurmu and tirpi)"
             },
             {
-                "subword": "*hirchi-biur",
+                "subword": "*hirchi-biwr",
                 "sub_definition": "to sprinkle around"
             },
             {
@@ -21893,7 +21893,7 @@
         "definition": "to push something with a stick, e.g. to push a dead snake out of the way, to stir or mix with a stick or ladle",
         "subwords": [
             {
-                "subword": "*honḍa-biur",
+                "subword": "*honḍa-biwr",
                 "sub_definition": "to stir around (e.g. food in a pot)"
             },
             {
@@ -21957,7 +21957,7 @@
                 "sub_definition": "to roam from place to place"
             },
             {
-                "subword": "*honor-biur",
+                "subword": "*honor-biwr",
                 "sub_definition": "to wander around"
             },
             {
@@ -22078,20 +22078,20 @@
         "definition": "when clouds have formed promising rain, or after a slight rain has started, for the sky to clear up again"
     },
     {
-        "word": "horho",
-        "fone": "HORHO",
+        "word": "horw",
+        "fone": "horw",
         "definition": "to guard; of a wild animal, to keep someone trapped, e.g. up a tree; of a spirit or sickness, to keep someone on his sickbed",
         "subwords": [
             {
-                "subword": "*horho-jangi",
+                "subword": "*horw-jangi",
                 "sub_definition": "to guard; the act of guarding (a general term used esp. in prayers)"
             },
             {
-                "subword": "*horho-harduḱ",
+                "subword": "*horw-harduḱ",
                 "sub_definition": "guarding to save by"
             },
             {
-                "subword": "*horho-mata",
+                "subword": "*horw-mata",
                 "sub_definition": "to guard so as to allow to grow properly (e.g. a crop, a child)"
             }
         ]
@@ -22275,7 +22275,7 @@
                 "sub_definition": "to reach with the thrust of a stick, etc."
             },
             {
-                "subword": "*hota-biur",
+                "subword": "*hota-biwr",
                 "sub_definition": "to overturn with the thrust of a long stick, e.g. at the time of Baba tar when cattle walk around over paddy sheaves to thresh them"
             },
             {
@@ -22334,7 +22334,7 @@
     {
         "word": "hotor",
         "fone": "HOTOR",
-        "definition": "to draw out of, unsheath; with babasiń as obj. - to pull straw out of a haystack hotor-biur to go around pulling out (used to refer to the process of making a haystack more compact by pulling out straw which juts out too much)",
+        "definition": "to draw out of, unsheath; with babasiń as obj. - to pull straw out of a haystack hotor-biwr to go around pulling out (used to refer to the process of making a haystack more compact by pulling out straw which juts out too much)",
         "subwords": [
             {
                 "subword": "*hotor-bonoć",
@@ -24403,7 +24403,7 @@
         "definition": "of overripe paddy stalks left too long unharvested, to become dried out"
     },
     {
-        "word": "Jane",
+        "word": "Jany, Janhe",
         "fone": "JANE, JANQ",
         "definition": "a cultivated millet-like grain, apparently Paspalum scrobiculatum, L., Gramineae, B.139/30, H.139/46/1"
     },
@@ -24435,7 +24435,7 @@
     {
         "word": "jangi",
         "fone": "JANGI, JANI",
-        "definition": "a long roof beam (running the length of a house, e.g. the ridge beam (Mutul Jangi) or the beam supporting the rafters (Seneor Jangi) as distinct from Koalu, a cross beam; a horizontal fence beam; a line of dancers; poetic parallel of horho, ‘to guard’",
+        "definition": "a long roof beam (running the length of a house, e.g. the ridge beam (Mutul Jangi) or the beam supporting the rafters (Seneor Jangi) as distinct from Koalu, a cross beam; a horizontal fence beam; a line of dancers; poetic parallel of horw, ‘to guard’",
         "subwords": [
             {
                 "subword": "*Jangi Kunṭu",
@@ -24443,7 +24443,7 @@
             },
             {
                 "subword": "*jangi-mata",
-                "sub_definition": "poetic parallel with horho-mata, ‘to guard so as to allow to grow properly’"
+                "sub_definition": "poetic parallel with horw-mata, ‘to guard so as to allow to grow properly’"
             }
         ]
     },
@@ -24753,7 +24753,7 @@
                 "sub_definition": "to lay eggs (e.g. of fish spawning)"
             },
             {
-                "subword": "*Jarom Tuku te biur-nam",
+                "subword": "*Jarom Tuku te biwr-nam",
                 "sub_definition": "a form of bonga-nam, q.v., done by lightly suspending a husking pole (Tuku) on top of an egg. If the spirit who is inflicting the harm is named the egg supposedly will start to spin"
             }
         ]
@@ -26719,7 +26719,7 @@
         "definition": "to crowd around",
         "subwords": [
             {
-                "subword": "*jur-biur",
+                "subword": "*jur-biwr",
                 "sub_definition": "to crowd around"
             },
             {
@@ -27115,7 +27115,7 @@
                 "sub_definition": "a plan, a plot (verbal noun of kaji-bai)"
             },
             {
-                "subword": "*kaji-biur",
+                "subword": "*kaji-biwr",
                 "sub_definition": "to tell around; spread the news"
             },
             {
@@ -27375,7 +27375,7 @@
                 "sub_definition": "of one chasing, to lose the one being chased"
             },
             {
-                "subword": "*kakii-biur",
+                "subword": "*kakii-biwr",
                 "sub_definition": "to chase around; of one riding a horse, to make it nde around"
             },
             {
@@ -28346,7 +28346,7 @@
         "definition": "to enclose with an earthen or brick wall; a wall build up part way within a house to partition a room, etc.",
         "subwords": [
             {
-                "subword": "*kato-biur",
+                "subword": "*kato-biwr",
                 "sub_definition": "to surround with an earthen or brick wall"
             },
             {
@@ -28823,7 +28823,7 @@
         "definition": "to check; to block; to prevent; to block in; to enclose; with Oaḱ or hatu as obj., to block off the intrusion of any harmful spirit e.g. by planting strongly scented herbs such as sirun dumbu, rotesela, bir sirimi, gaya sur, soso and mani Jaṅ mixed together",
         "subwords": [
             {
-                "subword": "*keset́-biur",
+                "subword": "*keset́-biwr",
                 "sub_definition": "to block on all sides"
             },
             {
@@ -29959,7 +29959,7 @@
         "definition": "to put a cloth, muffler, an arm, etc. around someone’s neck; to put wood or straw around the neck of cattle; to carry something on the back suspended by a rope around the neck; to carry an animal, e.g. a sheep, around the neck",
         "subwords": [
             {
-                "subword": "*koronda-biur",
+                "subword": "*koronda-biwr",
                 "sub_definition": "to put around the neck (as in koronda)"
             }
         ]
@@ -30306,7 +30306,7 @@
         "definition": "to coil or curl something up, e.g. the bor rope at the base of a bandi; refl. -of a snake, a centipede, etc., to coil up; of a person, to curl up (note the saying, era-joṅ me banredo kuchatem goćoḱa, ‘get yourself a wife otherwise you will die curled up ’i.e. there will be no one on hand to straighten out your body for burial)",
         "subwords": [
             {
-                "subword": "*kucha-biur",
+                "subword": "*kucha-biwr",
                 "sub_definition": "to coil or curl around"
             },
             {
@@ -34710,7 +34710,7 @@
                 "sub_definition": "to cut off e.g. the head of a goat"
             },
             {
-                "subword": "*maḱ-biur",
+                "subword": "*maḱ-biwr",
                 "sub_definition": "to cut around e.g. the edges of an embankment with a kudali"
             },
             {
@@ -36594,7 +36594,7 @@
         "definition": "a kind of fish trap made of bamboo strips tied together in a conical shape with an opening at the top and a wider opening at the bottom through which fish enter and cannot swim out. They are then taken out by hand; to trap fish in this way",
         "subwords": [
             {
-                "subword": "*muchu-biur",
+                "subword": "*muchu-biwr",
                 "sub_definition": "to move a muchu around in water in order to catch fish"
             }
         ]
@@ -37851,7 +37851,7 @@
                 "sub_definition": "to look attentively (at someone or something"
             },
             {
-                "subword": "*nel-biur",
+                "subword": "*nel-biwr",
                 "sub_definition": "to look around"
             },
             {
@@ -38419,7 +38419,7 @@
                 "sub_definition": "to retreat, run back (retreating"
             },
             {
-                "subword": "*nir-biur",
+                "subword": "*nir-biwr",
                 "sub_definition": "to run around, e.g. a field; of several men, to run and surround, e.g. an animal to trap it"
             },
             {
@@ -39283,7 +39283,7 @@
                 "sub_definition": "to line off into sections, e.g. parts of a field by digging with a hoe, or the compartments (Okoa) for a sacrifice by making lines with flour"
             },
             {
-                "subword": "*ol-biur",
+                "subword": "*ol-biwr",
                 "sub_definition": "to make lines around (e.g. one's arm with wet flour before a sacrifice)"
             },
             {
@@ -40070,7 +40070,7 @@
         "definition": "to wall off by filling hamboos, twigs, etc. in with mud and leaves",
         "subwords": [
             {
-                "subword": "*pachari-biur",
+                "subword": "*pachari-biwr",
                 "sub_definition": "to wall off (as in pachari)"
             },
             {
@@ -40125,8 +40125,8 @@
         "definition": "a large poyla giving a measure of grain of about 2 seers",
         "subwords": [
             {
-                "subword": "*paḍki biur-nam",
-                "sub_definition": "to divine by having someone spin around sitting on a paḍki (often referred to merely as biur-nam)"
+                "subword": "*paḍki biwr-nam",
+                "sub_definition": "to divine by having someone spin around sitting on a paḍki (often referred to merely as biwr-nam)"
             }
         ]
     },
@@ -41138,7 +41138,7 @@
         "definition": "to wrap around",
         "subwords": [
             {
-                "subword": "*paṭu-biur",
+                "subword": "*paṭu-biwr",
                 "sub_definition": "to wrap around"
             },
             {
@@ -41698,7 +41698,7 @@
         "definition": "a small veranda- type elevation built in the front of a house",
         "subwords": [
             {
-                "subword": "*pinḍigi-biur",
+                "subword": "*pinḍigi-biwr",
                 "sub_definition": "to build the lower part of the wall of a house so that it juts out at least a few inches all around the house (so as to strengthen the lower part of the wall from erosion due to rain water, etc.)"
             }
         ]
@@ -43728,7 +43728,7 @@
                 "sub_definition": "to wail someone in (to induce someone to enter by wailing, used in connection with keya-ader ceremony)"
             },
             {
-                "subword": "*raḱ-biur",
+                "subword": "*raḱ-biwr",
                 "sub_definition": "to wander about crying (e.g. a witch)"
             },
             {
@@ -43850,7 +43850,7 @@
         "definition": "brushwood or thorny branches used to protect a tree or to shut a path; to put the same; of a silkworm, to build the cocoon enclosing itself",
         "subwords": [
             {
-                "subword": "*ram-biur",
+                "subword": "*ram-biwr",
                 "sub_definition": "to surround with brushwood, etc. (as above)"
             },
             {
@@ -47659,7 +47659,7 @@
                 "sub_definition": "paddy sheaves heaped up on the threshing floor to be threshed"
             },
             {
-                "subword": "*sarai biur",
+                "subword": "*sarai biwr",
                 "sub_definition": "to make a sarai in a winding or circular shape (i.e. a binda sarai)"
             },
             {
@@ -48404,10 +48404,10 @@
     {
         "word": "sekor",
         "fone": "SEKOR",
-        "definition": "to spin around (as does a top); a top; poetic parallel of biur, to wind around",
+        "definition": "to spin around (as does a top); a top; poetic parallel of biwr, to wind around",
         "subwords": [
             {
-                "subword": "*sekor-biur",
+                "subword": "*sekor-biwr",
                 "sub_definition": "to spin around"
             },
             {
@@ -48478,7 +48478,7 @@
                 "sub_definition": "by going to reach"
             },
             {
-                "subword": "*sen-biur",
+                "subword": "*sen-biwr",
                 "sub_definition": "to go by a circuitous route"
             },
             {
@@ -49081,7 +49081,7 @@
                 "sub_definition": "to plough into the ground e.g. manure (so that it will not remain on the surface and be washed away)"
             },
             {
-                "subword": "*sí-biur",
+                "subword": "*sí-biwr",
                 "sub_definition": "to plough around; to plough an already once ploughed field"
             },
             {
@@ -49246,7 +49246,7 @@
         "definition": "to stand something upright, or practically straight leaning against something",
         "subwords": [
             {
-                "subword": "*siduṕ-biur",
+                "subword": "*siduṕ-biwr",
                 "sub_definition": "to so make stand up on all sides (e.g. leafy branches around a place where a hunter wants to conceal himself)"
             },
             {
@@ -50912,7 +50912,7 @@
         "definition": "the marking-nut tree (Hindi bhelua) Semecarpusanacardium, L. Anacardiaceae, Β.51/5, H.51/5/1; the oil which is pressed from its fruit; to apply this oil",
         "subwords": [
             {
-                "subword": "*soso-biur",
+                "subword": "*soso-biwr",
                 "sub_definition": "to put a pasty oil pressed from the fruit of the soso tree around e.g. a tree to prevent ants from climbing up"
             },
             {
@@ -52522,7 +52522,7 @@
                 "sub_definition": "to hit so as to overturn or knock down"
             },
             {
-                "subword": "*tam-biur",
+                "subword": "*tam-biwr",
                 "sub_definition": "to beat about, e.g. to beat first one side and then another of a rice bandi when preparing it"
             },
             {
@@ -53493,7 +53493,7 @@
         "definition": "a tall reed-like grass prob. Apluda varia, Hack. Inc. sub -sp. mutica and aristata, Gramineae, H.139/81/1",
         "subwords": [
             {
-                "subword": "*ṭaṭi-biur",
+                "subword": "*ṭaṭi-biwr",
                 "sub_definition": "to enclose by planting ṭaṭi reeds or some such sapplings or branches paṭi dumbu same as ṭaṭi"
             },
             {
@@ -53698,7 +53698,7 @@
     {
         "word": "tayur",
         "fone": "TAYUR",
-        "definition": "poetic parallel of biur, to wind about"
+        "definition": "poetic parallel of biwr, to wind about"
     },
     {
         "word": "te",
@@ -54984,7 +54984,7 @@
                 "sub_definition": "having reached a place to stand there (e.g. of those awaiting game to be driven toward them in a hunt, to 'cover' the area)"
             },
             {
-                "subword": "*tingu-biur",
+                "subword": "*tingu-biwr",
                 "sub_definition": "to stand around (some person, thing or place)"
             },
             {
@@ -56315,8 +56315,8 @@
                 "sub_definition": "the iron ring around the bottom of a husking pole (sambe alone also used for this); a sound made by the obor bird (the Indian Cuckoo)"
             },
             {
-                "subword": "*tukute biur-nam",
-                "sub_definition": "see jarom tukute biur nam"
+                "subword": "*tukute biwr-nam",
+                "sub_definition": "see jarom tukute biwr nam"
             },
             {
                 "subword": "*bar-tuku",
@@ -56386,7 +56386,7 @@
                 "sub_definition": "to lift out of the way"
             },
             {
-                "subword": "*tul-biur",
+                "subword": "*tul-biwr",
                 "sub_definition": "to carry around (used of carrying the corpse of a dead person counterclockwise an uneven number of times, usually seven, around a grave in which it is to be buried)"
             },
             {
@@ -57226,7 +57226,7 @@
         "definition": "to show, reveal",
         "subwords": [
             {
-                "subword": "*uduṕ-biur",
+                "subword": "*uduṕ-biwr",
                 "sub_definition": "to reveal all around"
             },
             {
