@@ -198,7 +198,7 @@
     {
         "word": "-p-",
         "fone": "P",
-        "definition": "The reciprocal infix (the reciprocal of any verb can be formed by infixing the reciprocal marker -p- after the first vowel of a verb root and then repeating that vowel after the -p-. If this first vowel is long, it retains its long quality only after the -p- infix (Les. 23); a -p- infix is also used in a few superlatives, e.g. máparaṅ, hupuḍiń, jipiliń; also a -p- infix is used in a few terms implying relationship, e.g. eperate, 'his wife', hopon, sepēt́ (prob. from sēt́ as in hon sēt́)"
+        "definition": "The reciprocal infix (the reciprocal of any verb can be formed by infixing the reciprocal marker -p- after the first vowel of a verb root and then repeating that vowel after the -p-. If this first vowel is long, it retains its long quality only after the -p- infix (Les. 23); a -p- infix is also used in a few superlatives, e.g. máparaṅ, hupuḍiń, jipiliń; also a -p- infix is used in a few terms implying relationship, e.g. eperate, 'his wife', hopon, sepeet́ (prob. from sēt́ as in hon sēt́)"
     },
     {
         "word": "-paa",
@@ -3174,7 +3174,7 @@
         ]
     },
     {
-        "word": "baguru",
+        "word": "baguḍu",
         "fone": "BAGURU, BAGURU",
         "definition": "to finish celebrating some feast (i.e. stop dancing, etc., after celebrating it for 3 days."
     },
@@ -3633,10 +3633,10 @@
     {
         "word": "baleć",
         "fone": "BALEC, BALQ",
-        "definition": "young; early; fresh, tender (in some cases the check of this word is dropped, see usages given below); infancy, e.g. balećre, 'in infancy' (for which balećyakanre can also be used), baleć (or balećmai) is sometimes used as the nickname of a girl; pass. verb, to become fresh or tender; of fresh flesh, to form again after a wound has healed, jilu baleć yakana, 'flesh has formed freshly' (after a wound).",
+        "definition": "young; early; fresh, tender (in some cases the check of this word is dropped, see usages given below); infancy, e.g. baleć re, 'in infancy' (for which baleć akan re can also be used), baleć (or baleć mai) is sometimes used as the nickname of a girl; pass. verb, to become fresh or tender; of fresh flesh, to form again after a wound has healed, jilu baleć akana, 'flesh has formed freshly' (after a wound).",
         "subwords": [
             {
-                "subword": "*bale hapanum",
+                "subword": "*baleć hapanum",
                 "sub_definition": "a girl in early adolescence (13-16 yrs. old)."
             },
             {
@@ -3644,7 +3644,7 @@
                 "sub_definition": "tender freshly blossomed leaves."
             },
             {
-                "subword": "*bale sepeet́",
+                "subword": "*baleć sepeet́",
                 "sub_definition": "a boy in early adolescence (13-16 years old)."
             },
             {
@@ -4256,7 +4256,7 @@
                 "sub_definition": "two houses; for a woman to be the wife of a man who has two wives (even if there are not two separate houses), used in such expressions as bar Oaḱte menaḱya, 'she is the wife of a man who has two wives')."
             },
             {
-                "subword": "*barpa chadchomanić",
+                "subword": "*barpaa chat́chomanić",
                 "sub_definition": "an elephant ('one having a tail on both ends' said in jest)."
             },
             {
@@ -4285,18 +4285,18 @@
         ]
     },
     {
-        "word": "bar",
+        "word": "bár",
         "fone": "BAR, BAR",
         "definition": "verbal affix of some action (expressed in the first root), to take place in great numbers at the same time, e.g. of numerous fruits ripening at the same time (mata-bar), of numerous people harvesting at the same time (ir-bar), with the root ham (old man) it means to be in ripe old age."
     },
     {
-        "word": "bar",
+        "word": "bahr",
         "fone": "BAR, BAR",
         "definition": "outside; to put outside.",
         "subwords": [
             {
-                "subword": "*bar-pa",
-                "sub_definition": "outside; a bowel movement (bir-pā is also used for this), to have a bowel movement."
+                "subword": "*bahr-pa",
+                "sub_definition": "outside; a bowel movement (bir-paa is also used for this), to have a bowel movement."
             }
         ]
     },
@@ -5327,9 +5327,9 @@
         ]
     },
     {
-        "word": "bet́",
+        "word": "bét́",
         "fone": "BET, BET",
-        "definition": "the cry of a goat or sheep (see also bered).",
+        "definition": "the cry of a goat or sheep (see also beṛet́).",
         "subwords": [
             {
                 "subword": "*bet́-bet́",
@@ -5658,9 +5658,9 @@
         ]
     },
     {
-        "word": "bindi",
+        "word": "Bindi Êra",
         "fone": "BINDI, BINDI",
-        "definition": "era poetic parallel of nage era, q.v."
+        "definition": "poetic parallel of nage era, q.v."
     },
     {
         "word": "bindi",
@@ -6537,7 +6537,7 @@
                 "sub_definition": "to call into by some rite of divining, e.g. a spirit who does not otherwise enter when called at the time of a kea-ader ceremony."
             },
             {
-                "subword": "*bonga bet",
+                "subword": "*bonga bẽ́t",
                 "sub_definition": "same as bonga danda."
             },
             {
@@ -6549,11 +6549,11 @@
                 "sub_definition": "a generic term for traditional sacrifices to the spirits."
             },
             {
-                "subword": "*bonga dandaḱ",
+                "subword": "*bonga danḍaḱ",
                 "sub_definition": "the bamboo staff used by one who goes into a trance for the purposes of divining emoa."
             },
             {
-                "subword": "*bonga dian",
+                "subword": "*bonga ḍiaṅ",
                 "sub_definition": "rice beer made for sacrificial offerings, which is therefore considered sacred and can only be drunk by certain people."
             },
             {
@@ -6569,7 +6569,7 @@
                 "sub_definition": "to kill some animal for sacrificial purposes."
             },
             {
-                "subword": "*bonga hōko",
+                "subword": "*bonga hoo ko",
                 "sub_definition": "people who offer sacrifices (referring esp. to the diuri who performs the sacrifice but also to those who call upon him to do so)."
             },
             {
@@ -6577,7 +6577,7 @@
                 "sub_definition": "the Milky Way."
             },
             {
-                "subword": "*bonga jit́",
+                "subword": "*bonga jivt́",
                 "sub_definition": "by a sacrifice to preserve the life of a man apparently dying."
             },
             {
@@ -6601,7 +6601,7 @@
                 "sub_definition": "to find out (e.g. what spirit is afflicting someone and what must be offered to that spirit) by sacrificial processes or by divining, e.g. haṭaḱ gosoḱ."
             },
             {
-                "subword": "*bonga-ondon",
+                "subword": "*bonga-onḍon",
                 "sub_definition": "to drive out a spirit."
             },
             {
@@ -6621,7 +6621,7 @@
                 "sub_definition": "the magea spirits who look after (gupi) the animals of the jungle. Hunters offer them ganja or pika to dull their brains, so that the hunt may succeed on."
             },
             {
-                "subword": "*bonga tore",
+                "subword": "*bonga toṭe",
                 "sub_definition": "a falling star (as though spirits are shooting arrows at one another). There is a belief that the spirit indwelling Singa-so Buru, about 10-15 miles S.E. of Chaibasa, fired an arrow and burned Chari Buru, near Khuntpani."
             },
             {
@@ -6629,7 +6629,7 @@
                 "sub_definition": "same as bonga tore."
             },
             {
-                "subword": "*bonga-umā",
+                "subword": "*bonga-umá",
                 "sub_definition": "to divine using a winnowing basket."
             },
             {
@@ -6800,7 +6800,7 @@
                 "sub_definition": "to scare causing to run about in panic."
             },
             {
-                "subword": "*boro-gojen",
+                "subword": "*boro-goćenn",
                 "sub_definition": "to 'die' of fright, i.e. to be very much frightened (refl. form)."
             },
             {
@@ -6858,7 +6858,7 @@
     {
         "word": "boroć",
         "fone": "BOROC, BORO",
-        "definition": "of dian, to turn bad because of the heat; of men, to become sick because of the heat."
+        "definition": "of Ḍiaṅ, to turn bad because of the heat; of men, to become sick because of the heat."
     },
     {
         "word": "boroḱ",
@@ -17683,9 +17683,9 @@
         "definition": "pointed; a pointed stick used for beating down paddy when putting it in a bandi; to make pointed."
     },
     {
-        "word": "gojen",
+        "word": "goćenn",
         "fone": "GOJEN, GOJQN",
-        "definition": "to commit suicide (refl. form of goć, the form goezen is also used)."
+        "definition": "to commit suicide (refl. form of goć."
     },
     {
         "word": "gojla, gojola",
@@ -17786,9 +17786,9 @@
         "definition": "a round ball-like growth in the stomach (at least so conceived)."
     },
     {
-        "word": "golanchi",
+        "word": "Golanchi Daru",
         "fone": "GOLANCHI, GOLQNCI",
-        "definition": "daru a small tree with large scented flowers, Plumeria acutifolia, Poir., Apocynaceae, E.Μ., Β.89/9, H.89/ 5/1.",
+        "definition": "a small tree with large scented flowers, Plumeria acutifolia, Poir., Apocynaceae, E.Μ., Β.89/9, H.89/ 5/1.",
         "subwords": [
             {
                 "subword": "*golanchi ba",
@@ -17983,7 +17983,7 @@
     {
         "word": "gopa",
         "fone": "GOPA, GOPQ",
-        "definition": "whole, complete; in all directions; of branches of a tree, thick; of the body of a man, animal, etc., to become fully formed; of something to be complete (none omitted, e.g the amount of dian agreed upon for a marriage); the thick trunk of a tree (as distinct from the branches); when referring to rice-beer goṭate means 'unstrained' (i.e. with goṭa maya) as distinct from chalate, 'strained'."
+        "definition": "whole, complete; in all directions; of branches of a tree, thick; of the body of a man, animal, etc., to become fully formed; of something to be complete (none omitted, e.g the amount of Ḍiaṅ agreed upon for a marriage); the thick trunk of a tree (as distinct from the branches); when referring to rice-beer goṭate means 'unstrained' (i.e. with goṭa maya) as distinct from chalate, 'strained'."
     },
     {
         "word": "gopoć",
@@ -18526,7 +18526,7 @@
     {
         "word": "gungu",
         "fone": "GUNGU, GUNU",
-        "definition": "a rain protector made of riin leaves worn over the head and body like a bag slit down the side, leaving the front open for work (esp. useful in transplanting and weeding work) (same as chuktt. Around Chaibasa the word chuki is more used)."
+        "definition": "a rain protector made of riin leaves worn over the head and body like a bag slit down the side, leaving the front open for work (esp. useful in transplanting and weeding work) (same as chuktt. Around Chaibasa the word chukuu is more used)."
     },
     {
         "word": "gungu",
@@ -20994,7 +20994,12 @@
     {
         "word": "hepet́",
         "fone": "HEPET, HEPQT",
-        "definition": "to mate, to copulate (recip. of hed, q.v. mage kaji) her - to sow; to sprinkle something dry e.g. powder on a wound",
+        "definition": "to mate, to copulate (recip. of hed, q.v. mage kaji)"
+    },
+    {
+        "word": "her",
+        "fone": "HER",
+        "definition": "to sow; to sprinkle something dry e.g. powder on a wound",
         "subwords": [
             {
                 "subword": "*her-biwr",
@@ -22126,7 +22131,7 @@
         "definition": "a tortoise, turtle",
         "subwords": [
             {
-                "subword": "*horo-beyadi",
+                "subword": "*horo-beadi",
                 "sub_definition": "a sickness in which the stomach swells up"
             },
             {
@@ -22456,7 +22461,7 @@
         "definition": "an interjection rejecting something as of little consequence"
     },
     {
-        "word": "hũ-hũ",
+        "word": "hṹ-hṹ",
         "fone": "HU",
         "definition": "the sound made by big owls"
     },
@@ -22488,7 +22493,7 @@
     {
         "word": "huaḱ",
         "fone": "HUAK, HUQ",
-        "definition": "to bite; with karkad as obj. to brush one's teeth (an expression used in jest, refers to biting into the karkad to make it soft)",
+        "definition": "to bite; with karkat́ as obj. to brush one's teeth (an expression used in jest, refers to biting into the karkat́ to make it soft)",
         "subwords": [
             {
                 "subword": "*huaḱ-banḍić",
@@ -22707,24 +22712,19 @@
         "definition": "to snore"
     },
     {
-        "word": "hukum",
-        "fone": "HUKUM",
-        "definition": "a command; to com- mand"
-    },
-    {
         "word": "hulsuṕ",
         "fone": "HULSUP",
         "definition": "of a bush, having numerous branches stretching out in all directions (cf. jaldub of large branches of big trees thus spread)"
     },
     {
-        "word": "hulum-gusuć, gusui",
+        "word": "hulum-gusuć/gusui",
         "fone": "HULUM",
         "definition": "of e.g. the fine hairs of the mindi chidu, of the pods of the itika vine, of the fine hairs of a squirrel (tl), to be short, soft and thick"
     },
     {
-        "word": "hulum-gusuć, gusui",
+        "word": "káka/kaká-rambat́",
         "fone": "HULUM",
-        "definition": "same as kaka rambat́ kaka/kaka rambat́ (ear, aay wg) -the praying mantis; in some places this is used for a large jungle lizard whose bite is believed to be poisonous"
+        "definition": "the praying mantis; in some places this is used for a large jungle lizard whose bite is believed to be poisonous"
     },
     {
         "word": "hum-dan",
@@ -22732,7 +22732,7 @@
         "definition": "an incense offering (htim = hóm, q.v.)"
     },
     {
-        "word": "huma",
+        "word": "húma",
         "fone": "HUMA, HUMQ",
         "definition": "to throw (same as hudma, hurla)"
     },
@@ -26827,8 +26827,8 @@
         "definition": "the two lower ends of a triangular shaped arrow-head"
     },
     {
-        "word": "ka-tapaḱ tan",
-        "fone": "KA",
+        "word": "kú-tapaḱ tan",
+        "fone": "KU",
         "definition": "to do some work with very strenuous exertion and in excited haste (with verb paeṭi, etc.) |"
     },
     {
@@ -27183,7 +27183,7 @@
                 "sub_definition": "to promise; a promise ."
             },
             {
-                "subword": "*kaji-kaṭaw",
+                "subword": "*kaji-kaṭao",
                 "sub_definition": "to contradict or refute an opinion expressed by another"
             },
             {
@@ -28014,7 +28014,7 @@
         "definition": "the twig of a tree used as a toothbrush; to brush the teeth with this .",
         "subwords": [
             {
-                "subword": "*karkad Ḍiaṅ",
+                "subword": "*karkat́ Ḍiaṅ",
                 "sub_definition": "rice beer offered to guests when they return from cleaning their teeth in the morning"
             }
         ]
@@ -28621,7 +28621,7 @@
     {
         "word": "keja",
         "fone": "KEJA, KEJQ",
-        "definition": "to count off bundles for selling, e.g. karkad, vegetables, etc.; poetic parallel of akarizi, ‘to sell’"
+        "definition": "to count off bundles for selling, e.g. karkat́, vegetables, etc.; poetic parallel of akariṅ, ‘to sell’"
     },
     {
         "word": "kelas, keliso",
@@ -29628,7 +29628,7 @@
     {
         "word": "kom-kom",
         "fone": "KOM",
-        "definition": "to have one’s mouth swollen in anger, pouting, etc. komol (eric ) -a blanket (also kombol])"
+        "definition": "to have one’s mouth swollen in anger, pouting, etc."
     },
     {
         "word": "kombo",
@@ -34143,7 +34143,7 @@
     {
         "word": "lunka tí",
         "fone": "LUNKA, LUNKQ",
-        "definition": "a hand bent back in an urrnatural position by a sprain or break (also linka, lunki tī)"
+        "definition": "a hand bent back in an urrnatural position by a sprain or break (also linka, lunki tí)"
     },
     {
         "word": "lunka tí",
@@ -37465,7 +37465,7 @@
     {
         "word": "nam",
         "fone": "NAM",
-        "definition": "to get, receive; to look for; to try; to want; note expression hasu namlya, 'sickness will get him', i.e. he will get sick; to get a chance to, e.g. inunko nameya, 'they will get a chance to play'; as verbal affix nam usually means to seek or find by the action indicated in the first root, e.g. ur-nam 'to seek or get by digging'; sometimes it means get/nam-leka to try to find in looking for (refl. form to be able to get hold of something by the action indicated in the first root (see hota:-nam; also its meaning varies with certain roots, e.g. nel-nam (get by seeing would mean 'to discover', 'to observe', ayum-nam can mean 'to hear through some indirect source'; sen nam means to go to get someone (whose whereabouts is known, not 'to go and look for someone'; jagar-nam and kaji-nam can both mean 'to try to converse with'; with some roots nam can mean 'to fin ish', e.g. mandi jom-nameme, 'finish your meal', tisińle chtt:-namkeda, today we finished taking paddy out of a ban (see also har-nam, st-nam; in the passive in terms such as jom-nam, chu:-nam, nam means 'to get as much as could be hoped for' by the action indicated in the first root",
+        "definition": "to get, receive; to look for; to try; to want; note expression hasu namića, 'sickness will get him', i.e. he will get sick; to get a chance to, e.g. inuṅkô namèa, 'they will get a chance to play'; as verbal affix nam usually means to seek or find by the action indicated in the first root, e.g. ur-nam 'to seek or get by digging'; sometimes it means get; nam-leka to try to find in looking for (refl. form to be able to get hold of something by the action indicated in the first root (see hoṭaḱ-nam; also its meaning varies with certain roots, e.g. nel-nam (get by seeing would mean 'to discover', 'to observe', ayum-nam can mean 'to hear through some indirect source'; sen nam means to go to get someone (whose whereabouts is known, not 'to go and look for someone'; jagar-nam and kaji-nam can both mean 'to try to converse with'; with some roots nam can mean 'to fin ish', e.g. manḍi jom-namè me, 'finish your meal', tisiṅgle chúḱ-nam ket́a, today we finished taking paddy out of a barn (see also har-nam, sí-nam; in the passive in terms such as jom-nam, chúḱ-nam, nam means 'to get as much as could be hoped for' by the action indicated in the first root",
         "subwords": [
             {
                 "subword": "*nam-agu",
@@ -40627,7 +40627,7 @@
     {
         "word": "papaṭet́",
         "fone": "PAPATET, PAPQTQT",
-        "definition": "The reciprocal infix (the reciprocal of any verb can be formed by infixing the reciprocal marker -p- after the first vowel of a verb root and then repeating that vowel after the -p-. If this first vowel is long, it retains its long quality only after the -p- infix (Les. 23); a -p- infix is also used in a few superlatives, e.g. máparaṅ, hupuḍiń, jipiliń; also a -p- infix is used in a few terms implying relationship, e.g. eperate, 'his wife', hopon, sepēt́ (prob. from sēt́ as in hon sēt́)"
+        "definition": "The reciprocal infix (the reciprocal of any verb can be formed by infixing the reciprocal marker -p- after the first vowel of a verb root and then repeating that vowel after the -p-. If this first vowel is long, it retains its long quality only after the -p- infix (Les. 23); a -p- infix is also used in a few superlatives, e.g. máparaṅ, hupuḍiń, jipiliń; also a -p- infix is used in a few terms implying relationship, e.g. eperate, 'his wife', hopon, sepēt́ (prob. from seet́ as in hon sēt́)"
     },
     {
         "word": "par-pir tan",
@@ -40871,7 +40871,7 @@
         ]
     },
     {
-        "word": "paṛuṕ",
+        "word": "paṭuṕ",
         "fone": "PADUP",
         "definition": "to uproot; a bullying person (an angry person who is a law unto himself)"
     },
@@ -42400,11 +42400,6 @@
         "word": "poṛe",
         "fone": "PODE, PODQ",
         "definition": "of the eye, to be white, to have a cataract"
-    },
-    {
-        "word": "porestar",
-        "fone": "PORESTAR, PORQSTQR",
-        "definition": "a forester"
     },
     {
         "word": "porka",
@@ -44055,11 +44050,6 @@
                 "sub_definition": "the same of a continued situation"
             }
         ]
-    },
-    {
-        "word": "ranjar",
-        "fone": "RANJAR, RANQR",
-        "definition": "a ranger (of the forest department)"
     },
     {
         "word": "ranjet́",
@@ -49269,11 +49259,6 @@
         "definition": "same as segel-begel, q.v."
     },
     {
-        "word": "Sigiríṭ",
-        "fone": "SIGIRIT",
-        "definition": "a cigarette"
-    },
-    {
         "word": "Sigit́",
         "fone": "SIGIT",
         "definition": "a white slate-like stone"
@@ -51339,11 +51324,6 @@
         "definition": "tobacco; to smoke, to give off smoke (Les. 26) (In Ho sukul is usually used for tobacco, and moḱ is used for smoke)"
     },
     {
-        "word": "sukurbar",
-        "fone": "SUKURBAR, SUKURBQR",
-        "definition": "Friday"
-    },
-    {
         "word": "sukuri",
         "fone": "SUKURI",
         "definition": "a pig",
@@ -53218,12 +53198,12 @@
         ]
     },
     {
-        "word": "ṭara e",
+        "word": "ṭara",
         "fone": "TARA, TARQ",
-        "definition": "bald (same as chaṛa)",
+        "definition": "bald (same as chaḍa)",
         "subwords": [
             {
-                "subword": "*tara boḱ",
+                "subword": "*ṭara bohḱ",
                 "sub_definition": "bald headed"
             }
         ]
@@ -55703,7 +55683,7 @@
     {
         "word": "ṭongaḱ",
         "fone": "TONGAK, TONQ",
-        "definition": "a hollow piece of jungle bamboo usually from one joint (uṭi) to the next, used for stor- ing birdlime, also used to blow through in fanning a fire",
+        "definition": "a hollow piece of jungle bamboo usually from one joint (uṭi) to the next, used for storing birdlime, also used to blow through in fanning a fire",
         "subwords": [
             {
                 "subword": "*ṭongaḱ aḱsar",

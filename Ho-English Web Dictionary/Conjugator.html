@@ -1,0 +1,184 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verb Conjugator</title>
+    <style>
+	@import url('https://singitur.github.io/hende-sadom/fonts/Noto Serif/stylesheet.css');
+  
+
+  * {
+      font-family: 'Noto Serif New' !important;
+  }
+table td, table th {
+
+          font-size: 12px;
+          line-height: 1.4;
+          padding: 2px;
+      }
+table {
+border: 1px solid;
+text-align: center;
+}
+
+main .PopularPosts {
+
+display: none;
+
+}
+
+.sidebar-container {
+
+display: none;
+
+}
+.blogger {
+
+display: none;
+
+
+
+}
+
+.centered-top {
+
+display: none;
+
+}
+    
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        select {
+            padding: 10px;
+            border-radius: 5px;
+            border: none;
+        }
+        
+        input[type="text"] {
+            width: 300px;
+            height: 30px;
+            font-size: 16px;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        
+        .result {
+            font-weight: bold;
+            color: blue;
+        }
+        .input-field {
+            display: flex;
+        }
+
+        select {
+            border: 1px solid;
+            margin: 1px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="input-field">
+
+<div class="form-group">
+    <input type="text" id="verb" placeholder="Miat́ Verb ol ayarè (e.g., nir, uć, duṕ)">
+</div>
+
+<div class="form-group">
+    <select id="stem" disabled>
+        <option value="" selected disabled>Verb Stem salaè</option>
+        <option value="">Transitive (roka Stem)</option>
+        <option value="oḱ">Middle (oḱ)</option>
+        <option value="enn">Reflexive (enn)</option>
+        <option value="-p-">Reciprocal (-p-)</option>
+    </select>
+</div>
+
+<div class="form-group">
+    <select id="aspect" disabled>
+        <option value="" selected disabled>Aspect salaè</option>
+        <option value="">General non-past</option>
+        <option value=" le">Pluperfect (le)</option>
+        <option value=" ke">Aorist (ke)</option>
+        <option value=" ea">Inchoactive (ea)</option>
+        <option value=" ta">Progressive (ta)</option>
+        <option value=" aka">Retrospective (aka)</option>
+        <option value=" a">Experential Perfective (a)</option>
+    </select>
+</div>
+
+
+<div class="form-group">
+    <select id="transitivity" disabled>
+        <option value="" selected disabled>Transitivity salaè</option>
+        <option value="t́">Past Transitive (t́)</option>
+        <option value="n">Past Intransitive (n)</option>
+        <option value="vat́">Past Applicative (vat́)</option>
+        <option value="a">Non-past Transitive (a)</option>
+        <option value="anoḱ">Non-past Inransitive (anoḱ)</option>
+        <option value="va">Non-past Applicative (va)</option>
+    </select>
+</div>
+
+<div class="form-group">
+    <select id="object" disabled>
+        <option value="" selected disabled>Object Pronoun salaè</option>
+        <option value="iń">1.OBJ (iń)</option>
+        <option value="me">2.OBJ (me)</option>
+        <option value="ić">3.OBJ (ić)</option>
+        <option value="laṅ">1.DU.INCL.OBJ (laṅ)</option>
+        <option value="liṅ">1.DU.EXCL.OBJ (liṅ)</option>
+        <option value="ben">2.DU.OBJ (ben)</option>
+        <option value="kin">3.DU.OBJ (kin)</option>
+        <option value="bu">1.PL.INCL.OBJ (bu)</option>
+        <option value="le">1.PL.EXCL.OBJ (le)</option>
+        <option value="pe">2.PL.OBJ (pe)</option>
+        <option value="ko">3.PL.OBJ (ko)</option>
+        <option value="è">3.INAN.OBJ (è)</option>
+        <option value="">Null Object</option>
+    </select>
+</div>
+
+<div class="form-group">
+    <select id="mood" disabled>
+        <option value="" selected disabled>Mood salaè</option>
+        <option value="a">Indicative Mood (a)</option>
+        <option value="kâ">Optative Mood (kâ)</option>
+        <option value=" ">Imperative Mood</option>
+    </select>
+</div>
+
+<div class="form-group">
+    <select  id="subject" disabled>
+        <option value="" selected disabled>Subject Pronoun salaè</option>
+        <option value="ń">1.SUB (ń)</option>
+        <option value="m" id="imperativeM">2.SUB (m)</option>
+        <option value="ć">3.SUB (ć)</option>
+        <option value="laṅ">1.DU.INCL.SUB (laṅ)</option>
+        <option value="liṅ">1.DU.EXCL.SUB (liṅ)</option>
+        <option value="ben">2.DU.SUB (ben)</option>
+        <option value="kin">3.DU.SUB (kin)</option>
+        <option value="bu">1.PL.INCL.SUB (bu)</option>
+        <option value="le">1.PL.EXCL.SUB (le)</option>
+        <option value="pe">2.PL.SUB (pe)</option>
+        <option value="kô">3.PL.SUB (kô)</option>
+    </select>
+</div>
+
+</div>
+
+<div class="result" id="result"></div>
+<div class="notification" id="notice"></div>
+
+
+
+
+
+<script src ="script.js">
+</script>
+</body>
+</html>
