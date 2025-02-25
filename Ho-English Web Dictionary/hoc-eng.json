@@ -6282,7 +6282,7 @@
     {
         "word": "bohḱ",
         "fone": "BOHK, BO",
-        "definition": "head; a leader; the part of a tank, pond, etc. where the water enters; a man's height (when meas- uring the depth of water, e.g. bar bōḱ twice the height of a man); to face one's head or the head of some object, e.g. a bed, in a certain direction.",
+        "definition": "head; a leader; the part of a tank, pond, etc. where the water enters; a man's height (when measuring the depth of water, e.g. bar bohḱ twice the height of a man); to face one's head or the head of some object, e.g. a bed, in a certain direction.",
         "subwords": [
             {
                 "subword": "*bohḱ aaà",
@@ -6318,7 +6318,7 @@
             },
             {
                 "subword": "*bohḱ hataṅ",
-                "sub_definition": "the brain, also called merely hatan or atań."
+                "sub_definition": "the brain, also called merely hataṅ or atań."
             },
             {
                 "subword": "*bohḱ heeht́",
@@ -6333,7 +6333,7 @@
                 "sub_definition": "South, referring to the position of the head of a buried person. Hos bury North-Sount with the head to the South, so that the body is facing North (should it sit up), the direction from which their ancestors have come."
             },
             {
-                "subword": "*bohḱ mundu",
+                "subword": "*bohḱ munḍu",
                 "sub_definition": "reaching to the top of one's head, e.g. of the depth of water."
             },
             {
@@ -6392,8 +6392,8 @@
                 "sub_definition": "the husband of one's younger sister (as distinct from hon ara, q.v.)."
             },
             {
-                "subword": "*boko-boya",
-                "sub_definition": "children of the same parents (also undi-bōyа)."
+                "subword": "*boko-boóya",
+                "sub_definition": "children of the same parents (also undi-bóyа)."
             },
             {
                 "subword": "*boko-kui",
@@ -6402,9 +6402,9 @@
         ]
     },
     {
-        "word": "bokom",
+        "word": "bokom daru",
         "fone": "BOKOM, BOKOM",
-        "definition": "daru the Bakain or Persian Lilac tree, Melia Azedarach, L., Meliaceae, H.40/7/2, B.40/6."
+        "definition": "the Bakain or Persian Lilac tree, Melia Azedarach, L., Meliaceae, H.40/7/2, B.40/6."
     },
     {
         "word": "bokon(leka)",
@@ -6423,12 +6423,12 @@
         "definition": "a bird, the Tree Pie. This makes a sound like, bokorliań and eats silkworms."
     },
     {
-        "word": "bokoro",
+        "word": "bokoṛo",
         "fone": "BOKORO, BOKORO",
         "definition": "bearded (used only with boda, an uncastrated he-goat)."
     },
     {
-        "word": "bokoro-bokoro",
+        "word": "bokoṛo-bokoṛo",
         "fone": "BOKORO, BOKORO",
         "definition": "the sound of boiling water bubbling (when rice is being cooked, or when water alone is being boiled)."
     },
@@ -6450,7 +6450,7 @@
                 "sub_definition": "to defile by entering."
             },
             {
-                "subword": "*bolo-hapan",
+                "subword": "*bolo-hapann",
                 "sub_definition": "to enter and remain still or quiet; to enter and stay there (refl. form)."
             },
             {
@@ -6470,7 +6470,7 @@
                 "sub_definition": "to enter among: to enter into oH."
             },
             {
-                "subword": "*bolo-undi",
+                "subword": "*bolo-hunḍi",
                 "sub_definition": "to enter in large numbers."
             }
         ]
@@ -6530,7 +6530,7 @@
     {
         "word": "bonga",
         "fone": "BONGA, BONQ",
-        "definition": "a spirit; to sacrifice; (the name of a spirit to whom a sacrifice is offered usually takes the affix $ re, e.g. pundi sandi Siṅgbonga reko bongaića. 'they offer a white cock to Siṅgbonga).",
+        "definition": "a spirit; to sacrifice; (the name of a spirit to whom a sacrifice is offered usually takes the affix $ re, e.g. punḍi sanḍi Siṅgbonga reko bongaića. 'they offer a white cock to Siṅgbonga).",
         "subwords": [
             {
                 "subword": "*bonga-ader",
@@ -7805,7 +7805,7 @@
     {
         "word": "buṭi",
         "fone": "BUTI, BUTI",
-        "definition": "the navel; the hub of a wheel; the centermost part of the top of a bandi where the straw rope terminates (the central part of the base is called mundi since the laying out of the straw rope starts there); the term buṭi rauḱtana means 'the navel is becoming distended'; buṭi is sometimes used for buṭi-laiḱ, 'the umbilical cord'.",
+        "definition": "the navel; the hub of a wheel; the centermost part of the top of a bandi where the straw rope terminates (the central part of the base is called munḍi since the laying out of the straw rope starts there); the term buṭi rauḱtana means 'the navel is becoming distended'; buṭi is sometimes used for buṭi-laiḱ, 'the umbilical cord'.",
         "subwords": [
             {
                 "subword": "*buṭi gari",
@@ -9320,7 +9320,7 @@
     {
         "word": "Chelaṅ",
         "fone": "CHELANG, CELQN",
-        "definition": "a wide-necked earthen pot, smaller than a tundi and slightly smaller than a tangárt́, both of which it resembles in shape",
+        "definition": "a wide-necked earthen pot, smaller than a tunḍi and slightly smaller than a tangárt́, both of which it resembles in shape",
         "subwords": [
             {
                 "subword": "*Chelaṅ Chaṭu",
@@ -18082,6 +18082,10 @@
             {
                 "subword": "*gosari-sapa",
                 "sub_definition": "to clean by sifting out with the fingers 'gosari-undi by sifting out with the fingers to gather together."
+            },
+            {
+                "subword": "*gosari-hunḍi",
+                "sub_definition": "by sifting out with the fingers to gather together."
             }
         ]
     },
@@ -18494,7 +18498,7 @@
         ]
     },
     {
-        "word": "gundi urić",
+        "word": "gunḍi urić",
         "fone": "GUNDI, GUNDI",
         "definition": "a cow."
     },
@@ -18896,7 +18900,7 @@
     {
         "word": "gutu",
         "fone": "GUTU, GUTU",
-        "definition": "to prick, pierce e.g. with a needle; to string gutu-undi to string many together, e.g. fish."
+        "definition": "to prick, pierce e.g. with a needle; to string gutu-hunḍi to string many together, e.g. fish."
     },
     {
         "word": "guṭu",
@@ -22750,7 +22754,7 @@
     {
         "word": "hunḍi",
         "fone": "HUNDI",
-        "definition": "to gather together; as verbal affix (often shorted to undi) this can connote either A) - a gathering or B) plurality",
+        "definition": "to gather together; as verbal affix (often shorted to unḍi) this can connote either A) - a gathering or B) plurality",
         "subwords": [
             {
                 "subword": "*hunḍi-atom",
