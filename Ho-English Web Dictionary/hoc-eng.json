@@ -44738,7 +44738,7 @@
         "subwords": [
             {
                 "subword": "*reset́-reset́",
-                "sub_definition": "tightly crowded, packed closely together reset́-sohṕ to fit tightly"
+                "sub_definition": "tightly crowded, packed closely together reset́-sawṕ to fit tightly"
             }
         ]
     },
@@ -46361,7 +46361,7 @@
         "definition": "a grass with barbed seeds which get caught in the clothes, Prob. Chrysopogon acicula tus, Trin., Gramineae, E.M., H.139/ 71/1; of such barbed seeds, to be caught in one's clothes; sometimes a barbed seed of another grass such as sayit is also referred to as sagaḱ",
         "subwords": [
             {
-                "subword": "*sagaḱ saytú leka",
+                "subword": "*sagaḱ sayú leka",
                 "sub_definition": "growing close together as do the sagaḱ and Sayú grasses (used in prayers)"
             },
             {
@@ -46371,12 +46371,12 @@
         ]
     },
     {
-        "word": "sagaṛi",
+        "word": "sagaḍi",
         "fone": "SAGADI, SAGQDI",
         "definition": "the wheel of a bullock car; the cart itself",
         "subwords": [
             {
-                "subword": "*sagaṛi hãl",
+                "subword": "*sagaḍi hã́l",
                 "sub_definition": "the outer rim of a cart wheel"
             }
         ]
@@ -50288,9 +50288,9 @@
         "definition": "a civet cat"
     },
     {
-        "word": "sohṕ",
-        "fone": "SOP",
-        "definition": "to fit e.g. one thing inside another, figur to accept (fit in) someone, e.g. as member of one's family (see entry sonōb, also recip. sopōb, to get along (fit in) one with another')"
+        "word": "sawṕ",
+        "fone": "SOP, SAOP",
+        "definition": "to fit e.g. one thing inside another, figur to accept (fit in) someone, e.g. as member of one's family (see entry sanawṕ, also recip. sapawṕ, to get along (fit in) one with another') Sat. sahoṕ; Has. saoṕ; Nag. sahoṕ"
     },
     {
         "word": "soḱ",
@@ -50310,7 +50310,7 @@
     {
         "word": "soḱ",
         "fone": "SOK, SO",
-        "definition": "to fit the shaft (hīsi-danḍaḱ) of a plough or of a levelling plank (kara) into the yoke thong (nangali); to suspend an inverted plough or levelling plank from the yoke (with the shaft dragging on the ground) while on the bullock's neck (e.g. in going to or returning from the fields)"
+        "definition": "to fit the shaft (hísi-danḍaḱ) of a plough or of a levelling plank (kara) into the yoke thong (nangali); to suspend an inverted plough or levelling plank from the yoke (with the shaft dragging on the ground) while on the bullock's neck (e.g. in going to or returning from the fields)"
     },
     {
         "word": "soka",
@@ -50599,7 +50599,7 @@
         ]
     },
     {
-        "word": "sonóṕ",
+        "word": "sanawṕ",
         "fone": "SONOP",
         "definition": "a fitting into (verbal noun of sōb); figur. of a person, to fit into e.g. a family e.g. a new wife to have her place properly established in her husband's family",
         "subwords": [
