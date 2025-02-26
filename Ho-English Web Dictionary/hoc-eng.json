@@ -17532,7 +17532,7 @@
         ]
     },
     {
-        "word": "goć",
+        "word": "gonoć",
         "fone": "GOC, GO",
         "definition": "death (verbal noun of goć, 'to die'); pass. verb to havea death in one's family or village; $ to commit suicide (refl. form of goć, the form goćenn is also used).",
         "subwords": [
@@ -17545,7 +17545,7 @@
                 "sub_definition": "an omen indicating that death will occur (also called gogoć ere)."
             },
             {
-                "subword": "*gonoć-geran",
+                "subword": "*gonoć-geraṅ",
                 "sub_definition": "grief and lamentation at the death of an acquaintance."
             },
             {
@@ -17557,7 +17557,7 @@
                 "sub_definition": "in a place (a part of the body) where death could be caused, e.g. an animal wounded in some vital part of the body, e.g. gonoć taḱ reń toḱ ket́ića, 'I hit him in a vital spot' (by someone who shot an animal)."
             },
             {
-                "subword": "*gonoć-totoka",
+                "subword": "*gonoć-ṭoṭoka",
                 "sub_definition": "danger of death."
             }
         ]
@@ -17578,20 +17578,20 @@
         "definition": "to ride; to sit astride (also goṛa)."
     },
     {
-        "word": "goḍa chatom Aaḱ",
+        "word": "goḍachatom Aaḱ",
         "fone": "GODA, GODQ",
         "definition": "a small shamrock with yellow flowers, common everywhere by roadsides and in cultivated ground. Oxalis corniculata, L., Geraniaceae, B.34/ 5, H.34/3/1.",
         "subwords": [
             {
-                "subword": "*gora goch",
+                "subword": "*goḍa gach",
                 "sub_definition": "a scented bush about 1-2 ft. high, which has many medicinal usages; the common variety is green, but there are also reddish and blackish varieties."
             },
             {
-                "subword": "*gora ote",
+                "subword": "*goḍa ote",
                 "sub_definition": "an upland field."
             },
             {
-                "subword": "*gora rambaa",
+                "subword": "*goḍa rambaa",
                 "sub_definition": "a kind of rambaa green gram) growing on a creeper ( (also called gangara)"
             }
         ]
@@ -17610,7 +17610,7 @@
     {
         "word": "godla",
         "fone": "GODLA, GODLQ",
-        "definition": "an upland field (cultivable or not; if cultivated no embankments are formed); to make an upland field."
+        "definition": "an upland field (cultivable or not; if cultivated no embankments are formed); to make an upland field. $"
     },
     {
         "word": "godo-godo",
@@ -17674,7 +17674,7 @@
         "definition": "hoarse; pass. - to become hoarse."
     },
     {
-        "word": "goj, gojo",
+        "word": "gój, gójo",
         "fone": "GOJ, GOJ",
         "definition": "a yard (meas- urement, Hindi gaj)."
     },
@@ -17694,13 +17694,13 @@
         "definition": "pointed; to make pointed."
     },
     {
-        "word": "gojo-gojo (tan",
+        "word": "gojo-gojo tan",
         "fone": "GOJO, GOJO",
-        "definition": "of some long slen der object such as a javelin, to go in a straight line (with verbs of going)."
+        "definition": "of some long slender object such as a javelin, to go in a straight line (with verbs of going)."
     },
     {
-        "word": "gojoḱ",
-        "fone": "GOJOK, GOJO",
+        "word": "goćoḱ",
+        "fone": "GOCOK, GOJO",
         "definition": "to die (a pass. form of the verb goć).",
         "subwords": [
             {
