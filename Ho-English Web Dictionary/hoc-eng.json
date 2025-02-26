@@ -44483,8 +44483,8 @@
         "definition": "a woman doing coolie work (Hindi)"
     },
     {
-        "word": "reḱ",
-        "fone": "REK, RE",
+        "word": "reć",
+        "fone": "REC, RE",
         "definition": "to snatch forcibly from; to rob; to acquire some hidden knowledge through artful questions"
     },
     {
@@ -44498,12 +44498,12 @@
         "definition": "of a man, to be weak with the stomach shrunken in"
     },
     {
-        "word": "rel",
+        "word": "rél",
         "fone": "REL",
         "definition": "a railway; rail",
         "subwords": [
             {
-                "subword": "*rel-gaṛi",
+                "subword": "*rél-gaḍi",
                 "sub_definition": "a train"
             }
         ]
