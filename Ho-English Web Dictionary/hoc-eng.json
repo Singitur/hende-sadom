@@ -107,7 +107,7 @@
     {
         "word": "-ge",
         "fone": "GE, GE",
-        "definition": "an enclitic emphasizing the word to which it is affixed; the use of a root+ge+a verb-form of the same root is used with the mean- ing 'keep on' (doing the action ex- pressed in the root), e.g. jomgejomem ka nogodreyo, keep on eating even if it is not tasty'."
+        "definition": "an enclitic emphasizing the word to which it is affixed; the use of a root+ge+a verb-form of the same root is used with the mean- ing 'keep on' (doing the action ex- pressed in the root), e.g. jom ge jomè me ká nogot́ reó, keep on eating even if it is not tasty'."
     },
     {
         "word": "-geda",
@@ -4696,7 +4696,7 @@
     {
         "word": "bata",
         "fone": "BATA, BATQ",
-        "definition": "bamboos or harasae jaṭa used to reinforce thatch or to fasten jāyu, on which tiles will be put, more tightly to the seneyor (N.B. jayu is used of the thin strips of wood put across the seneyor to support the tiles or thatch)."
+        "definition": "bamboos or harasae jaṭa used to reinforce thatch or to fasten jāyu, on which tiles will be put, more tightly to the seneor (N.B. jayu is used of the thin strips of wood put across the seneor to support the tiles or thatch)."
     },
     {
         "word": "bata",
@@ -9202,7 +9202,7 @@
     {
         "word": "chayom-chayom",
         "fone": "CHAYOM, CAYOM",
-        "definition": "a sound made by sweeping (used in a riddle, seyor-seyor is more commonly used for this)"
+        "definition": "a sound made by sweeping (used in a riddle, seor-seor is more commonly used for this)"
     },
     {
         "word": "chẽ́-chẽ́ tan",
@@ -11022,9 +11022,9 @@
         "definition": "a small mouse"
     },
     {
-        "word": "Chuṭit́ Siraḱ",
+        "word": "Chuṭit́ Sirać",
         "fone": "CHUTIT, CUTIT",
-        "definition": "a name given in some places to the Liat́ Siraḱ or Danḍet́ Siraḱ, the Grey Wagtail"
+        "definition": "a name given in some places to the Liat́ Sirać or Danḍet́ Sirać, the Grey Wagtail"
     },
     {
         "word": "Chutka, Chutuka",
@@ -11438,8 +11438,8 @@
                 "sub_definition": "a chicken-like bird which frequents ponds, etc. the Little Grebe or Dabchick"
             },
             {
-                "subword": "*daḱ siraḱ",
-                "sub_definition": "the White Wagtail, also called Gaḍa siraḱ, see siraḱ"
+                "subword": "*daḱ Sirać",
+                "sub_definition": "the White Wagtail, also called Gaḍa Sirać, see Sirać"
             },
             {
                 "subword": "*daḱ sút́",
@@ -11827,8 +11827,8 @@
         "definition": "to wag e.g. the tail of a bird (also liat́-liat́)",
         "subwords": [
             {
-                "subword": "*danḍet́ siraḱ oe",
-                "sub_definition": "the Grey Wagtail, also called liat́ siraḱ, see siraḱ"
+                "subword": "*danḍet́ Sirać oe",
+                "sub_definition": "the Grey Wagtail, also called liat́ Sirać, see Sirać"
             }
         ]
     },
@@ -14961,7 +14961,7 @@
     {
         "word": "ẽeć",
         "fone": "EC, E",
-        "definition": "to extinguish a fire or a light; to erase; to make an end to; (pass. eyoḱ); of language, indistinct; to speak indistinctly; with Met́, to dazzle or temporarily blind (due to some bright light, etc.)",
+        "definition": "to extinguish a fire or a light; to erase; to make an end to; (pass. ẽećoḱ); of language, indistinct; to speak indistinctly; with Met́, to dazzle or temporarily blind (due to some bright light, etc.)",
         "subwords": [
             {
                 "subword": "*ẽeć enḍaḱ",
@@ -15817,8 +15817,8 @@
         ]
     },
     {
-        "word": "eyoṕ",
-        "fone": "EYOP",
+        "word": "ewṕ",
+        "fone": "EOP",
         "definition": "of some activity, to get into full swing"
     },
     {
@@ -15967,8 +15967,8 @@
                 "sub_definition": "a ravine in which water is running."
             },
             {
-                "subword": "*Gaḍa Siraḱ",
-                "sub_definition": "the White Wagtail (bird) also called daḱ siraḱ, ef. Siraḱ."
+                "subword": "*Gaḍa Sirać",
+                "sub_definition": "the White Wagtail (bird) also called daḱ Sirać, ef. Sirać."
             },
             {
                 "subword": "*Gaḍa Sisingi Haku",
@@ -20983,7 +20983,7 @@
         "subwords": [
             {
                 "subword": "*heor-biwr",
-                "sub_definition": "same as heyor heyor-bolo to enter pressing oneself against the entrance"
+                "sub_definition": "same as heor heor-bolo to enter pressing oneself against the entrance"
             },
             {
                 "subword": "*heor-muṭu",
@@ -32368,7 +32368,7 @@
     {
         "word": "lenget́",
         "fone": "LENGET, LENQT",
-        "definition": "to move slowly; of water, to flow slowly; of the tail of e.g. the siraḱ bird, to wave slowly",
+        "definition": "to move slowly; of water, to flow slowly; of the tail of e.g. the Sirać bird, to wave slowly",
         "subwords": [
             {
                 "subword": "*lenget́-lenget́",
@@ -32465,7 +32465,7 @@
     {
         "word": "lese-lese tan",
         "fone": "LESE, LESQ",
-        "definition": "with arms (and legs) or wings outstretched (with verb gitić, 'to lie down', etc., e.g. lese-lese taneć gitić akana or lese-leseyoḱgeć gitić akana, also used as verbal-affix with gitić and sanḍaṅ)"
+        "definition": "with arms (and legs) or wings outstretched (with verb gitić, 'to lie down', etc., e.g. lese-lese taneć gitić akana or lese-leseoḱgeć gitić akana, also used as verbal-affix with gitić and sanḍaṅ)"
     },
     {
         "word": "leser",
@@ -32552,7 +32552,7 @@
     },
     {
         "word": "leon",
-        "fone": "LEYON",
+        "fone": "LEON",
         "definition": "of branches, etc., to sway slowly; used with ekela in poetry for swaying back and forth with joy",
         "subwords": [
             {
@@ -35686,7 +35686,7 @@
     {
         "word": "mena",
         "fone": "MENA, MENQ",
-        "definition": "same as menteaḱ, (<a class='link' href='https://michaelyorke.org/wp-content/uploads/2023/08/Ho-Grammar-by-J-Deeney.pdf'  target='_blank'>Les. 35</a>)"
+        "definition": "same as menteaḱ, (Les. 35)"
     },
     {
         "word": "mena",
@@ -35736,8 +35736,8 @@
         ]
     },
     {
-        "word": "menḍeyoṅ met́",
-        "fone": "MENDEYONG, MENDQYON",
+        "word": "menḍeoṅ met́",
+        "fone": "MENDEONG, MENDQON",
         "definition": "to look at with roving eyes (keeping the head relatively still)(used in scolding, etc.)"
     },
     {
@@ -35978,7 +35978,7 @@
     },
     {
         "word": "meoṅ",
-        "fone": "MEYONG, MEYON",
+        "fone": "MEONG, MEON",
         "definition": "the mew (miaow) of a cat"
     },
     {
@@ -40011,7 +40011,7 @@
         "definition": "to chop (wood)",
         "subwords": [
             {
-                "subword": "*paaḱ-rō",
+                "subword": "*paaḱ-rooh",
                 "sub_definition": "to chop and allow to dry out (wood)"
             }
         ]
@@ -41597,8 +41597,8 @@
                 "sub_definition": "the Cattle Egret (also called punḍi koḱ)"
             },
             {
-                "subword": "*Pii Siraḱ",
-                "sub_definition": "the Siraḱ bird, the Pipit"
+                "subword": "*Pii Sirać",
+                "sub_definition": "the Sirać bird, the Pipit"
             }
         ]
     },
@@ -44619,11 +44619,11 @@
     {
         "word": "rẽo",
         "fone": "REO",
-        "definition": "see rẽyo",
+        "definition": "see rẽoo",
         "subwords": [
             {
                 "subword": "*renyo-chenyo",
-                "sub_definition": "see rẽyo-chẽyo"
+                "sub_definition": "see rẽo-chẽo"
             }
         ]
     },
@@ -44633,7 +44633,7 @@
         "definition": "the creaking sound made by someone sitting down on a karkom (rope bed); the sound made by playing a flute; any like sound",
         "subwords": [
             {
-                "subword": "*rẽyo-chẽyo",
+                "subword": "*rẽo-chẽo",
                 "sub_definition": "a repeated creaking sound e.g. of a carrying stick (már) bouncing up and down as one moves along or of a bullock car wheel which is not well oiled"
             }
         ]
@@ -44641,7 +44641,7 @@
     {
         "word": "rẽot́",
         "fone": "REOT",
-        "definition": "see rẽyot́",
+        "definition": "see rẽot́",
         "subwords": [
             {
                 "subword": "*renyot́-chenyot́",
@@ -44652,11 +44652,11 @@
     {
         "word": "rẽot́",
         "fone": "REOT",
-        "definition": "same as rẽyo, q.v.",
+        "definition": "same as rẽo, q.v.",
         "subwords": [
             {
-                "subword": "*rẽyo;-chẽyot́",
-                "sub_definition": "same as rẽyo-chẽyo"
+                "subword": "*rẽo;-chẽot́",
+                "sub_definition": "same as rẽo-chẽo"
             }
         ]
     },
@@ -44845,12 +44845,12 @@
         "definition": "of an umbrella, to be closed (cf. puṭao, to open up an umbrella)"
     },
     {
-        "word": "rĩi",
+        "word": "rĩ́",
         "fone": "RI",
         "definition": "a loan on interest (compare kaṛi to take a loan or borrow without interest)",
         "subwords": [
             {
-                "subword": "*rī-kaīi",
+                "subword": "*rĩ́-kaṛi",
                 "sub_definition": "a general term for loans"
             }
         ]
@@ -44887,8 +44887,8 @@
         "definition": "the red fleshy object (wattles) hanging below the mouth of a cock; the uvula of a man (also called lenegeć)",
         "subwords": [
             {
-                "subword": "*rilaṅ didi",
-                "sub_definition": "the Black or King Vul ture (also called bonga didi, sanḍi didi)"
+                "subword": "*Rilaṅ Didi",
+                "sub_definition": "the Black or King Vul ture (also called Bonga Didi, Sanḍi Didi)"
             }
         ]
     },
@@ -45172,7 +45172,7 @@
     {
         "word": "róg",
         "fone": "ROG",
-        "definition": "same as roga (the term rōg is sometimes used in prayers. The form roga is commonly used)"
+        "definition": "same as roga (the term róg is sometimes used in prayers. The form roga is commonly used)"
     },
     {
         "word": "roga",
@@ -45410,7 +45410,7 @@
             },
             {
                 "subword": "*rooh chaṭakam",
-                "sub_definition": "same as rō chimṭaṅ"
+                "sub_definition": "same as rooh chimṭaṅ"
             },
             {
                 "subword": "*rooh chepo",
@@ -45558,11 +45558,11 @@
         "definition": "the 'rath' (chariot) festival of Hindus",
         "subwords": [
             {
-                "subword": "*rōto chanḍuḱ",
+                "subword": "*róto chanḍuḱ",
                 "sub_definition": "the month of the 'rath' festival (late June and early July)"
             },
             {
-                "subword": "*rōto gaṛi",
+                "subword": "*róto gaḍi",
                 "sub_definition": "a chariot"
             }
         ]
@@ -48219,7 +48219,7 @@
         ]
     },
     {
-        "word": "se-domchor Oe",
+        "word": "sé-domchor Oe",
         "fone": "SE",
         "definition": "a name given in some places to the Hoopee bird, also called domchor or dochot́ dumbi oe"
     },
@@ -48229,15 +48229,15 @@
         "definition": "wisdom; wise; grown up, mature wisdom and",
         "subwords": [
             {
-                "subword": "*Sẽya-Budi",
+                "subword": "*Sẽa-Budi",
                 "sub_definition": "knowledge"
             },
             {
-                "subword": "*Sẽya-sagom",
+                "subword": "*Sẽa-sagom",
                 "sub_definition": "wise; wisdom; (wise and orderly)"
             },
             {
-                "subword": "*Sẽya-Somjao",
+                "subword": "*Sẽa-Somjao",
                 "sub_definition": "wise; wisdom"
             }
         ]
@@ -48875,7 +48875,7 @@
     {
         "word": "séṛa",
         "fone": "SEDA, SEDQ",
-        "definition": "poetic form of sẽya, wise, wisdom"
+        "definition": "poetic form of sẽa, wise, wisdom"
     },
     {
         "word": "seṛe-beṛe",
@@ -50364,7 +50364,7 @@
             },
             {
                 "subword": "*sokoć pukuri Bonga",
-                "sub_definition": "a spirit, also called serengsia gaṭi bonga, believed to be from Serengsia Ghat and considered to be power and causing much harm. It is believed to come flying, sometimes making the keyoḱ-keyoḱ cry (of a chicken) or an ẽot́-ẽot́ cry (of a frog)"
+                "sub_definition": "a spirit, also called serengsia gaṭi bonga, believed to be from Serengsia Ghat and considered to be power and causing much harm. It is believed to come flying, sometimes making the keoḱ-keoḱ cry (of a chicken) or an ẽot́-ẽot́ cry (of a frog)"
             }
         ]
     },
@@ -54111,7 +54111,7 @@
         "subwords": [
             {
                 "subword": "*ṭẽoḱ kula",
-                "sub_definition": "same as ṭẽyoḱ, a wolf"
+                "sub_definition": "same as ṭẽoḱ, a wolf"
             }
         ]
     },
@@ -54894,9 +54894,9 @@
         ]
     },
     {
-        "word": "Ṭiń Siraḱ Oe",
+        "word": "Ṭiń Sirać Oe",
         "fone": "TINJ, TIN",
-        "definition": "a bird of the siraḱ family, smaller than the Gaḍa siraḱ, makes a ṭin-ṭiń sound, found in flocks, esp. in mango trees (prob. same as siń siraḱ oe, q.v.)"
+        "definition": "a bird of the Sirać family, smaller than the Gaḍa Sirać, makes a ṭin-ṭiń sound, found in flocks, esp. in mango trees (prob. same as siń Sirać oe, q.v.)"
     },
     {
         "word": "tinḍim",
@@ -54911,22 +54911,22 @@
     {
         "word": "tiṅg-honḍoć",
         "fone": "TING, TIN",
-        "definition": "to boil paddy to the point where water is poured off prior to husking. The sequence of actions here would beć 1) tiń honḍoć, 2) tenḍaḱ, 3) tiń-sá, 4) tasi- rō, 5) ruṅ",
+        "definition": "to boil paddy to the point where water is poured off prior to husking. The sequence of actions here would beć 1) tiṅg honḍoć, 2) tenḍaḱ, 3) tiṅg-sá, 4) tasi- rooh, 5) ruṅ",
         "subwords": [
             {
-                "subword": "*tiń-isin",
+                "subword": "*tiṅg-isin",
                 "sub_definition": "to make a fire and cook something"
             },
             {
-                "subword": "*tiń-sá",
+                "subword": "*tiṅg-sá",
                 "sub_definition": "to put e.g. paddy being boiled for husking back on the fire after pouring off water"
             },
             {
-                "subword": "*tiń-saṕ",
+                "subword": "*tiṅg-saṕ",
                 "sub_definition": "to light a fire by first igniting some combustible material such as straw"
             },
             {
-                "subword": "*tiń-uraa",
+                "subword": "*tiṅg-uraa",
                 "sub_definition": "to rekindle a fire which has gone out"
             }
         ]
@@ -55577,7 +55577,7 @@
             },
             {
                 "subword": "*tol-keṭeć",
-                "sub_definition": "to tie tightly tol-keset́ to tie so as to block off, e.g. to blindfold the eyes; to enclose inside a cocoon tol-konja to tie fast two pieces of wood (e.g. of a seneyor) at a joint"
+                "sub_definition": "to tie tightly tol-keset́ to tie so as to block off, e.g. to blindfold the eyes; to enclose inside a cocoon tol-konja to tie fast two pieces of wood (e.g. of a seneor) at a joint"
             },
             {
                 "subword": "*tol-para-paṭu/para-puṭu/paṭa-puṭu",
@@ -58364,7 +58364,318 @@
         "subwords": [
             {
                 "subword": "*uyú hasu",
-                "sub_definition": "malaria (also uruyu hasu)."
+                "sub_definition": "malaria (also uruyu hasu). (Chanabaaḱ Kajihon)"
+            }
+        ]
+    },
+    {
+        "word": "sert́sit́",
+        "fone": "SER",
+        "definition": "to destroy [NEO]",
+        "subwords": [
+            {
+                "subword": "*Sert́sipit́",
+                "sub_definition": "destruction."
+            }
+        ]
+    },
+    {
+        "word": "Manjivt́",
+        "fone": "MAN",
+        "definition": "bio. microorganisms [NEO]"
+    },
+    {
+        "word": "Nelmansanaṕ",
+        "fone": "NEL",
+        "definition": "a microscope [NEO]"
+    },
+    {
+        "word": "Heneorsah",
+        "fone": "HENEOR",
+        "definition": "environment [NEO]"
+    },
+    {
+        "word": "asitiṅ",
+        "fone": "ASI",
+        "definition": "to require, to demand; a requirement, a demand [NEO]"
+    },
+    {
+        "word": "Ruahasu",
+        "fone": "RUA",
+        "definition": "disease [NEO]"
+    },
+    {
+        "word": "Okoamea, Jivt́okoamea",
+        "fone": "OKOA",
+        "definition": "bio. nucleus of a cell. [NEO]"
+    },
+    {
+        "word": "haratersa",
+        "fone": "HARA",
+        "definition": "to evolve. [NEO]",
+        "subwords": [
+            {
+                "subword": "*Haratenersa",
+                "sub_definition": "evolution."
+            }
+        ]
+    },
+    {
+        "word": "agujoṅ",
+        "fone": "AGU",
+        "definition": "to use, to utilise. [NEO]",
+        "subwords": [
+            {
+                "subword": "*Agujonoṅ",
+                "sub_definition": "utilisation, usage."
+            }
+        ]
+    },
+    {
+        "word": "Otechuṭiàṭal",
+        "fone": "OTE",
+        "definition": "geo. Earth's crust. [NEO]"
+    },
+    {
+        "word": "raarasum",
+        "fone": "RA",
+        "definition": "to break down. [NEO]"
+    },
+    {
+        "word": "raaréń",
+        "fone": "RA",
+        "definition": "to adjust. [NEO]",
+        "subwords": [
+            {
+                "subword": "*Raarenéń",
+                "sub_definition": "settings, adjustments."
+            }
+        ]
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "haṭiṅbara",
+        "fone": "HATING, HATIN",
+        "definition": "to catagorise. [NEO]"
+    },
+    {
+        "word": "urumsapaniṅ",
+        "fone": "URUM",
+        "definition": "to distinguish. [NEO]"
+    },
+    {
+        "word": "emàder",
+        "fone": "EM",
+        "definition": "to give input. [NEO]",
+        "subwords": [
+            {
+                "subword": "*Emànader",
+                "sub_definition": "input."
+            }
+        ]
+    },
+    {
+        "word": "Singichirmat́",
+        "fone": "SINGI",
+        "definition": "geo. the tropics. [NEO]"
+    },
+    {
+        "word": "Utusanga",
+        "fone": "UTU",
+        "definition": "a potato. [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Otesai",
+        "fone": "OTE",
+        "definition": "the world [NEO]"
+    },
+    {
+        "word": "Satagom",
+        "fone": "SATAGOM",
+        "definition": "a book. [NEO]"
+    },
+    {
+        "word": "Raánpai",
+        "fone": "RANU",
+        "definition": "a hospital. [NEO]"
+    },
+    {
+        "word": "Sepentapae",
+        "fone": "SEPEN",
+        "definition": "behaviour. [NEO]"
+    },
+    {
+        "word": "Nelsẽa",
+        "fone": "NEL",
+        "definition": "experience. [NEO]"
+    },
+    {
+        "word": "Egerrupú",
+        "fone": "EGER",
+        "definition": "abuse. [NEO]"
+    },
+    {
+        "word": "Nenelmet́kanatai",
+        "fone": "NEL, NENEL",
+        "definition": "eyewitness account. [NEO]"
+    },
+    {
+        "word": "umásamaṅ",
+        "fone": "UMA",
+        "definition": "to compare with respect to something; adv. relative [NEO]"
+    },
+    {
+        "word": "Toroćgama",
+        "fone": "TOROC, TOROQ",
+        "definition": "ashfall [NEO]"
+    },
+    {
+        "word": "Otedokol",
+        "fone": "OTE",
+        "definition": "earthquake [NEO]"
+    },
+    {
+        "word": "Hasahandii",
+        "fone": "HASA",
+        "definition": "landslide [NEO]"
+    },
+    {
+        "word": "kilisangi",
+        "fone": "KILI",
+        "definition": "various [NEO]"
+    },
+    {
+        "word": "osarhataṅ",
+        "fone": "OSAR",
+        "definition": "adj. intelligent [NEO]"
+    },
+    {
+        "word": "gaán",
+        "fone": "GAN",
+        "definition": "adj. effective [NEO]"
+    },
+    {
+        "word": "lavrtí",
+        "fone": "LAR",
+        "definition": "adj. simple [NEO]"
+    },
+    {
+        "word": "Isinbasaṅ",
+        "fone": "ISIN",
+        "definition": "cooking, cousine [NEO]"
+    },
+    {
+        "word": "Urumsẽa",
+        "fone": "URUM",
+        "definition": "education [NEO]"
+    },
+    {
+        "word": "Ayumchirgal",
+        "fone": "AYUM",
+        "definition": "information [NEO]"
+    },
+    {
+        "word": "Etochanal",
+        "fone": "ETO",
+        "definition": "culture [NEO]"
+    },
+    {
+        "word": "àchika",
+        "fone": "ACHIKA, ACHIKQ",
+        "definition": "to implement [NEO]"
+    },
+    {
+        "word": "àtersa",
+        "fone": "ATERSA",
+        "definition": "to promote [NEO]"
+    },
+    {
+        "word": "gonoṅsama",
+        "fone": "GONONG, GONON",
+        "definition": "free of cost [NEO]"
+    },
+    {
+        "word": "ànam",
+        "fone": "ANAM",
+        "definition": "to provide [NEO]"
+    },
+    {
+        "word": "tingudarom",
+        "fone": "TINGU",
+        "definition": "to resist [NEO]"
+    },
+    {
+        "word": "Jivt́okoa",
+        "fone": "JIT",
+        "definition": "bio. a living cell [NEO]"
+    },
+    {
+        "word": "Siṅjivt́",
+        "fone": "SING, SIN",
+        "definition": "bio. plants [NEO]"
+    },
+    {
+        "word": "Sepenjivt́",
+        "fone": "SEPEN",
+        "definition": "bio. animals [NEO]"
+    },
+    {
+        "word": "Birjivt́",
+        "fone": "Bir",
+        "definition": "animal [NEO]"
+    },
+    {
+        "word": "osarsangin",
+        "fone": "OSAR",
+        "definition": "widespread [NEO]"
+    },
+    {
+        "word": "Namsaṅ",
+        "fone": "SER",
+        "definition": "source [NEO]"
+    },
+    {
+        "word": "peećpereć",
+        "fone": "PE",
+        "definition": "powerful [NEO]"
+    },
+    {
+        "word": "Sengelburu",
+        "fone": "SENGELBURU",
+        "definition": "a volcano. [NEO]",
+        "subwords": [
+            {
+                "subword": "*Sengelburu Chonoń",
+                "sub_definition": "volcanic eruption."
             }
         ]
     }
