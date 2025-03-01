@@ -23994,7 +23994,7 @@
                 "sub_definition": "to spend some time conversing"
             },
             {
-                "subword": "*jagar-ichin",
+                "subword": "*jagar-ichinn",
                 "sub_definition": "to allow others to converse with one (refl. form)"
             },
             {
@@ -24060,7 +24060,7 @@
                 "sub_definition": "someone or other"
             },
             {
-                "subword": "*jahćaḱć",
+                "subword": "*jahćaḱ",
                 "sub_definition": "something animate (e.g. an animal) belonging to anyone"
             }
         ]
@@ -24929,7 +24929,7 @@
         "subwords": [
             {
                 "subword": "*Jayer Buḍi",
-                "sub_definition": "a very important ancient spirit venerated on all feasts, esp. ba and mage. Just as baba enga can be considered the primordial paddy seed, so jayer buy1 can be considered the primordial mother of the Ho and kindred tribes. Desauli is considered to be her husband"
+                "sub_definition": "a very important ancient spirit venerated on all feasts, esp. Bah and Mage. Just as baba enga can be considered the primordial paddy seed, so jayer buy1 can be considered the primordial mother of the Ho and kindred tribes. Desauli is considered to be her husband"
             },
             {
                 "subword": "*Jayer Buḍi Hon",
@@ -24994,11 +24994,6 @@
         "word": "jejeń-jejeń",
         "fone": "JEJENJ, JEJQN",
         "definition": "a cry of a young myna bird (Rami Oe)"
-    },
-    {
-        "word": "Jẽ́l",
-        "fone": "JEL",
-        "definition": "jail, to put into jail"
     },
     {
         "word": "jembet́",
@@ -27083,11 +27078,7 @@
         "definition": "to say, speak, language; matter; word (Les. 35); used with dir. animate obj. meaning ‘to rebuke’, ‘to scold’ (perhaps close to the colloquial English expression ‘to tell someone off ’)",
         "subwords": [
             {
-                "subword": "*kaji-anayer",
-                "sub_definition": "prophecy (verbal noun of kaji-ayer)"
-            },
-            {
-                "subword": "*kajl-angara",
+                "subword": "*kaji-angara",
                 "sub_definition": "to say (e.g. a prayer) in the evening in anticipation or preparation for some action of the next day, e.g. a sacrificial offering to be made"
             },
             {
@@ -27097,10 +27088,6 @@
             {
                 "subword": "*kaji-ayer",
                 "sub_definition": "to tell beforehand; to prophesy"
-            },
-            {
-                "subword": "*kaji-aáyernić",
-                "sub_definition": "a prophet"
             },
             {
                 "subword": "*kaji-bai",
@@ -27131,7 +27118,7 @@
                 "sub_definition": "to verbally harass"
             },
             {
-                "subword": "*kaji-chetaw",
+                "subword": "*kaji-chetao",
                 "sub_definition": "to warn (see chetaw) a."
             },
             {
@@ -27171,11 +27158,11 @@
                 "sub_definition": "to express hatred (of someone); when the hatred is against God, to blaspheme"
             },
             {
-                "subword": "*kaji-juṛi",
+                "subword": "*kaji-juḍi",
                 "sub_definition": "to include someone or something in a category about which one is speaking; a saying"
             },
             {
-                "subword": "*kaji-juṛi-kaji",
+                "subword": "*kaji-juḍi-kaji",
                 "sub_definition": "words which are aptly joined together; a proverb"
             },
             {
@@ -27243,11 +27230,11 @@
                 "sub_definition": "to strengthen, encourage (someone) by one’s words"
             },
             {
-                "subword": "*kaji-putaṕ",
+                "subword": "*kaji-puṭaṕ",
                 "sub_definition": "to put up some matter for discussion"
             },
             {
-                "subword": "*kaji-ráe/ráy",
+                "subword": "*kaji-ráe",
                 "sub_definition": "to give advice, advise"
             },
             {
