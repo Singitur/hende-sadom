@@ -2444,7 +2444,7 @@
     {
         "word": "Atart́",
         "fone": "ATAR, ATQR",
-        "definition": "artificial nest made of broken Chaṭu for chicken laying egg $$"
+        "definition": "artificial nest made of broken Chaṭu for chicken laying egg. Has. Nag. Atarit́ [ADD]"
     },
     {
         "word": "at́cha",
@@ -6098,7 +6098,7 @@
     {
         "word": "biwr",
         "fone": "biwr, biwr",
-        "definition": "to turn around; to wind around (e.g. of a circuitous road); to revolve, spin or whirl around, e.g. on a potter’s wheel; to return, e.g. something borrowed.",
+        "definition": "to turn around; to wind around (e.g. of a circuitous road); to revolve, spin or whirl around, e.g. on a potter’s wheel; to return, e.g. something borrowed. Nag. Sat. bihur",
         "subwords": [
             {
                 "subword": "*biwr-nam",
@@ -10652,29 +10652,29 @@
         ]
     },
     {
-        "word": "chúḱ",
+        "word": "chuuḱ",
         "fone": "CHUK, CU",
-        "definition": "to pick up with the fingers e.g. grains, salt; (the paddy bundle (bandi) from which paddy is currently being taken for the family meal is referred to as oaḱrenko chúḱ taa Bandi)",
+        "definition": "to pick up with the fingers e.g. grains, salt; (the paddy bundle (bandi) from which paddy is currently being taken for the family meal is referred to as oaḱrenko chuuḱ taa Bandi). Has. chuḱ; Nag. chuṛuḱ [UNC]",
         "subwords": [
             {
-                "subword": "*chúḱ-bolo",
+                "subword": "*chuuḱ-bolo",
                 "sub_definition": "to take up with the fingers and add to (e.g. rice on a plate)"
             },
             {
-                "subword": "*chúḱ-huḍiṅ",
+                "subword": "*chuuḱ-huḍiṅ",
                 "sub_definition": "to make less by taking some with the hand"
             },
             {
-                "subword": "*chúḱ-nam",
+                "subword": "*chuuḱ-nam",
                 "sub_definition": "to get by taking out with the fingers; to finish taking paddy out of a bandi; in the pass. referring to taking paddy out of a bandi, for the paddy to last as long as hoped for (see nam)"
             },
             {
-                "subword": "*chúḱ-olt́",
+                "subword": "*chuuḱ-olt́",
                 "sub_definition": "to take out with the fingers"
             },
             {
-                "subword": "*mit́ chúḱ",
-                "sub_definition": "as much as one can take hold of in the joined fingers of one hand, a pinch e.g. of salt (ef. mit́ ruba which would imply more than mit́ chúḱ)"
+                "subword": "*mit́ chuuḱ",
+                "sub_definition": "as much as one can take hold of in the joined fingers of one hand, a pinch e.g. of salt (ef. mit́ ruba which would imply more than mit́ chuuḱ)"
             }
         ]
     },
@@ -11042,7 +11042,7 @@
         "definition": "a mouse; the male organ",
         "subwords": [
             {
-                "subword": "*Chuṭu Baduṛi",
+                "subword": "*Chuṭu Baduḍi",
                 "sub_definition": "the smallest type of bat"
             },
             {
@@ -11115,9 +11115,9 @@
         "definition": "a fork of two branches in a tree; of flowing oil, to branch into two streams (see also doba)"
     },
     {
-        "word": "ḍaba",
+        "word": "ḍaba lungam",
         "fone": "DABA, DABQ",
-        "definition": "lungam a variety of silkworm cocoon"
+        "definition": "a variety of silkworm cocoon"
     },
     {
         "word": "ḍaba-ḍubu",
@@ -11184,7 +11184,7 @@
     {
         "word": "dachola",
         "fone": "DACHOLA, DACOLQ",
-        "definition": "a beard (more common is daṛia)"
+        "definition": "a beard (more common is daḍia)"
     },
     {
         "word": "dachul",
@@ -11213,7 +11213,7 @@
         "definition": "of a road, to be very rough and uneven, with tan, to bounce up and down on a rough uneven road (with verb seri, etc.) daraka"
     },
     {
-        "word": "daḍaka gaḍi",
+        "word": "daṛaka gaḍi",
         "fone": "DADAKA, DADQKQ",
         "definition": "a truck"
     },
@@ -12136,7 +12136,7 @@
                 "sub_definition": "a carpenter"
             },
             {
-                "subword": "*daru Nael",
+                "subword": "*daru Nayl",
                 "sub_definition": "a wooden plough daru sitirkad a sitirkad plant, q.v., growing in a cavity of a tree"
             },
             {
@@ -15884,7 +15884,7 @@
     {
         "word": "Gaḍa",
         "fone": "GADA, GADQ",
-        "definition": "a river; a ditch or trench e.g. for a foundation of a house or for a grave (retaining its own meaning Gaḍa is used in a prayer parallel to Aḍi, 'an embankment').",
+        "definition": "a river; a ditch or trench e.g. for a foundation of a house or for a grave (retaining its own meaning Gaḍa is used in a prayer parallel to Aḍi, 'an embankment'). Nag. Sat. Gaḍa",
         "subwords": [
             {
                 "subword": "*Gaḍa Baguti",
@@ -19928,7 +19928,7 @@
                 "sub_definition": "to drive in a straight line e.g. a plough"
             },
             {
-                "subword": "*har Nael",
+                "subword": "*har Nayl",
                 "sub_definition": "a worn out plough"
             },
             {
@@ -22090,7 +22090,7 @@
     {
         "word": "horw",
         "fone": "horw",
-        "definition": "to guard; of a wild animal, to keep someone trapped, e.g. up a tree; of a spirit or sickness, to keep someone on his sickbed",
+        "definition": "to guard; of a wild animal, to keep someone trapped, e.g. up a tree; of a spirit or sickness, to keep someone on his sickbed. Sat. horho",
         "subwords": [
             {
                 "subword": "*horw-jangi",
@@ -22131,7 +22131,7 @@
         ]
     },
     {
-        "word": "horo",
+        "word": "Horo",
         "fone": "HORO",
         "definition": "a tortoise, turtle",
         "subwords": [
@@ -22150,12 +22150,12 @@
         ]
     },
     {
-        "word": "horo",
+        "word": "hoṛo",
         "fone": "HORO",
-        "definition": "poetic form for ho, 'man'"
+        "definition": "poetic form for hoo, 'man'"
     },
     {
-        "word": "horo chochoć",
+        "word": "horochochoć",
         "fone": "HORO",
         "definition": "a wall lizard"
     },
@@ -23566,7 +23566,7 @@
     {
         "word": "irt́",
         "fone": "IR",
-        "definition": "to rub; to strike (a match)",
+        "definition": "to rub; to strike (a match). Has. Nag. Sat. irit́",
         "subwords": [
             {
                 "subword": "*irt́-sengel",
@@ -24405,7 +24405,7 @@
     {
         "word": "Jany, Janhe",
         "fone": "JANE, JANQ",
-        "definition": "a cultivated millet-like grain, apparently Paspalum scrobiculatum, L., Gramineae, B.139/30, H.139/46/1"
+        "definition": "a cultivated millet-like grain, apparently Paspalum scrobiculatum, L., Gramineae, B.139/30, H.139/46/1. Sat. Janhe"
     },
     {
         "word": "Janga",
@@ -25139,7 +25139,7 @@
     {
         "word": "jert́",
         "fone": "JER",
-        "definition": "to weld together e.g. two pieces of iron in a fire in order to repair a ploughshare (Pál) or a pickaxe (Gaenta); as verbal affix -very tightly against, e.g. tol-jert́ -‘to tie very tightly against (something)’",
+        "definition": "to weld together e.g. two pieces of iron in a fire in order to repair a ploughshare (Pál) or a pickaxe (Gaenta); as verbal affix -very tightly against, e.g. tol-jert́ -‘to tie very tightly against (something)’ Has. Nag. jeret́",
         "subwords": [
             {
                 "subword": "*jert́-jert́",
@@ -26884,10 +26884,10 @@
         "subwords": [
             {
                 "subword": "*kába",
-                "sub_definition": "the handle of a plough, a kara or an ataagom $"
+                "sub_definition": "the handle of a plough, a Karh or an Ataagom $"
             },
             {
-                "subword": "*kába Nael",
+                "subword": "*kába Nayl",
                 "sub_definition": "a plough and its handle made together from the same piece of wood"
             }
         ]
@@ -27849,20 +27849,20 @@
         ]
     },
     {
-        "word": "kara",
+        "word": "Karh",
         "fone": "KARA, KARQ",
-        "definition": "a levelling plank; to level earth or mud with a levelling plank (this is a big broad curved plank used to pick up dirt from a higher level and deposit it in a lower level, cf. Ataagom, which is a straight plank used as a clod crusher or to level off the ground after reploughing)",
+        "definition": "a levelling plank; to level earth or mud with a levelling plank (this is a big broad curved plank used to pick up dirt from a higher level and deposit it in a lower level, cf. Ataagom, which is a straight plank used as a clod crusher or to level off the ground after reploughing). Nag. Sat. Karha",
         "subwords": [
             {
-                "subword": "*kara-muli",
-                "sub_definition": "to level the land evenly with a kara"
+                "subword": "*karh-muli",
+                "sub_definition": "to level the land evenly with a Karh"
             },
             {
-                "subword": "*kara-nam",
+                "subword": "*karh-nam",
                 "sub_definition": "to receive e.g. a crop by levelling with a Kara; to finish off the work of levelling"
             },
             {
-                "subword": "*kara-olt́",
+                "subword": "*karh-olt́",
                 "sub_definition": "to take out (earth) with a levelling plant"
             }
         ]
@@ -36890,7 +36890,7 @@
     {
         "word": "Murt́ Daru",
         "fone": "MUR",
-        "definition": "a small to medium sized tree with showy scarlet-orange coloured flowers, the Palas or Flame of the forest, Butea frondosa, Roxb., Papilionaceae, B.53/12, H.53/45/1",
+        "definition": "a small to medium sized tree with showy scarlet-orange coloured flowers, the Palas or Flame of the forest, Butea frondosa, Roxb., Papilionaceae, B.53/12, H.53/45/1. Has. Murut́",
         "subwords": [
             {
                 "subword": "*Murt́ Nai",
@@ -37111,12 +37111,12 @@
         "definition": "lonely; a sad feeling at being alone"
     },
     {
-        "word": "na:e",
+        "word": "naeć",
         "fone": "NAE",
         "definition": "after a little while (sometimes to specify the time more exactly an expression such as nace tikin or nace ayub will be used (see also lika which implies a time slightly earlier than naze would imply",
         "subwords": [
             {
-                "subword": "*nace pań",
+                "subword": "*naeć pań",
                 "sub_definition": "a time shortly after now (e.g. one or two hours from now"
             }
         ]
@@ -37311,24 +37311,24 @@
         "definition": "rich"
     },
     {
-        "word": "nail",
+        "word": "Nayl",
         "fone": "NAIL",
-        "definition": "a plough; to make into a plough (with daru as object",
+        "definition": "a plough; to make into a plough (with daru as object. Nag. Sat. Nahel; Has. Naĕal",
         "subwords": [
             {
-                "subword": "*nail Daru",
+                "subword": "*Nayl Daru",
                 "sub_definition": "wood used for making a plough (daru nail would mean a wooden plough"
             },
             {
-                "subword": "*nail gara",
+                "subword": "*Nayl Gaḍa",
                 "sub_definition": "a furrow"
             },
             {
-                "subword": "*nail kaba",
+                "subword": "*Nayl Kába",
                 "sub_definition": "the handle of a plough"
             },
             {
-                "subword": "*mi nail",
+                "subword": "*mit́ Nayl",
                 "sub_definition": "one ploughing (of a given area to be ploughed"
             }
         ]
@@ -37386,12 +37386,12 @@
     {
         "word": "Nalgum",
         "fone": "NALGUM",
-        "definition": "a showy yellow flower, the Marigold, Tagetes patula, L., Compositae, B.78/43, H.78/36/1"
+        "definition": "a showy yellow flower, the Marigold, Tagetes patula, L., Compositae, B.78/43, H.78/36/1. Has. Nangula, Nalgula"
     },
     {
         "word": "nalh",
         "fone": "NALH, NALA",
-        "definition": "wages; to work for wages. Sat. nalha",
+        "definition": "wages; to work for wages. Sat. nalha; Has. nala",
         "subwords": [
             {
                 "subword": "*nalh asul",
@@ -37437,7 +37437,7 @@
     {
         "word": "nam",
         "fone": "NAM",
-        "definition": "to get, receive; to look for; to try; to want; note expression hasu namića, 'sickness will get him', i.e. he will get sick; to get a chance to, e.g. inuṅkô namèa, 'they will get a chance to play'; as verbal affix nam usually means to seek or find by the action indicated in the first root, e.g. ur-nam 'to seek or get by digging'; sometimes it means get; nam-leka to try to find in looking for (refl. form to be able to get hold of something by the action indicated in the first root (see hoṭaḱ-nam; also its meaning varies with certain roots, e.g. nel-nam (get by seeing would mean 'to discover', 'to observe', ayum-nam can mean 'to hear through some indirect source'; sen nam means to go to get someone (whose whereabouts is known, not 'to go and look for someone'; jagar-nam and kaji-nam can both mean 'to try to converse with'; with some roots nam can mean 'to fin ish', e.g. manḍi jom-namè me, 'finish your meal', tisiṅgle chúḱ-nam ket́a, today we finished taking paddy out of a barn (see also har-nam, sí-nam; in the passive in terms such as jom-nam, chúḱ-nam, nam means 'to get as much as could be hoped for' by the action indicated in the first root",
+        "definition": "to get, receive; to look for; to try; to want; note expression hasu namića, 'sickness will get him', i.e. he will get sick; to get a chance to, e.g. inuṅkô namèa, 'they will get a chance to play'; as verbal affix nam usually means to seek or find by the action indicated in the first root, e.g. ur-nam 'to seek or get by digging'; sometimes it means get; nam-leka to try to find in looking for (refl. form to be able to get hold of something by the action indicated in the first root (see hoṭaḱ-nam; also its meaning varies with certain roots, e.g. nel-nam (get by seeing would mean 'to discover', 'to observe', ayum-nam can mean 'to hear through some indirect source'; sen nam means to go to get someone (whose whereabouts is known, not 'to go and look for someone'; jagar-nam and kaji-nam can both mean 'to try to converse with'; with some roots nam can mean 'to fin ish', e.g. manḍi jom-namè me, 'finish your meal', tisiṅgle chuuḱ-nam ket́a, today we finished taking paddy out of a barn (see also har-nam, sí-nam; in the passive in terms such as jom-nam, chuuḱ-nam, nam means 'to get as much as could be hoped for' by the action indicated in the first root",
         "subwords": [
             {
                 "subword": "*nam-agu",
@@ -39287,7 +39287,7 @@
     {
         "word": "olt́",
         "fone": "OL",
-        "definition": "to go out, take out (Les. 27); note usage -kaji olt́a, 'words (of displeasure or disagreement) will come out' (i.e. some action will lead to words'); as verbal affix olt́ is usually translated merely by the English word 'out', e.g. nir-olt́, 'to run out",
+        "definition": "to go out, take out (Les. 27); note usage -kaji olt́a, 'words (of displeasure or disagreement) will come out' (i.e. some action will lead to words'); as verbal affix olt́ is usually translated merely by the English word 'out', e.g. nir-olt́, 'to run out. Has. uṛuṅ; Nag. oṛoṅ; Sat. oḍok",
         "subwords": [
             {
                 "subword": "*olt́-bage",
@@ -44725,7 +44725,7 @@
         "subwords": [
             {
                 "subword": "*reset́-reset́",
-                "sub_definition": "tightly crowded, packed closely together reset́-sawṕ to fit tightly"
+                "sub_definition": "tightly crowded, packed closely together reset́-sowṕ to fit tightly"
             }
         ]
     },
@@ -48122,7 +48122,7 @@
     {
         "word": "sayt́",
         "fone": "SAET, SAQT",
-        "definition": "breath; to breathe",
+        "definition": "breath; to breathe. Nag. Sat. sahet́; Has. saĕat́",
         "subwords": [
             {
                 "subword": "*sayt́-ader",
@@ -48407,7 +48407,7 @@
     {
         "word": "selt́",
         "fone": "SEL",
-        "definition": "to have an admixture of another variety in one predominating variety (used when referring to such things as different varieties of paddy growing together, different colours of the feathers of a chicken). Used as adj. and as a pass. verb",
+        "definition": "to have an admixture of another variety in one predominating variety (used when referring to such things as different varieties of paddy growing together, different colours of the feathers of a chicken). Used as adj. and as a pass. verb. Has. Nag. Sat. selet́",
         "subwords": [
             {
                 "subword": "*selt́ Baba",
@@ -50275,9 +50275,9 @@
         "definition": "a civet cat"
     },
     {
-        "word": "sawṕ",
+        "word": "sowṕ",
         "fone": "SOP, SAOP",
-        "definition": "to fit e.g. one thing inside another, figur to accept (fit in) someone, e.g. as member of one's family (see entry sanawṕ, also recip. sapawṕ, to get along (fit in) one with another') Sat. sahoṕ; Has. saoṕ; Nag. sahoṕ"
+        "definition": "to fit e.g. one thing inside another, figur to accept (fit in) someone, e.g. as member of one's family (see entry sanawṕ, also recip. sapawṕ, to get along (fit in) one with another'). Nag. sohoṕ; Sat. sahoṕ; Has. soaṕ"
     },
     {
         "word": "soḱ",
@@ -51731,7 +51731,7 @@
     {
         "word": "Surt́",
         "fone": "SUR",
-        "definition": "the heart (the body organ, not used in figur, sense. For 'heart' in the sense of one's spirit, Jiv or sometimes jibon is used in Ho)"
+        "definition": "the heart (the body organ, not used in figur, sense. For 'heart' in the sense of one's spirit, Jiv or sometimes jibon is used in Ho). Has. Nag. Surut́"
     },
     {
         "word": "suru",
@@ -55428,7 +55428,7 @@
         "definition": "the cry of the toya bird (the Blue Jay)"
     },
     {
-        "word": "ṭóeḱ",
+        "word": "ṭoeć",
         "fone": "TOEK, TOQ",
         "definition": "to snap esp. with the fingernails the end off a leaf (esp. a newly sprouted leaf)"
     },
@@ -55443,7 +55443,7 @@
         "definition": "a kind of civet"
     },
     {
-        "word": "Tohrt́",
+        "word": "Torht́",
         "fone": "TOR",
         "definition": "an iguana (a big lizard)"
     },
@@ -58481,26 +58481,6 @@
         "definition": "petroleum [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
-    },
-    {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
-    },
-    {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
-    },
-    {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
-    },
-    {
         "word": "Otesai",
         "fone": "OTE",
         "definition": "the world [NEO]"
@@ -58665,5 +58645,86 @@
                 "sub_definition": "volcanic eruption."
             }
         ]
+    },
+    {
+        "word": "antar",
+        "fone": "ANTAR",
+        "definition": "specific distance ploughed. mit́ antar geć sí let́a. [ADD]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
+    },
+    {
+        "word": "Dirisunum",
+        "fone": "DIRI",
+        "definition": "petroleum [NEO]"
     }
 ]
