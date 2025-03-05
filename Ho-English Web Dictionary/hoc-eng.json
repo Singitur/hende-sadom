@@ -1486,7 +1486,7 @@
                 "sub_definition": "to find as something dries up (e.g fish in a pond)ron"
             },
             {
-                "subword": "*anjet́-rooh",
+                "subword": "*anjet́-rwoo",
                 "sub_definition": "to dry up"
             }
         ]
@@ -6630,7 +6630,7 @@
                 "sub_definition": "same as bonga tore."
             },
             {
-                "subword": "*bonga-umá",
+                "subword": "*bonga-umaa",
                 "sub_definition": "to divine using a winnowing basket."
             },
             {
@@ -11601,7 +11601,7 @@
         "definition": "a basket with round mouth and bottom, also called changarić"
     },
     {
-        "word": "dalob",
+        "word": "daloṕ",
         "fone": "DALOB, DALOP",
         "definition": "to cover (c. dapal, to cover a smaller area",
         "subwords": [
@@ -12985,7 +12985,7 @@
             },
             {
                 "subword": "*dinḍa chutuka",
-                "sub_definition": "a sickness of women who have not yet born children. Their menstrual periods do not occur and their bodies waste away (also rooh chutuka)"
+                "sub_definition": "a sickness of women who have not yet born children. Their menstrual periods do not occur and their bodies waste away (also rwoo chutuka)"
             },
             {
                 "subword": "*dinḍa hapannum",
@@ -20717,7 +20717,7 @@
     {
         "word": "hayam",
         "fone": "HAYAM, HAYQM",
-        "definition": "to whisper, a whisper",
+        "definition": "to whisper, a whisper. Has. haĕam",
         "subwords": [
             {
                 "subword": "*hayam-hayam",
@@ -20735,12 +20735,12 @@
         "definition": "somewhat rough to the touch (less than ragam)"
     },
     {
-        "word": "hayet́",
+        "word": "hayt́, havt́",
         "fone": "HAYET, HAYQT",
-        "definition": "to dry (of surface wetness, e.g. on the skin)"
+        "definition": "to dry (of surface wetness, e.g. on the skin). Has. haĕat́; Sat. hawet́"
     },
     {
-        "word": "hayre",
+        "word": "hae re",
         "fone": "HAYRE, HAYRQ",
         "definition": "an exclamation of grief (see hae)"
     },
@@ -23519,7 +23519,7 @@
                 "sub_definition": "to so reap as to leave a section of the stalk standing"
             },
             {
-                "subword": "*ir-rooh",
+                "subword": "*ir-rwoo",
                 "sub_definition": "to reap and lay out to dry"
             },
             {
@@ -23671,7 +23671,7 @@
     {
         "word": "itir",
         "fone": "ITIR",
-        "definition": "to massage",
+        "definition": "to massage. Sat. iskir",
         "subwords": [
             {
                 "subword": "*itir-enḍaḱ",
@@ -23690,7 +23690,7 @@
     {
         "word": "itu",
         "fone": "ITU",
-        "definition": "to break in or train e.g. a bullock for ploughing",
+        "definition": "to break in or train e.g. a bullock for ploughing. Related to eto. Has. itu",
         "subwords": [
             {
                 "subword": "*itu-muli",
@@ -23701,7 +23701,7 @@
     {
         "word": "Iṭult́",
         "fone": "ITUL",
-        "definition": "a stove (also iṭulat́)"
+        "definition": "a stove (also iṭulat́)."
     },
     {
         "word": "iṭult́",
@@ -35589,7 +35589,7 @@
     {
         "word": "meeht́",
         "fone": "MEHT",
-        "definition": "iron. Sat. Meṛhet́",
+        "definition": "iron. Has. Meṛet́; Sat. Meṛhet́",
         "subwords": [
             {
                 "subword": "*meeht́ ić",
@@ -35774,9 +35774,9 @@
         "definition": "used instead of mente (direct discourse) when the word for saying occurs as a noun (Les. 35)"
     },
     {
-        "word": "mér",
+        "word": "mér,mevr",
         "fone": "MER",
-        "definition": "a salty or agreeably bitter taste (Les. 26)"
+        "definition": "a salty or agreeably bitter taste (Les. 26). Sat. hever [UNC]"
     },
     {
         "word": "mera",
@@ -36230,9 +36230,9 @@
         ]
     },
     {
-        "word": "Miu",
+        "word": "Miw",
         "fone": "MIU",
-        "definition": "a calf (also muyu)"
+        "definition": "a calf (also muyu). Sat. Mihu"
     },
     {
         "word": "mó",
@@ -39998,7 +39998,7 @@
         "definition": "to chop (wood)",
         "subwords": [
             {
-                "subword": "*paaḱ-rooh",
+                "subword": "*paaḱ-rwoo",
                 "sub_definition": "to chop and allow to dry out (wood)"
             }
         ]
@@ -45371,80 +45371,84 @@
         "definition": "an engraving (verbal noun of roḱ, q.v.)"
     },
     {
-        "word": "rooh",
+        "word": "rwoo",
         "fone": "RO",
-        "definition": "to dry; dried (note the usage haku rooh, to dry fish' i.e. in order to preserve it for future eating); of the body, lean, emaciated; pass. verb to become dry or emaciated; noun a dried condition or state (e.g. of land)",
+        "definition": "to dry; dried (note the usage haku rwoo, to dry fish' i.e. in order to preserve it for future eating); of the body, lean, emaciated; pass. verb to become dry or emaciated; noun a dried condition or state (e.g. of land). Has. Nag. Sat. rohoṛ; Kork. lokhor",
         "subwords": [
             {
-                "subword": "*rooh á",
+                "subword": "*rwoo á",
                 "sub_definition": "dry mouthed (from hunger or thirst), to become dry mouthed; disappointed due to some fruitless effort; to be thus disappointed"
             },
             {
-                "subword": "*rooh anjet́",
+                "subword": "*rwoo anjet́",
                 "sub_definition": "to dry up"
             },
             {
-                "subword": "*rooh bunum",
+                "subword": "*rwoo bunum",
                 "sub_definition": "an ant hill in which ants do not now live"
             },
             {
-                "subword": "*rooh chamaṭa",
+                "subword": "*rwoo chamaṭa",
                 "sub_definition": "same as chimṭaṅ"
             },
             {
-                "subword": "*rooh chaṭaḱ",
-                "sub_definition": "to dry out causing to crack open; rooh chaṭaḱ akan ote - land dried up and cracking"
+                "subword": "*rwoo chaṭaḱ",
+                "sub_definition": "to dry out causing to crack open; rwoo chaṭaḱ akan ote - land dried up and cracking"
             },
             {
-                "subword": "*rooh chaṭakam",
-                "sub_definition": "same as rooh chimṭaṅ"
+                "subword": "*rwoo chaṭakam",
+                "sub_definition": "same as rwoo chimṭaṅ"
             },
             {
-                "subword": "*rooh chepo",
+                "subword": "*rwoo chepo",
                 "sub_definition": "to dry out causing to sink in"
             },
             {
-                "subword": "*rooh chimṭaṅ",
+                "subword": "*rwoo chimṭaṅ",
                 "sub_definition": "of leather, etc., to dry out so as to become turned up at the ends or to crack open"
             },
             {
-                "subword": "*rooh chutuka",
+                "subword": "*rwoo chutuka",
                 "sub_definition": "see dinḍa chutuka"
             },
             {
-                "subword": "*rooh daru",
+                "subword": "*rwoo daru",
                 "sub_definition": "a dried out dead tree"
             },
             {
-                "subword": "*rooh enḍaḱ",
-                "sub_definition": "to dry out rooh-goć pass. to become paralyzed, rooh-goć akan hō - a paralyzed person"
+                "subword": "*rwoo enḍaḱ",
+                "sub_definition": "to dry out"
             },
             {
-                "subword": "*rooh Haku",
+                "subword": "*rwoo-goć",
+                "sub_definition": "pass. to become paralyzed, rwoo-goć akan hoo - a paralyzed person"
+            },
+            {
+                "subword": "*rwoo Haku",
                 "sub_definition": "dried out (preserved) fish"
             },
             {
-                "subword": "*rooh kuḱ",
+                "subword": "*rwoo kuḱ",
                 "sub_definition": "a dry cough"
             },
             {
-                "subword": "*rooh najom",
+                "subword": "*rwoo najom",
                 "sub_definition": "a poison (najom) which causes a person to waste away (dry up)"
             },
             {
-                "subword": "*rooh rankaṛa",
+                "subword": "*rwoo rankaṛa",
                 "sub_definition": "completely dried out (e.g. of wood or of jojo pods); to become completely dried out (rankaṛa is not used alone)"
             },
             {
-                "subword": "*rooh rasum",
+                "subword": "*rwoo rasum",
                 "sub_definition": "pass. to dry breaking up into small pieces"
             },
             {
-                "subword": "*rooh raṭa-paṭa",
+                "subword": "*rwoo raṭa-paṭa",
                 "sub_definition": "to be dried out so as to make a raṭa-paṭa (q.v.) sound when touched. Used of leaves and the like"
             },
             {
-                "subword": "*rooh hunḍi",
+                "subword": "*rwoo hunḍi",
                 "sub_definition": "to dry out and preserve (e.g. fish for eating later)"
             }
         ]
@@ -53330,7 +53334,7 @@
         "definition": "to heat something, e.g- one's hands, before a fire",
         "subwords": [
             {
-                "subword": "*tarsaṅ-rooh",
+                "subword": "*tarsaṅ-rwoo",
                 "sub_definition": "to dry something by heating it before a fire"
             }
         ]
@@ -53361,7 +53365,7 @@
                 "sub_definition": "paddy spread out on a mat (to dry out after being boiled prior to husking)"
             },
             {
-                "subword": "*tasi-rooh",
+                "subword": "*tasi-rwoo",
                 "sub_definition": "to spread out in order to dry, e.g. paddy which has been boiled prior to husking"
             }
         ]
@@ -53615,9 +53619,9 @@
         ]
     },
     {
-        "word": "tayer",
+        "word": "tayr",
         "fone": "TAYER, TAYQR",
-        "definition": "a cucumber, Cucumis sativus, L., Cucurbitaceae, B.71/6, H.71/7/3"
+        "definition": "a cucumber, Cucumis sativus, L., Cucurbitaceae, B.71/6, H.71/7/3. Kork. Takher; Sat. Taher"
     },
     {
         "word": "ṭayet́",
@@ -53630,9 +53634,9 @@
         "definition": "after, later"
     },
     {
-        "word": "tayom",
-        "fone": "TAYOM",
-        "definition": "to step over, figur. - to show disrespect to someone (to step over someone is to show him disrespect, also Hos do not step over e.g. arrows or game killed in a hunt lest they offend the spirits of the hunt.) used in prayers parallel to bai, to inflict harm through witchcraft (since walking over someone is considered harmful to him. See tayom-ura)",
+        "word": "taom",
+        "fone": "TAYOM, TAOM",
+        "definition": "to step over, figur. - to show disrespect to someone (to step over someone is to show him disrespect, also Hos do not step over e.g. arrows or game killed in a hunt lest they offend the spirits of the hunt.) used in prayers parallel to bai, to inflict harm through witchcraft (since walking over someone is considered harmful to him. See taom-uraa). Most likely from taṛom, later merged with tayom (behind, later). Sat. taṛam. Has. Nag. taṛom ",
         "subwords": [
             {
                 "subword": "*tayom-parom",
@@ -54898,7 +54902,7 @@
     {
         "word": "tiṅg-honḍoć",
         "fone": "TING, TIN",
-        "definition": "to boil paddy to the point where water is poured off prior to husking. The sequence of actions here would beć 1) tiṅg honḍoć, 2) tenḍaḱ, 3) tiṅg-sá, 4) tasi- rooh, 5) ruṅ",
+        "definition": "to boil paddy to the point where water is poured off prior to husking. The sequence of actions here would beć 1) tiṅg honḍoć, 2) tenḍaḱ, 3) tiṅg-sá, 4) tasi- rwoo, 5) ruṅ",
         "subwords": [
             {
                 "subword": "*tiṅg-isin",
@@ -56155,7 +56159,7 @@
     {
         "word": "tuam",
         "fone": "TUAM, TUQM",
-        "definition": "a forked piece of wood such as is used as a support for fences; the piece of wood resting on a koalu (cross beam) and supporting the mutul-jangi (ridge pole) in a house",
+        "definition": "a forked piece of wood such as is used as a support for fences; the piece of wood resting on a koalu (cross beam) and supporting the mutul-jangi (ridge pole) in a house. Has. Nag. tuṛam",
         "subwords": [
             {
                 "subword": "*tuam jangi",
@@ -57478,9 +57482,9 @@
         ]
     },
     {
-        "word": "umá",
+        "word": "umaa",
         "fone": "UMA, UMQ",
-        "definition": "to compare the capacity of two poyla by pouring from one into the other"
+        "definition": "to compare the capacity of two poyla by pouring from one into the other. Sat. umạṛ; Kork. umna"
     },
     {
         "word": "umbae",
@@ -58516,7 +58520,7 @@
         "definition": "eyewitness account. [NEO]"
     },
     {
-        "word": "umásamaṅ",
+        "word": "umaasamaṅ",
         "fone": "UMA",
         "definition": "to compare with respect to something; adv. relative [NEO]"
     },
@@ -58652,9 +58656,14 @@
         "definition": "specific distance ploughed. mit́ antar geć sí let́a. [ADD]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "ril",
+        "fone": "RIL",
+        "definition": "to clean paddy or rice. [ADD]"
+    },
+    {
+        "word": "huć",
+        "fone": "HUJ",
+        "definition": "to come. Tickell (1840:1080) [ADD]"
     },
     {
         "word": "Dirisunum",
