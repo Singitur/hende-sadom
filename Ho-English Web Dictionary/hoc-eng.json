@@ -650,7 +650,7 @@
     {
         "word": "agom",
         "fone": "AGOM",
-        "definition": "a promise to one of the greater spirits (Siṅgbonga, Maraṅ Bonga, Máburu, Nage) to perform a certain sacrifice upon receiving some specified favour (recovery from sickness, good crop). An outward sign of this make less; to promise (Sindur, Adoa Chauli... etc.) is wrapped in a leaf.",
+        "definition": "a promise to one of the greater spirits (Siṅgbonga, Maraṅbonga, Máburu, Nage) to perform a certain sacrifice upon receiving some specified favour (recovery from sickness, good crop). An outward sign of this make less; to promise (Sindur, Adoa Chauli... etc.) is wrapped in a leaf.",
         "subwords": [
             {
                 "subword": "*agom-angara",
@@ -1913,7 +1913,7 @@
         "definition": "nine (short form)"
     },
     {
-        "word": "areà",
+        "word": "area",
         "fone": "AREA, ARQ",
         "definition": "nine (long form)"
     },
@@ -3131,12 +3131,12 @@
         "definition": "verbal affix -suddenly (alternate form of bangol)."
     },
     {
-        "word": "bagra",
+        "word": "bagḍa",
         "fone": "BAGRA, BAGRQ",
         "definition": "mixed, of seeds not all of the same variety; to be a mixture of many colours (with ka 'not', this can mean 'pure white').",
         "subwords": [
             {
-                "subword": "*bagra chauli",
+                "subword": "*bagḍa chauli",
                 "sub_definition": "husked rice of different varieties mixed together."
             }
         ]
@@ -3223,8 +3223,8 @@
                 "sub_definition": "sweet-scented oil."
             },
             {
-                "subword": "*Bah tasat́",
-                "sub_definition": "same as bā dumbu."
+                "subword": "*Bah Tasat́",
+                "sub_definition": "same as Bah Dumbu."
             },
             {
                 "subword": "*bah-uru",
@@ -3434,9 +3434,9 @@
         ]
     },
     {
-        "word": "bakara",
+        "word": "bakaṛa",
         "fone": "BAKARA, BAKQRQ",
-        "definition": "same as bakā."
+        "definition": "same as bakaa."
     },
     {
         "word": "bakara-biuṅ",
@@ -4155,7 +4155,7 @@
     {
         "word": "banredo",
         "fone": "BANREDO, BANRQDO",
-        "definition": "otherwise (also kāredo)."
+        "definition": "otherwise (also káredo)."
     },
     {
         "word": "banremate",
@@ -4241,7 +4241,7 @@
             },
             {
                 "subword": "*barsa",
-                "sub_definition": "twice (more commonly bar dunā is used)."
+                "sub_definition": "twice (more commonly bar duna is used)."
             },
             {
                 "subword": "*barsiṅg",
@@ -4279,11 +4279,6 @@
                 "sub_definition": "outside; a bowel movement (bir-paa is also used for this), to have a bowel movement."
             }
         ]
-    },
-    {
-        "word": "bar",
-        "fone": "BAR, BAR",
-        "definition": "an alternate form of bāra, q.v."
     },
     {
         "word": "bar-bur",
@@ -4371,7 +4366,7 @@
         "definition": "to increase, make big (from Hindi)."
     },
     {
-        "word": "barāt́-bere tan",
+        "word": "barát́-bere tan",
         "fone": "BARAT, BARQT",
         "definition": "the cry of many goats or sheep (with verb raḱ, etc.)."
     },
@@ -4436,11 +4431,6 @@
         ]
     },
     {
-        "word": "bāria",
-        "fone": "BARIA, BARIQ",
-        "definition": "very good, superior, of fine quality; very well."
-    },
-    {
         "word": "baripiyuń oe",
         "fone": "BARIPIYUNJ, BARIPIYUN",
         "definition": "the Greyheaded Myna."
@@ -4473,7 +4463,7 @@
     {
         "word": "baro bai (mai) kukur chaoa-baora",
         "fone": "BARO, BARO",
-        "definition": "the name given to a spirit invoked while exorcizing a kāro pira (q.v.) (Kukur prob. From Sanskrit for dog, and this possibly refers to a spirit believed to be dog-like in appearance)."
+        "definition": "the name given to a spirit invoked while exorcizing a káṛo piṛa (q.v.) (Kukur prob. From Sanskrit for dog, and this possibly refers to a spirit believed to be dog-like in appearance)."
     },
     {
         "word": "baru daru",
@@ -4671,7 +4661,7 @@
     {
         "word": "bata",
         "fone": "BATA, BATQ",
-        "definition": "bamboos or harasae jaṭa used to reinforce thatch or to fasten jāyu, on which tiles will be put, more tightly to the seneor (N.B. jayu is used of the thin strips of wood put across the seneor to support the tiles or thatch)."
+        "definition": "bamboos or harasae jaṭa used to reinforce thatch or to fasten jáyu, on which tiles will be put, more tightly to the seneor (N.B. jayu is used of the thin strips of wood put across the seneor to support the tiles or thatch)."
     },
     {
         "word": "bata",
@@ -4721,13 +4711,13 @@
         "definition": "to starve (scrape for a little bit to eat) (Note saying- menaḱ redo haṭaḱ-haṭaḱ banoḱ redo baṭaḱ-baṭaḱ 'when you have there is abundance (haṭaḱ -winnowing basket) when you do not have you starve)."
     },
     {
-        "word": "bātara",
+        "word": "bátaḍa",
         "fone": "BATARA, BATQRQ",
         "definition": "of a woman, by using undue pressure, flattering, exaggerating and the like, to urge a girl (woman) to elope with a man.",
         "subwords": [
             {
-                "subword": "*bātara-olt́",
-                "sub_definition": "same as bātara."
+                "subword": "*bátaḍa-olt́",
+                "sub_definition": "same as bátaḍa."
             }
         ]
     },
@@ -5626,7 +5616,7 @@
     {
         "word": "Bindi Êra",
         "fone": "BINDI, BINDI",
-        "definition": "poetic parallel of nage era, q.v."
+        "definition": "poetic parallel of Nageèra, q.v."
     },
     {
         "word": "bindi",
@@ -7452,17 +7442,17 @@
         "definition": "daru a name used in some areas for the tree more commonly called būnju daru, q.v., at least in the Chaibasa area."
     },
     {
-        "word": "burka",
+        "word": "buṭka",
         "fone": "BURKA, BURKQ",
         "definition": "a swelling (tumour) on the back of the head, neck, etc.; a knot of a tree."
     },
     {
-        "word": "burka",
+        "word": "buṛka",
         "fone": "BURKA, BURKQ",
         "definition": "the 'hukka' (hubble-bubble) rarely seen in present day Ho villages."
     },
     {
-        "word": "burkunda daru",
+        "word": "burkunḍa daru",
         "fone": "BURKUNDA, BURKUNDQ",
         "definition": "a large tree of the jungle, 30-50 ft. high with thick branches and bitter bark; possibly Hymanodictyon excelsum, Wall., Rubiaceae, E.M., H.77/7/1, B.77/10."
     },
@@ -8847,7 +8837,7 @@
             },
             {
                 "subword": "*Charić te bonga-nam",
-                "sub_definition": "a form of divining e.g. discerning what spirit is causing a sickness. A dẽoa breaks off 2 or 3 Charić of equal sizes. Then while he holds these tightly in his hand he names one by one spirits who could be causing the sickness. When he names the proper spirit, one twig moves up higher than the other(s). This process is used when rice grains are not available, e.g. during hunts in the jungles"
+                "sub_definition": "a form of divining e.g. discerning what spirit is causing a sickness. A Deõa breaks off 2 or 3 Charić of equal sizes. Then while he holds these tightly in his hand he names one by one spirits who could be causing the sickness. When he names the proper spirit, one twig moves up higher than the other(s). This process is used when rice grains are not available, e.g. during hunts in the jungles"
             }
         ]
     },
@@ -9152,7 +9142,7 @@
     {
         "word": "chẽ́-chẽ́ tan",
         "fone": "CHE, CE",
-        "definition": "th sound of water boiling (with verbs basaṅ, saṛi, etc.)"
+        "definition": "th sound of water boiling (with verbs basaṅ, saḍi, etc.)"
     },
     {
         "word": "chẽ́-chẽ́ tan",
@@ -10924,7 +10914,7 @@
     {
         "word": "chuṛuyur",
         "fone": "CHUDUYUR, CUDUYUR",
-        "definition": "a term spoken by a Dẽoa while pouring water in a sacrificial action (apparently this has no meaning)"
+        "definition": "a term spoken by a Deõa while pouring water in a sacrificial action (apparently this has no meaning)"
     },
     {
         "word": "chut́",
@@ -11461,7 +11451,7 @@
     {
         "word": "ḍáko",
         "fone": "DAKO",
-        "definition": "of a Dẽoa, to call upon his guru bongako, q.v., to assist him in his work of divining (e.g. in discerning what spirit is causing some harm), (rauć is also used with this meaning); the art of calling upon one's guru spirits",
+        "definition": "of a Deõa, to call upon his guru bongako, q.v., to assist him in his work of divining (e.g. in discerning what spirit is causing some harm), (rauć is also used with this meaning); the art of calling upon one's guru spirits",
         "subwords": [
             {
                 "subword": "*ḍáko hućoḱ",
@@ -12538,9 +12528,9 @@
         "definition": "Denkanal in Orissa (many Hos settled there)"
     },
     {
-        "word": "Dẽoa",
+        "word": "Deõa",
         "fone": "DEOA, DEOQ",
-        "definition": "a shaman, one who divines at times of sickness to discern what spirit has been offended and what offering should bemade to appease that spirit; pass. to become a Dẽoa"
+        "definition": "a shaman, one who divines at times of sickness to discern what spirit has been offended and what offering should bemade to appease that spirit; pass. to become a Deõa"
     },
     {
         "word": "ḍẽoa",
@@ -12982,7 +12972,7 @@
     {
         "word": "díp",
         "fone": "DIP",
-        "definition": "a built-up place where sindur is spread and where Dẽoa students learn their trade"
+        "definition": "a built-up place where sindur is spread and where Deõa students learn their trade"
     },
     {
         "word": "ḍiṕ",
@@ -13104,7 +13094,7 @@
     {
         "word": "Diuri",
         "fone": "DIURI",
-        "definition": "a village priest who performs sacrifices in the name of the whole village on certain occasions. His role is ritual and much different than that of the Dẽoa, who is a shaman",
+        "definition": "a village priest who performs sacrifices in the name of the whole village on certain occasions. His role is ritual and much different than that of the Deõa, who is a shaman",
         "subwords": [
             {
                 "subword": "*diuri oe",
@@ -13709,7 +13699,7 @@
     {
         "word": "Dorom Duar",
         "fone": "DOROM",
-        "definition": "a place in the jungles near Peṭapiṭi where Dẽoa go to learn their trade. They call upon the spirits of this place to help them"
+        "definition": "a place in the jungles near Peṭapiṭi where Deõa go to learn their trade. They call upon the spirits of this place to help them"
     },
     {
         "word": "doroṅ-doroṅ",
@@ -13807,8 +13797,8 @@
                 "sub_definition": "to make the door $"
             },
             {
-                "subword": "*Duar Hari Maraṅ Bonga",
-                "sub_definition": "a hunting spirit (sangar bonga) said by some to be a servant spirit to Maraṅ Bonga"
+                "subword": "*Duar Hari Maraṅbonga",
+                "sub_definition": "a hunting spirit (sangar bonga) said by some to be a servant spirit to Maraṅbonga"
             }
         ]
     },
@@ -14027,8 +14017,8 @@
                 "sub_definition": "to relieve (assuage) some suffering or grief"
             },
             {
-                "subword": "*Duku Disum Maraṅ Bonga",
-                "sub_definition": "a name sometimes given to Maraṅ Bonga. See also Dupuṕ Disum Maraṅ Bonga"
+                "subword": "*Duku Disum Maraṅbonga",
+                "sub_definition": "a name sometimes given to Maraṅbonga. See also Dupuṕ Disum Maraṅbonga"
             },
             {
                 "subword": "*duku-ichi",
@@ -14677,8 +14667,8 @@
         "definition": "to seat one another, e.g. on one another's cycles (recip. of duṕ)",
         "subwords": [
             {
-                "subword": "*Dupuṕ Disum Maraṅ Bonga",
-                "sub_definition": "an alternate and according to some the original and proper name for duku disum maraṅ bonga (here dupub would be understood in the sense of dunúṕ, 'a base or foundation')"
+                "subword": "*Dupuṕ Disum Maraṅbonga",
+                "sub_definition": "an alternate and according to some the original and proper name for duku disum Maraṅbonga (here dupub would be understood in the sense of dunúṕ, 'a base or foundation')"
             }
         ]
     },
@@ -16601,7 +16591,7 @@
             },
             {
                 "subword": "*Gã́si-Maṭear ko",
-                "sub_definition": "a collective noun for Gansis and others who do menial work; used in prayers for servant spirits of maraṅ bonga and other important spirits."
+                "sub_definition": "a collective noun for Gansis and others who do menial work; used in prayers for servant spirits of Maraṅbonga and other important spirits."
             },
             {
                 "subword": "*Gã́si Tani",
@@ -19849,8 +19839,8 @@
                 "sub_definition": "to drive out (e.g. evil spirits)"
             },
             {
-                "subword": "*har-enḍaḱ bongako",
-                "sub_definition": "malign spirits which are driven away (as opposed to protective spirits such as desauli, maraṅ bonga, nage era, who are considered beneficial although they sometimes inflict harm on those who do not treat them properly)"
+                "subword": "*har-enḍaḱ bonga ko",
+                "sub_definition": "malign spirits which are driven away (as opposed to protective spirits such as desauli, Maraṅbonga, Nageèra, who are considered beneficial although they sometimes inflict harm on those who do not treat them properly)"
             },
             {
                 "subword": "*har-goseć",
@@ -20214,7 +20204,7 @@
             },
             {
                 "subword": "*Hasa uṭao",
-                "sub_definition": "to take up soil from a field (used referring to the practice of bringing soil from each plot of the fields of a family from whom a Dẽoa is driving out banai bonga)"
+                "sub_definition": "to take up soil from a field (used referring to the practice of bringing soil from each plot of the fields of a family from whom a Deõa is driving out banai bonga)"
             }
         ]
     },
@@ -20485,7 +20475,7 @@
     {
         "word": "hatir",
         "fone": "HATIR",
-        "definition": "of a spirit, to inflict punishment on someone (used esp. of maraṅ bonga, desauli, the ancestors)",
+        "definition": "of a spirit, to inflict punishment on someone (used esp. of Maraṅbonga, desauli, the ancestors)",
         "subwords": [
             {
                 "subword": "*hatir-goć",
@@ -20840,8 +20830,8 @@
         "definition": "waving mildly in the breeze"
     },
     {
-        "word": "heleḱ",
-        "fone": "HELEK, HELQ",
+        "word": "heleć",
+        "fone": "HELEC, HELQ",
         "definition": "of water, to eat away the mud at the bottom part of a wall or of an embankment; with an adze (hasi) or file (ruka) - to make a groove in something (e.g. the shaft of a plough)"
     },
     {
@@ -21294,19 +21284,19 @@
         ]
     },
     {
-        "word": "himalay buru",
-        "fone": "HIMALAY, HIMQLQY",
+        "word": "Himalae buru",
+        "fone": "HIMALAE, HIMQLQY",
         "definition": "the Himalayas (referred to in prayers)"
     },
     {
-        "word": "himbu",
+        "word": "himbu ḍur",
         "fone": "HIMBU",
-        "definition": "dur- a name used in some villages for the imu oe, the Indian or Yellowlegged Button Quail"
+        "definition": " a name used in some villages for the imu oe, the Indian or Yellowlegged Button Quail"
     },
     {
-        "word": "himun",
-        "fone": "HIMUN",
-        "definition": "to purse the lips in displeasure, pride, miserliness; with dir. personal obj., to purse the lips at e.g. one whom one disdains (in all cases with the word a (mouth) expressed before himun)"
+        "word": "himuṅ",
+        "fone": "HIMUNG, HIMUN",
+        "definition": "to purse the lips in displeasure, pride, miserliness; with dir. personal obj., to purse the lips at e.g. one whom one disdains (in all cases with the word a (mouth) expressed before himuṅ)"
     },
     {
         "word": "hinḍuṅ",
@@ -22474,7 +22464,7 @@
             },
             {
                 "subword": "*huaḱ-enḍaḱ",
-                "sub_definition": "to bite out or away (used of the action of a Dẽoa putting his mouth against the chest of someone who has been given najom (q.v.) - and sucking out the evil effect. He does not actually bite into the flesh, but it is believed that he sucks out, e.g. rice-beer given as poison)"
+                "sub_definition": "to bite out or away (used of the action of a Deõa putting his mouth against the chest of someone who has been given najom (q.v.) - and sucking out the evil effect. He does not actually bite into the flesh, but it is believed that he sucks out, e.g. rice-beer given as poison)"
             }
         ]
     },
@@ -24491,7 +24481,7 @@
             },
             {
                 "subword": "*Janum Sakam",
-                "sub_definition": "a thorny leaf, used as an adjective with merom, ‘goat’, in prayers to Maraṅ Bonga (see Janum Patá)"
+                "sub_definition": "a thorny leaf, used as an adjective with merom, ‘goat’, in prayers to Maraṅbonga (see Janum Patá)"
             }
         ]
     },
@@ -25909,7 +25899,7 @@
             },
             {
                 "subword": "*jom-jilu",
-                "sub_definition": "flesh meant for eating (used to refer to sacrificed animals which many men will eat e.g. of the occasion of an anader sacrifice or a sacrifice to Maraṅ Bonga)"
+                "sub_definition": "flesh meant for eating (used to refer to sacrificed animals which many men will eat e.g. of the occasion of an anader sacrifice or a sacrifice to Maraṅbonga)"
             },
             {
                 "subword": "*jom-kaṭa",
@@ -27001,7 +26991,7 @@
         "definition": "paper (ol-sakam is sometimes used for writing paper)"
     },
     {
-        "word": "kai",
+        "word": "kakii",
         "fone": "KAI",
         "definition": "to chase (same as kakii)"
     },
@@ -27275,8 +27265,8 @@
         "definition": "to shout"
     },
     {
-        "word": "kakaṛi",
-        "fone": "KAKADI, KAKQDI",
+        "word": "kakiṛi",
+        "fone": "KAKIDI, KAKIDI",
         "definition": "to chase alternate form of kakii, q.v.)"
     },
     {
@@ -27870,7 +27860,7 @@
     {
         "word": "karaga",
         "fone": "KARAGA, KARQGQ",
-        "definition": "used in prayers parallel with Dẽoa, meaning uncertain (perhaps from Hindi ‘karigar’, an artisan)"
+        "definition": "used in prayers parallel with Deõa, meaning uncertain (perhaps from Hindi ‘karigar’, an artisan)"
     },
     {
         "word": "Karam bonga",
@@ -28011,7 +28001,7 @@
     {
         "word": "karsa",
         "fone": "KARSA, KARSQ",
-        "definition": "to slit the throat for sacrificial purposes (see also kolom karsa and ote karsa); sometimes used merely in the meaning of ‘to sacrifice’, esp. of a sacrifice without previous agom to desaulior nage era; to cut one’s foot e.g. against a sharp stone (hat́-karsa can also be used for this) ."
+        "definition": "to slit the throat for sacrificial purposes (see also kolom karsa and ote karsa); sometimes used merely in the meaning of ‘to sacrifice’, esp. of a sacrifice without previous agom to Desauli or Nageèra; to cut one’s foot e.g. against a sharp stone (hat́-karsa can also be used for this) ."
     },
     {
         "word": "karsi",
@@ -28334,8 +28324,8 @@
         "definition": "a knife",
         "subwords": [
             {
-                "subword": "*katu Maraṅ bonga",
-                "sub_definition": "a hunting spirit (sangar bonga) said by some to be a servant spirit to maraṅ bonga"
+                "subword": "*katu Maraṅbonga",
+                "sub_definition": "a hunting spirit (sangar bonga) said by some to be a servant spirit to Maraṅbonga"
             }
         ]
     },
@@ -28395,7 +28385,7 @@
         "definition": "an exclamation used by women after hearing some news, ‘indeed’, ‘is that so!’"
     },
     {
-        "word": "ké-k6 tan",
+        "word": "ké-ké tan",
         "fone": "KE",
         "definition": "made by drawing a bow back and forth over a banam (with verb banam)"
     },
@@ -30675,8 +30665,8 @@
                 "sub_definition": "a general term for a person who steals and selfishly takes for himself by any means"
             },
             {
-                "subword": "*kumbuu maraṅ bonga",
-                "sub_definition": "a name sometimes given to a spirit also called sikt ikir maraṅ bonga, q.v. $"
+                "subword": "*kumbuu Maraṅbonga",
+                "sub_definition": "a name sometimes given to a spirit also called sikt ikir Maraṅbonga, q.v. $"
             }
         ]
     },
@@ -31123,7 +31113,7 @@
         "definition": "a ‘kudaly (spade)"
     },
     {
-        "word": "kutra",
+        "word": "kuṭra",
         "fone": "KUTRA, KUTRQ",
         "definition": "a bowl"
     },
@@ -31186,24 +31176,19 @@
         ]
     },
     {
-        "word": "kuṭun",
+        "word": "kuṭuṅ",
         "fone": "KUTUN",
-        "definition": "same as kutum"
+        "definition": "same as kuṭum"
     },
     {
-        "word": "kutura",
-        "fone": "KUTURA, KUTURQ",
-        "definition": "same as kutra, q.v."
-    },
-    {
-        "word": "kuturi",
+        "word": "kuṭuri",
         "fone": "KUTURI",
-        "definition": "window (also kutri)"
+        "definition": "window (also kuṭri)$"
     },
     {
-        "word": "kutusa",
+        "word": "kuṭusa",
         "fone": "KUTUSA, KUTUSQ",
-        "definition": "small particles of adoa chauli which when husked are not yet sufficiently pulverized for making holon and which will have to be husked again"
+        "definition": "small particles of adoa chauli which when husked are not yet sufficiently pulverized for making holoṅ and which will have to be husked again"
     },
     {
         "word": "Kúyat́ Daru",
@@ -34893,7 +34878,7 @@
     {
         "word": "manḍal sakam",
         "fone": "MANDAL, MANDQL",
-        "definition": "a leaf of the siń Aaḱ tree or sometimes used of a rūṅ climber, folded and pinned with a Charić, on which punji is put when offerings are made to maraṅ bonga and sometimes to Siṅbonga (these are sometimes made three cornered)"
+        "definition": "a leaf of the siń Aaḱ tree or sometimes used of a rūṅ climber, folded and pinned with a Charić, on which punji is put when offerings are made to Maraṅbonga and sometimes to Siṅbonga (these are sometimes made three cornered)"
     },
     {
         "word": "Mandali",
@@ -35109,8 +35094,8 @@
                 "sub_definition": "a hill/mountain (said jokingly)"
             },
             {
-                "subword": "*Maraṅ Bonga",
-                "sub_definition": "one of the more prominent spirits, also called Duku Disum Maraṅ Bonga , q.v."
+                "subword": "*Maraṅbonga",
+                "sub_definition": "one of the more prominent spirits, also called Duku Disum Maraṅbonga , q.v."
             },
             {
                 "subword": "*maraṅ Dãachuḱ",
@@ -35616,7 +35601,7 @@
     {
         "word": "meń-meń",
         "fone": "MENJ, MEN",
-        "definition": "of a tãṛi, to be Sparkling and give off a ringing sound when struck (used with saṛi); of tiny flies, to fly around (e.g. close to one’s eyes) making a buzzing sound"
+        "definition": "of a tãṛi, to be Sparkling and give off a ringing sound when struck (used with saḍi); of tiny flies, to fly around (e.g. close to one’s eyes) making a buzzing sound"
     },
     {
         "word": "mena",
@@ -37155,7 +37140,7 @@
         "subwords": [
             {
                 "subword": "*nageren hende sim",
-                "sub_definition": "a black chicken offered to nage era nageann having a nage bonga residing there"
+                "sub_definition": "a black chicken offered to Nageèra nageann having a nage bonga residing there"
             },
             {
                 "subword": "*nageann taḱ",
@@ -37457,7 +37442,7 @@
         "subwords": [
             {
                 "subword": "*nama Chaṭu",
-                "sub_definition": "new earthen pot; figur. a freshly laid chicken's egg (when called for in divining as an offering required by nage era nama era a new bride"
+                "sub_definition": "new earthen pot; figur. a freshly laid chicken's egg (when called for in divining as an offering required by Nageèra nama era a new bride"
             },
             {
                 "subword": "*Nama Êra Jate",
@@ -40451,7 +40436,7 @@
     {
         "word": "pangura bonga",
         "fone": "PANGURA, PANURQ",
-        "definition": "a spirit believed to be the wife of maraṅ bonga, and hence sometimes called Pangura Buḍi"
+        "definition": "a spirit believed to be the wife of Maraṅbonga, and hence sometimes called Pangura Buḍi"
     },
     {
         "word": "panja",
@@ -40864,7 +40849,7 @@
     {
         "word": "paṭ",
         "fone": "PAT",
-        "definition": "a guru bonga type of spirit, usually found in mountains and called upon by shamans (Dẽoa ko, Soka ko) for help in bonga nam (discerning what spirit is causing some sickness, etc.)",
+        "definition": "a guru bonga type of spirit, usually found in mountains and called upon by shamans (Deõa ko, Soka ko) for help in bonga nam (discerning what spirit is causing some sickness, etc.)",
         "subwords": [
             {
                 "subword": "*paṭ chela kin",
@@ -41072,7 +41057,7 @@
     {
         "word": "paṭuṕ",
         "fone": "PATUP",
-        "definition": "an alternate form of paṛub, q.v. (both meanings)",
+        "definition": "an alternate form of paṛuṕ, q.v. (both meanings)",
         "subwords": [
             {
                 "subword": "*paṭuṕ-paṛuar",
@@ -41776,7 +41761,7 @@
     {
         "word": "pirsulić met́",
         "fone": "PIRSULIC, PIRSULI",
-        "definition": "one with only half opened eyes (also pirīt́ met́)"
+        "definition": "one with only half opened eyes (also pirít́ met́)"
     },
     {
         "word": "pisaṕ",
@@ -43388,17 +43373,17 @@
     {
         "word": "radá-rudú tan",
         "fone": "RADA, RADQ",
-        "definition": "the sound of an animal or man walking on dry leaves (with verb saṛi, etc.)"
+        "definition": "the sound of an animal or man walking on dry leaves (with verb saḍi, etc.)"
     },
     {
         "word": "radat́-rodot́ tan",
         "fone": "RADAT, RADQT",
-        "definition": "the sound made by some light creature, e.g. a bird, moving or jumping along leaves (with verb saṛi, etc.)"
+        "definition": "the sound made by some light creature, e.g. a bird, moving or jumping along leaves (with verb saḍi, etc.)"
     },
     {
         "word": "radú ken",
         "fone": "RADU",
-        "definition": "the sound of e.g. a branch hitting the ground (with verb saṛi, etc.)"
+        "definition": "the sound of e.g. a branch hitting the ground (with verb saḍi, etc.)"
     },
     {
         "word": "ráe",
@@ -43531,11 +43516,11 @@
     {
         "word": "raić",
         "fone": "RAIC, RAI",
-        "definition": "to stretch something out long and thin, e.g. a rubber; of e.g. a cat, to stretch one's body out; of a Dẽoa, to call upon the help of his guru spirits (in this last sense ḍáko, q.v. is also used)",
+        "definition": "to stretch something out long and thin, e.g. a rubber; of e.g. a cat, to stretch one's body out; of a Deõa, to call upon the help of his guru spirits (in this last sense ḍáko, q.v. is also used)",
         "subwords": [
             {
                 "subword": "*raić-hućoḱ",
-                "sub_definition": "to call to come (used esp. in prayers e.g. by a Dẽoa calling upon some spirit to come)"
+                "sub_definition": "to call to come (used esp. in prayers e.g. by a Deõa calling upon some spirit to come)"
             }
         ]
     },
@@ -43667,7 +43652,7 @@
                 "sub_definition": "the long drawn out wailing for a dead person; to so wail"
             },
             {
-                "subword": "*raḱ-saṛi",
+                "subword": "*raḱ-saḍi",
                 "sub_definition": "to cry in an audible voice"
             },
             {
@@ -43841,7 +43826,7 @@
     {
         "word": "raṅ-riń tan",
         "fone": "RANG, RAN",
-        "definition": "the sound of swords, etc. clanking against some solid object or falling on a solid surface (with verb saṛi, etc.)"
+        "definition": "the sound of swords, etc. clanking against some solid object or falling on a solid surface (with verb saḍi, etc.)"
     },
     {
         "word": "raṅ-riti tan",
@@ -44136,7 +44121,7 @@
     {
         "word": "raṛuṕ",
         "fone": "RADUP",
-        "definition": "to hit one's leg, foot or knee against one's own leg, etc., or that of another (used often in the reciprocal rapaṛub)"
+        "definition": "to hit one's leg, foot or knee against one's own leg, etc., or that of another (used often in the reciprocal raꝑaṛuṕ)"
     },
     {
         "word": "rasa-pasa tan",
@@ -44855,7 +44840,7 @@
                 "sub_definition": "the base of a cloud (i.e. the lowest part near the earth, see ote munḍi)"
             },
             {
-                "subword": "*rimil saṛi",
+                "subword": "*rimil saḍi",
                 "sub_definition": "thunder; to thunder"
             }
         ]
@@ -45410,7 +45395,7 @@
     {
         "word": "ropō",
         "fone": "ROPO",
-        "definition": "to be as yet incompletely fermented; the day before rice-beer is properly fermented (for which upud would be used)"
+        "definition": "to be as yet incompletely fermented; the day before rice-beer is properly fermented (for which uput́ would be used)"
     },
     {
         "word": "ropoć",
@@ -45574,7 +45559,7 @@
             },
             {
                 "subword": "*rú-rú tan",
-                "sub_definition": "the same of continued shouting (with verb iu, etc.) or of flying birds or bees making noise of flapping of wings or of buzzing (with verb saṛi, etc.); often used merely to indicate a large number, esp. of birds, e.g. oe ko rú-rú tanako or oe ko rú-rú tan menaḱkoa, 'the birds are numerous'; of water in a stream, to flow along making a noise (with verb haḍi, saḍi, etc.)"
+                "sub_definition": "the same of continued shouting (with verb iu, etc.) or of flying birds or bees making noise of flapping of wings or of buzzing (with verb saḍi, etc.); often used merely to indicate a large number, esp. of birds, e.g. oe ko rú-rú tanako or oe ko rú-rú tan menaḱkoa, 'the birds are numerous'; of water in a stream, to flow along making a noise (with verb haḍi, saḍi, etc.)"
             }
         ]
     },
@@ -46085,7 +46070,7 @@
             },
             {
                 "subword": "*Rva kea-uraa",
-                "sub_definition": "to call back a man's Rva which has left his body prior to death. Used in two cases - - 1) for a man who is near death or apparently dead, sometimes a Dẽoa will make efforts to call back into his body his Rva which perhaps is hiding in some nearby deep water, etc. 2) for a man who has physically recovered from sickness but is still weak and restless (Jiv ka sukuića) or mentally disturbed, divination or sacrifices are performed to recall his Rva, which is believed to still be roaming apart from the body, back into the body"
+                "sub_definition": "to call back a man's Rva which has left his body prior to death. Used in two cases - - 1) for a man who is near death or apparently dead, sometimes a Deõa will make efforts to call back into his body his Rva which perhaps is hiding in some nearby deep water, etc. 2) for a man who has physically recovered from sickness but is still weak and restless (Jiv ka sukuića) or mentally disturbed, divination or sacrifices are performed to recall his Rva, which is believed to still be roaming apart from the body, back into the body"
             },
             {
                 "subword": "*Rva maṭia",
@@ -46658,11 +46643,11 @@
     {
         "word": "Salae Bah Diri",
         "fone": "SALAE, SALQ",
-        "definition": "a smooth flat stone (about as big as can be held in one hand) into which certain Dẽoas can supposedly call the special power of spirits (reference to salae Bah not yet ascertained)",
+        "definition": "a smooth flat stone (about as big as can be held in one hand) into which certain Deõas can supposedly call the special power of spirits (reference to salae Bah not yet ascertained)",
         "subwords": [
             {
                 "subword": "*salae Bah dirite sala nam",
-                "sub_definition": "to divine e.g. to find the whereabouts of a lost or stolen object by holding a salae Bah diri (either the Dẽoa himself or someone deputed by him holds the stone) while the Dẽoa calls upon his guru spirits. Then the one holding the stone is led in s trance to the place where the lost or stolen object is. Some say that in some cases the stone if put down will even go by itself to the desired place"
+                "sub_definition": "to divine e.g. to find the whereabouts of a lost or stolen object by holding a salae Bah diri (either the Deõa himself or someone deputed by him holds the stone) while the Deõa calls upon his guru spirits. Then the one holding the stone is led in s trance to the place where the lost or stolen object is. Some say that in some cases the stone if put down will even go by itself to the desired place"
             }
         ]
     },
@@ -46912,7 +46897,7 @@
     {
         "word": "saṅ",
         "fone": "SANG, SAN",
-        "definition": "of a mother's breast, to give milk; of nage era, to increase water, e.g. in some pond"
+        "definition": "of a mother's breast, to give milk; of Nageèra, to increase water, e.g. in some pond"
     },
     {
         "word": "saṉayt́",
@@ -47634,8 +47619,8 @@
         "definition": "same as sãṛasum",
         "subwords": [
             {
-                "subword": "*sãṛasi maraṅ Bonga",
-                "sub_definition": "a title under which some people make offerings to maraṅ bonga; said by some to have originally been a servant spirit to maraṅ Bonga"
+                "subword": "*sãṛasi Maraṅbonga",
+                "sub_definition": "a title under which some people make offerings to Maraṅbonga; said by some to have originally been a servant spirit to Maraṅbonga"
             }
         ]
     },
@@ -47733,7 +47718,7 @@
         ]
     },
     {
-        "word": "saṛi",
+        "word": "saḍi",
         "fone": "SADI",
         "definition": "a noise; to sound",
         "subwords": [
@@ -47979,7 +47964,7 @@
     {
         "word": "saṭe-seṭe tan",
         "fone": "SATE, SATQ",
-        "definition": "the noise made by the rustling of the quills of a porcupine (with verb saṛi of the like)"
+        "definition": "the noise made by the rustling of the quills of a porcupine (with verb saḍi of the like)"
     },
     {
         "word": "sati",
@@ -49605,8 +49590,8 @@
         "definition": "a chain; handcuffs one's body, to become weak, slack",
         "subwords": [
             {
-                "subword": "*Sinkii Ikir Maraṅ Bonga",
-                "sub_definition": "name given to a spirit who reputedly stole the manḍal sakam of maraṅ Bonga and tied up with an iron chain (sinkii) Dupuṕ Disum Maraṅ Bonga and threw him into deep water (ikir) (this spirit also called kumbuu maraṅ bonga)"
+                "subword": "*Sinkii Ikir Maraṅbonga",
+                "sub_definition": "name given to a spirit who reputedly stole the manḍal sakam of Maraṅbonga and tied up with an iron chain (sinkii) Dupuṕ Disum Maraṅbonga and threw him into deep water (ikir) (this spirit also called kumbuu Maraṅbonga)"
             }
         ]
     },
@@ -49753,7 +49738,7 @@
         ]
     },
     {
-        "word": "sira-honko sira-gãko",
+        "word": "sira-hon ko sira-gãa ko",
         "fone": "SIRA, SIRQ",
         "definition": "assistant spirits to buru Bonga and desauli",
         "subwords": [
@@ -49853,7 +49838,7 @@
             },
             {
                 "subword": "*Sirma mã, sirma mata",
-                "sub_definition": "the phrase sirma mã (or mata or saṛa), sirma bichar is used in prayers by a Dẽoa apparently referring to a heavenly power or deity in an abstract way with meaning something like 'the divine majesty'"
+                "sub_definition": "the phrase sirma mã (or mata or saṛa), sirma bichar is used in prayers by a Deõa apparently referring to a heavenly power or deity in an abstract way with meaning something like 'the divine majesty'"
             },
             {
                 "subword": "*sirma Munḍi",
@@ -51976,7 +51961,7 @@
     {
         "word": "tabu",
         "fone": "TABU",
-        "definition": "possessive pronoun 1st per. pl. incl (see -ta-). e.g. rajatabu, our (pl. incl.) king'. Sometimes used to associate those addressed with the speaker, e.g. mar tabu sabepe, 'come on, friends, take hold of it'"
+        "definition": "possessive pronoun 1st per. pl. incl (see -ta-). e.g. raja tabû, our (pl. incl.) king'. Sometimes used to associate those addressed with the speaker, e.g. mar tabû saṕe pe, 'come on, friends, take hold of it'"
     },
     {
         "word": "tae",
@@ -53841,7 +53826,7 @@
     {
         "word": "tekeć ken",
         "fone": "TEKEC, TEKQ",
-        "definition": "to jingle, e.g. many small bells tied around the ankle (with verb saṛi, etc.)",
+        "definition": "to jingle, e.g. many small bells tied around the ankle (with verb saḍi, etc.)",
         "subwords": [
             {
                 "subword": "*tekeḱ-tekeḱtan",
@@ -56008,12 +55993,12 @@
         "definition": "to shoot (also toṛe)"
     },
     {
-        "word": "ṭoṭeḱ",
+        "word": "ṭoṭeć",
         "fone": "TOTEK, TOTQ",
         "definition": "to break off, e.g. flowers or leaves from a branch (also ṭoṭaḱ)",
         "subwords": [
             {
-                "subword": "*ṭoṭeḱ-goso",
+                "subword": "*ṭoṭeć-goso",
                 "sub_definition": "to make wither or fade by breaking off"
             }
         ]
@@ -56222,7 +56207,7 @@
         "subwords": [
             {
                 "subword": "*ṭukuṕ danḍaḱ",
-                "sub_definition": "the staff used by an old or sick person or by one who in a trance (rum) is assisting a Dẽoa, refl. verb - to go along using a staff; verb form with -aka aspect marker - to regularly walk with a staff (e.g. due to old age)"
+                "sub_definition": "the staff used by an old or sick person or by one who in a trance (rum) is assisting a Deõa, refl. verb - to go along using a staff; verb form with -aka aspect marker - to regularly walk with a staff (e.g. due to old age)"
             },
             {
                 "subword": "*ṭukuṕ-hapa",
