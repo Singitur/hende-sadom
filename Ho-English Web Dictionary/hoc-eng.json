@@ -58573,70 +58573,225 @@
         "definition": "to come. Tickell (1840:1080) [ADD]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "Keṭećtiꝑingu",
+        "fone": "KETEC, KETE",
+        "definition": "persistence [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "Japit́pati",
+        "fone": "JAPIT",
+        "definition": "superstition [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "Baikudum",
+        "fone": "BAI",
+        "definition": "myth [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "Lórhon",
+        "fone": "LOR",
+        "definition": "sewer [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "Kajigam",
+        "fone": "KAJI",
+        "definition": "story [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "Etochirgal",
+        "fone": "ETO",
+        "definition": "understanding [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "àchur",
+        "fone": "ACHUR",
+        "definition": "to turn, to change [NEO]"
     },
     {
-        "word": "Dirisunum",
+        "word": "àchurnam",
         "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "definition": "to transform [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "Hipĩṛiaḱ",
+        "fone": "HIRI, HIDI",
+        "definition": "misconception [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "Naṅgam",
+        "fone": "NANGAM, NAGAM",
+        "definition": "history. naṅ (ancient) + gamu (song, poem, tale) [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "Hat́ran",
+        "fone": "HAT",
+        "definition": "surgery [NEO]"
     },
 
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "rokasẽa",
+        "fone": "ROKA",
+        "definition": "primitive [NEO]"
     },
     {
-        "word": "Dirisunum",
-        "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "word": "àbugin",
+        "fone": "ABUGIN",
+        "definition": "to treat [NEO]"
+    },
+    {
+        "word": "at́hora",
+        "fone": "ATHORA",
+        "definition": "misguided [NEO]"
+    },
+    {
+        "word": "kulidarom",
+        "fone": "KULI",
+        "definition": "to question, to challenge [NEO]"
+    },
+    {
+        "word": "Sẽaringa",
+        "fone": "SEA",
+        "definition": "ignorance [NEO]"
+    },
+    {
+        "word": "EmRan",
+        "fone": "EM",
+        "definition": "a doctor [NEO]"
+    },
+    {
+        "word": "uduṕkatai",
+        "fone": "UDUP",
+        "definition": "to explain [NEO]"
+    },
+    {
+        "word": "evnmet́",
+        "fone": "EVN, EN",
+        "definition": "careful [NEO]"
+    },
+    {
+        "word": "met́horw",
+        "fone": "MET",
+        "definition": "to observe [NEO]"
+    },
+    {
+        "word": "Met́hopwr",
+        "fone": "MET",
+        "definition": "Observation [NEO]"
+    },
+    {
+        "word": "Sanaṕ",
+        "fone": "SANAP",
+        "definition": "an equipment [NEO]"
+    },
+    {
+        "word": "Tísanaṕ",
+        "fone": "ABUGIN",
+        "definition": "a handle [NEO]"
+    },
+    {
+        "word": "ànolht́",
+        "fone": "ANOLAT",
+        "definition": "to contaminate [NEO]"
+    },
+    {
+        "word": "etonam",
+        "fone": "ETO",
+        "definition": "to find (something academic) [NEO]"
+    },
+    {
+        "word": "Etonam",
+        "fone": "ETO",
+        "definition": "a finding [NEO]"
+    },
+    {
+        "word": "Menìpidu",
+        "fone": "MEN",
+        "definition": "scepticism [NEO]"
+    },
+    {
+        "word": "legasala",
+        "fone": "LEGA",
+        "definition": "to experiment [NEO]"
+    },
+    {
+        "word": "Legasala",
+        "fone": "LEGA",
+        "definition": "an experiment [NEO]"
+    },
+    {
+        "word": "uduṕbit́",
+        "fone": "UDUP",
+        "definition": "to prove [NEO]"
+    },
+    {
+        "word": "baibirt́",
+        "fone": "BAI",
+        "definition": "to develop (something) [NEO]"
+    },
+    {
+        "word": "etonam",
+        "fone": "NAM",
+        "definition": "to discover [NEO]"
+    },
+    {
+        "word": "Niralsuna",
+        "fone": "NIRAL",
+        "definition": "sterile, without contamination [NEO]"
+    },
+    {
+        "word": "Gonoć Achukul",
+        "fone": "GONOE, GONOC",
+        "definition": "a death sentence [NEO]"
+    },
+    {
+        "word": "NamRan",
+        "fone": "NAM",
+        "definition": "a patient [NEO]"
+    },
+    {
+        "word": "Saṕhora",
+        "fone": "SAP",
+        "definition": "a method [NEO]"
+    },
+    {
+        "word": "uduṕkatai",
+        "fone": "UDUP",
+        "definition": "to demonstrate (some concept etc.) [NEO]"
+    },
+    {
+        "word": "Salagár",
+        "fone": "SALA",
+        "definition": "a criteria [NEO]"
+    },
+    {
+        "word": "Daegan",
+        "fone": "DAE, DAI",
+        "definition": "success [NEO]"
+    },
+    {
+        "word": "Eṭećtí",
+        "fone": "ETEC, ETE",
+        "definition": "a pioneer [NEO]"
+    },
+    {
+        "word": "Duḱsida",
+        "fone": "DUK, DU",
+        "definition": "prevention [NEO]"
+    },
+    {
+        "word": "duḱsida",
+        "fone": "DUK, DU",
+        "definition": "to prevent [NEO]"
+    },
+    {
+        "word": "Legasala",
+        "fone": "LEGA",
+        "definition": "an experiment [NEO]"
+    },
+    {
+        "word": "Legasala",
+        "fone": "LEGA",
+        "definition": "an experiment [NEO]"
     },
     {
         "word": "Dirisunum",
