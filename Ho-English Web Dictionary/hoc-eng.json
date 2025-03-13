@@ -18595,7 +18595,7 @@
     {
         "word": "gur",
         "fone": "GUR, GUR",
-        "definition": "to make fall from a stand ing position; pass. to fall from a standing position (ef. jyuḱ, 'to fall from a height').",
+        "definition": "to make fall from a stand ing position; pass. to fall from a standing position (ef. iuḱ, 'to fall from a height').",
         "subwords": [
             {
                 "subword": "*gur-dali",
@@ -18620,9 +18620,9 @@
         ]
     },
     {
-        "word": "gur",
+        "word": "guṛ",
         "fone": "GUR, GUR",
-        "definition": "unrefined sugar (also güru)."
+        "definition": "unrefined sugar (also gúṛu)."
     },
     {
         "word": "gura",
@@ -20840,7 +20840,7 @@
         "definition": "to stir up or shake some liquid; to shake a liquid in a bottle; to stir up and mix water and mud with the feet in order to daze and catch fish; to sway or shake (in general, syn. of ekela)",
         "subwords": [
             {
-                "subword": "*helo-bora",
+                "subword": "*helo-boḍa",
                 "sub_definition": "to make muddy by shaking or stirring up water"
             }
         ]
@@ -20869,7 +20869,7 @@
     {
         "word": "Hembrom Daru",
         "fone": "HEMBROM",
-        "definition": "a small tree with fragrant small white flowers, Cordia myxa, L., Boraginaceae, H.95/1/3, B.95/1. The fruit of this is edible and also exudes a jayer which is used as a glue"
+        "definition": "a small tree with fragrant small white flowers, Cordia myxa, L., Boraginaceae, H.95/1/3, B.95/1. The fruit of this is edible and also exudes a jeyr which is used as a glue"
     },
     {
         "word": "hende",
@@ -20882,7 +20882,7 @@
             },
             {
                 "subword": "*hende daka",
-                "sub_definition": "a grass, much like sirun (chirun), q.v., but with the stem and daka black. It has medicinal usages"
+                "sub_definition": "a grass, much like siruṅ (chiruṅ), q.v., but with the stem and daka black. It has medicinal usages"
             },
             {
                 "subword": "*hende juguni",
@@ -23874,12 +23874,12 @@
         ]
     },
     {
-        "word": "jaer",
-        "fone": "JAER, JAQR",
-        "definition": "the gum exuding from the bark of a tree",
+        "word": "Jeyr",
+        "fone": "JAER, JAQR, JER",
+        "definition": "the gum exuding from the bark of a tree. Has. Jere; Nag. Jér, Jeher",
         "subwords": [
             {
-                "subword": "*jaer Á",
+                "subword": "*jér Á",
                 "sub_definition": "to have the lips dried up and sticky, e.g. from extreme thirst"
             }
         ]
@@ -31170,7 +31170,7 @@
         "definition": "relationship by marriage; a relation by marriage; In prayers used parallel to go., ‘carry with that meaning",
         "subwords": [
             {
-                "subword": "*kutum-kupulko",
+                "subword": "*kuṭum-kupul ko",
                 "sub_definition": "relations through marriage"
             }
         ]
