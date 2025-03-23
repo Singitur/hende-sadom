@@ -1267,7 +1267,7 @@
         "definition": "a marking; an inscription, engraving (verbal noun of anka)"
     },
     {
-        "word": "Aṉapã́",
+        "word": "Aṉapãa",
         "fone": "ANAPA, ANQPQ",
         "definition": "an opening made in an embankment to let water run off (verbal noun of apã́)"
     },
@@ -1763,12 +1763,12 @@
         ]
     },
     {
-        "word": "ara-uru",
+        "word": "aṛa-uṛu",
         "fone": "ARA, ARQ",
         "definition": "very rocky, (i.e. very rough and uneven from big rocks of varying sizes) (cf. also aṭa-uṭu)"
     },
     {
-        "word": "ara-uruḱ",
+        "word": "aṛa-uṛuḱ",
         "fone": "ARA, ARQ",
         "definition": "to waver; doubt"
     },
@@ -1778,9 +1778,9 @@
         "definition": "poetic form of aadu"
     },
     {
-        "word": "aṛagar",
+        "word": "Aḍagar",
         "fone": "ADAGAR, ADQGQR",
-        "definition": "a striped hyena."
+        "definition": "a striped hyena; also Haḍagar."
     },
     {
         "word": "aṛai",
@@ -3423,9 +3423,9 @@
         "definition": "to incite."
     },
     {
-        "word": "bakara",
+        "word": "bakara daru",
         "fone": "BAKARA, BAKQRQ",
-        "definition": "daru the 'baer' tree; Zizyphus jujuba, Lamk., Rhamnaceae, B.46/2; H.46/21.",
+        "definition": " the 'baer' tree; Zizyphus jujuba, Lamk., Rhamnaceae, B.46/2; H.46/21.",
         "subwords": [
             {
                 "subword": "*bakara lungam",
@@ -3434,9 +3434,9 @@
         ]
     },
     {
-        "word": "bakaṛa",
+        "word": "bakãṛa",
         "fone": "BAKARA, BAKQRQ",
-        "definition": "same as bakaa."
+        "definition": "same as bakãa."
     },
     {
         "word": "bakara-biuṅ",
@@ -6666,9 +6666,9 @@
         ]
     },
     {
-        "word": "bor-gundai",
+        "word": "bor-gunḍai",
         "fone": "BOR, BOR",
-        "definition": "a snake ap- parently the same as Hoffman's buru gandai -a hooded snake with erect poison fangs. The neck is dilatable, but less than that of the cobra. This snake is yellow and dark brown. Its belly is yellow and black towards the tail (also called borbundae, gorgundae)."
+        "definition": "a snake apparently the same as Hoffman's buru ganḍai -a hooded snake with erect poison fangs. The neck is dilatable, but less than that of the cobra. This snake is yellow and dark brown. Its belly is yellow and black towards the tail (also called borbunḍae, gorgunḍae)."
     },
     {
         "word": "bor-longi",
@@ -6705,9 +6705,9 @@
         "definition": "Bharbharia village."
     },
     {
-        "word": "borbundai",
+        "word": "borbunḍai",
         "fone": "BORBUNDAI, BORBUNDQI",
-        "definition": "a snake, same as borgundai, q.v."
+        "definition": "a snake, same as borgunḍai, q.v."
     },
     {
         "word": "borcha",
@@ -9903,11 +9903,6 @@
         "word": "chiri-biri, chiri-biri",
         "fone": "CHIRI, CIRI",
         "definition": "a slight smarting sensation in one's skin such as is sometimes experienced after scrubbing and applying soap on a very cold day.(chíri-bíri is the more common forn) (chíra-birae is also used for this)"
-    },
-    {
-        "word": "chiri-biri, chiri-biri",
-        "fone": "CHIRI, CIRI",
-        "definition": "a topknot of hair (Chundi) worn by some Hindus"
     },
     {
         "word": "chirić",
@@ -19950,7 +19945,7 @@
         "definition": "to grow",
         "subwords": [
             {
-                "subword": "*hara-lanáḱ",
+                "subword": "*hara-lanahḱ",
                 "sub_definition": "to grow excessively, e.g. weeds outgrowing paddy stalks"
             },
             {
@@ -22036,7 +22031,7 @@
                 "sub_definition": "a collective noun for roads; to establish a relationship (through marriage)"
             },
             {
-                "subword": "*hora gata",
+                "subword": "*hora gáṭa",
                 "sub_definition": "a place on a road where people gather"
             },
             {
@@ -28091,7 +28086,7 @@
         "definition": "the call of a goose or of a crane (agomari)"
     },
     {
-        "word": "kata",
+        "word": "kaṭa",
         "fone": "KATA, KATQ",
         "definition": "to leave only the stalk or trunk having eaten or destroyed the grains and/or leaves, (e.g. of the action of silkworms, hail, chickens cattle) a tickling $"
     },
@@ -29435,13 +29430,13 @@
         "definition": "of a cock, to crow (also kokorin and kokotéd )"
     },
     {
-        "word": "kokodon",
+        "word": "kokoḍoṅ",
         "fone": "KOKODON",
         "definition": "-of a snake, to stretch its head upward; of a man, to make a like motion stretching his neck to see something; of a tree, etc., to be shaped in this way",
         "subwords": [
             {
-                "subword": "*kokodon-rakaṕ",
-                "sub_definition": "same as kokodon"
+                "subword": "*kokoḍoṅ-rakaṕ",
+                "sub_definition": "same as kokoḍoṅ"
             }
         ]
     },
@@ -29915,17 +29910,17 @@
         ]
     },
     {
-        "word": "korora",
+        "word": "koṛora",
         "fone": "KORORA, KORORQ",
         "definition": "a whip e.g. such as are made of bat́chom Baver"
     },
     {
-        "word": "korora",
+        "word": "koṛora",
         "fone": "KORORA, KORORQ",
         "definition": "a transitory disturbance of the stomach which causes urine to come out thick"
     },
     {
-        "word": "koroto",
+        "word": "Koroto",
         "fone": "KOROTO",
         "definition": "a saw"
     },
@@ -31118,17 +31113,17 @@
         ]
     },
     {
-        "word": "kutil",
+        "word": "kuṭil",
         "fone": "KUTIL",
         "definition": "to squirm, stir"
     },
     {
-        "word": "kutit́",
+        "word": "kuṭit́",
         "fone": "KUTIT",
         "definition": "to fasten the Atoal (bow-string) to the bow so that it is ready for shooting"
     },
     {
-        "word": "kut́lam",
+        "word": "Kut́lam",
         "fone": "KUTLAM, KUTLQM",
         "definition": "a ‘kudaly (spade)"
     },
@@ -31138,12 +31133,12 @@
         "definition": "a bowl"
     },
     {
-        "word": "kut́ranh",
+        "word": "kut́raṅ",
         "fone": "KUDRANH, KUDRQNH",
-        "definition": "to tie on the back $"
+        "definition": "to tie on the back"
     },
     {
-        "word": "kutri, kuturi",
+        "word": "kuṭri, kuṭuri",
         "fone": "KUTRI",
         "definition": "a room"
     },
@@ -31417,7 +31412,7 @@
                 "sub_definition": "to take out by planing or clearing the ground"
             },
             {
-                "subword": "*laḱ-pacharat́",
+                "subword": "*laḱ-pachaṛat́",
                 "sub_definition": "to level ground with a hoe clearing away any grass, etc."
             },
             {
@@ -35347,7 +35342,7 @@
                 "sub_definition": "a bamboo umbrella (see also lijaḱ chatom )"
             },
             {
-                "subword": "*Mat́ Ḍanḍaḱ",
+                "subword": "*Mat́ Danḍaḱ",
                 "sub_definition": "a stick (e.g. for herding cattle) made of bamboo"
             },
             {
@@ -38753,7 +38748,7 @@
     {
         "word": "nuṯum",
         "fone": "NUTUM",
-        "definition": "name; to name (to translate 'name after' either a) an -a aspect can be used, e.g. nutumańpe, 'name him after me', or b) a-re postposition can be used, e.g. en hon enić regekô nutumića, 'they will name that child after him'); to call upon the name of God or some spirit in prayer, refl. to make a name for oneself; pass. - to become renowned, to get a name or reputation; as verbal affix - to do an action (expressed in the primary root) in a nominal way, merely to be able to say that one has done it",
+        "definition": "name; to name (to translate 'name after' either a) an -a aspect can be used, e.g. nutumań pe, 'name him after me', or b) a -re postposition can be used, e.g. en hon enić regekô nutumića, 'they will name that child after him'); to call upon the name of God or some spirit in prayer, refl. to make a name for oneself; pass. - to become renowned, to get a name or reputation; as verbal affix - to do an action (expressed in the primary root) in a nominal way, merely to be able to say that one has done it",
         "subwords": [
             {
                 "subword": "*nuṯum-chakat́enn",
@@ -43798,8 +43793,8 @@
         "definition": "of a tree, to have spreading branches without heavy foliage so that sun rays pass through"
     },
     {
-        "word": "rambah",
-        "fone": "RAMBAH, RAMBQH",
+        "word": "rambaa",
+        "fone": "RAMBA, RAMBQ",
         "definition": "a green gram, a cultivated pulse, when the term is used alone it usually refers to a smooth-seed variety called urid in Hindi (see under bōr ramba). For other varieties of rambaa see also under nangali rambaa (also called jiliń rambaa because of its long pods), and gangara rambaa (also called goḍa rambaa)"
     },
     {
@@ -50192,14 +50187,9 @@
         ]
     },
     {
-        "word": "soḍa",
-        "fone": "SODA, SODQ",
-        "definition": "washing soda"
-    },
-    {
-        "word": "soḍḍoṅ",
+        "word": "sot́ḍoṅ",
         "fone": "SODDONG, SODDON",
-        "definition": "used in term sama soḍḍon, q.v., not used alone"
+        "definition": "used in term sama sot́ḍon, q.v., not used alone"
     },
     {
         "word": "sodor Gaḍa",
@@ -50252,9 +50242,9 @@
         "definition": "a kind of diviner sup- posed to have power to discern fu- ture or hidden events"
     },
     {
-        "word": "sõkai",
-        "fone": "SOKAI, SOKQI",
-        "definition": "used in the expression mii sõkai, 'very many (not used alone)"
+        "word": "sonkai",
+        "fone": "SONKAI, SONKQI",
+        "definition": "used in the expression mit́ sonkai, 'very many (not used alone)"
     },
     {
         "word": "sokaṕ",
@@ -51781,7 +51771,7 @@
         "definition": "interest (e.g on a loan. Villagers sometimes use honko or posapaa for this)"
     },
     {
-        "word": "súta",
+        "word": "suuta",
         "fone": "SUTA, SUTQ",
         "definition": "an open handful (cf. chiput́, a fistful, and anjuli, two joined hands full)"
     },
@@ -56662,7 +56652,7 @@
         "definition": "of chickens, doves, etc., to be fat with big stomach and short legs"
     },
     {
-        "word": "ṭuꝑuṅ",
+        "word": "Ṭupuṅ",
         "fone": "TUPUNG, TUPUN",
         "definition": "a small insect which attacks plants and grains, found esp. on rambaa plants; of such insects, to attack grain"
     },
