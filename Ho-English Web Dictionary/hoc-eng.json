@@ -20722,21 +20722,41 @@
             },
             {
                 "subword": "*hể",
-                "sub_definition": "chaff, husk (of grains)"
+                "sub_definition": ""
             },
             {
-                "subword": "*hẽ Lupuḱ",
-                "sub_definition": "the chaff and powdery waste produced by husking grains"
+                "subword": "",
+                "sub_definition": ""
             },
             {
                 "subword": "*heć",
-                "sub_definition": "a swallow (bird)"
+                "sub_definition": ""
             },
             {
-                "subword": "*hëć kapi",
-                "sub_definition": "a swallow (resembling a kapi, 'hunting axe')"
+                "subword": "",
+                "sub_definition": ""
             }
         ]
+    },
+    {
+        "word": "Hee",
+        "fone": "HE",
+        "definition": "chaff, husk (of grains); Mun. heṛe",
+        "subwords": [
+            {
+                "subword": "*hẽ Lupuḱ",
+                "sub_definition": "the chaff and powdery waste produced by husking grains"
+            }    ]
+    },
+    {
+        "word": "Hẽeć",
+        "fone": "HE, HEEC",
+        "definition": "a swallow (bird). Mun. hẽṛẽ",
+        "subwords": [
+            {
+                "subword": "*Hẽećkapi",
+                "sub_definition": "a swallow (resembling a kapi, 'hunting axe')"
+            }    ]
     },
     {
         "word": "heć-heć tan",
@@ -58714,9 +58734,9 @@
         "definition": "to experiment [NEO]"
     },
     {
-        "word": "Legasala",
-        "fone": "LEGA",
-        "definition": "an experiment [NEO]"
+        "word": "goṅdarom",
+        "fone": "GONG, GONGDAROM, GONDAROM",
+        "definition": "to do something in response, to retaliate. [NEO]"
     },
     {
         "word": "uduṕbit́",
@@ -58751,7 +58771,7 @@
     {
         "word": "Saṕhora",
         "fone": "SAP",
-        "definition": "a method [NEO]"
+        "definition": "a method, a way of doing something. [NEO]"
     },
     {
         "word": "uduṕkatai",
@@ -58782,6 +58802,331 @@
         "word": "duḱsida",
         "fone": "DUK, DU",
         "definition": "to prevent [NEO]"
+    },
+    {
+        "word": "Etosanaṕ",
+        "fone": "ETO",
+        "definition": "technology [NEO]"
+    },
+    {
+        "word": "Baitíaṉasẽa",
+        "fone": "BAI",
+        "definition": "artificial intelligence [NEO]"
+    },
+    {
+        "word": "tingugaṅ",
+        "fone": "TINGU",
+        "definition": "to be independent [NEO]"
+    },
+    {
+        "word": "tingupeećjoṅ",
+        "fone": "TINGU",
+        "definition": "to be self-sufficient [NEO]"
+    },
+    {
+        "word": "tingupeećann",
+        "fone": "TINGU",
+        "definition": "self-sufficient [NEO]"
+    },
+    {
+        "word": "Eṉelaṅ",
+        "fone": "ENELANG, ENELAN",
+        "definition": "an influence, impact. [NEO]"
+    },
+    {
+        "word": "Talasurt́",
+        "fone": "TALA, TALASUR",
+        "definition": "the central issue. [NEO]"
+    },
+    {
+        "word": "Ẽećdaṉarom",
+        "fone": "EECDANAROM, EE, EEC",
+        "definition": "anything posing a threat of decimation, defeat. [NEO]"
+    },
+    {
+        "word": "Legasala",
+        "fone": "LEGA",
+        "definition": "an experiment [NEO]"
+    },
+    {
+        "word": "haṭiṅsert́",
+        "fone": "HATIN, HATING, HATINGSERT",
+        "definition": "to be fragmented. [NEO]"
+    },
+    {
+        "word": "peećpairenn",
+        "fone": "PEEC, PEECPAIR",
+        "definition": "to put all effort (into doing something) [NEO]"
+    },
+    {
+        "word": "Taꝑaṛar",
+        "fone": "TAPADAR, TAPADARPAI",
+        "definition": "a (metaphorical) battleground. [NEO]"
+    },
+    {
+        "word": "ayartí",
+        "fone": "AYER, AYARTI",
+        "definition": "to be dominant (in some sector etc.) [NEO]"
+    },
+    {
+        "word": "saṕsuba",
+        "fone": "SAP, SAPSUBA",
+        "definition": "to control. [NEO]"
+    },
+    {
+        "word": "Hokatiṅ",
+        "fone": "HOKA, HOKATING, HOKATIN",
+        "definition": "a ban (on something). [NEO]"
+    },
+    {
+        "word": "àringa",
+        "fone": "ARINGA",
+        "definition": "to deprive (sombody of something). [NEO]"
+    },
+    {
+        "word": "Kiriṅgonoṅ",
+        "fone": "KIRING, KIRIN, KIRINGONON",
+        "definition": "commodity prices. [NEO]"
+    },
+    {
+        "word": "Teꝑertuꝑuń",
+        "fone": "TEPERTUPUN, TEPERTUPUNJ",
+        "definition": "a (violent) conflict, a clash. [NEO]"
+    },
+    {
+        "word": "emdãe",
+        "fone": "EM, EMDAE",
+        "definition": "to sacrifice. [NEO]"
+    },
+    {
+        "word": "àchurùtar",
+        "fone": "ACHUR, ACHURUTAR",
+        "definition": "to revolutionize, to completely change something. [NEO]"
+    },
+    {
+        "word": "hoꝑwrsuba",
+        "fone": "HOPOR, HOPORSUBA",
+        "definition": "to surveil. [NEO]"
+    },
+    {
+        "word": "dabonlebet́",
+        "fone": "DABON, DABONLEBET",
+        "definition": "to suppress. [NEO]"
+    },
+    {
+        "word": "kajichunḍul",
+        "fone": "KAJI, KAJICHUNDUL",
+        "definition": "to accuse. [NEO]"
+    },
+    {
+        "word": "Biṉiṯirit́",
+        "fone": "BINITIRIT",
+        "definition": "an initiative. [NEO]"
+    },
+    {
+        "word": "Peećumbul",
+        "fone": "PEEC, PEECUMBUL",
+        "definition": "the sphere of influence. [NEO]"
+    },
+    {
+        "word": "Jaṉapaḱ",
+        "fone": "JANAPA, JANAPAK",
+        "definition": "relationship, contact. [NEO]"
+    },
+    {
+        "word": "talasah",
+        "fone": "TALASA",
+        "definition": "the middle region. Adj. neutral [NEO]"
+    },
+    {
+        "word": "jaròr",
+        "fone": "JAROR",
+        "definition": "to entice, to woo, to try to impress. [NEO]"
+    },
+    {
+        "word": "Tingupai",
+        "fone": "TINGU, TINGUPAI",
+        "definition": "a stance (on somehthing), standing. [NEO]"
+    },
+    {
+        "word": "Dengatiꝑí",
+        "fone": "DENGA, DENGATIPI",
+        "definition": "cooperation [NEO]"
+    },
+    {
+        "word": "bainama",
+        "fone": "BAINAMA",
+        "definition": "to innovate. [NEO]"
+    },
+    {
+        "word": "Tolmiít́sutam",
+        "fone": "TOLMIT",
+        "definition": "a unifying factor. [NEO]"
+    },
+    {
+        "word": "Kapalom",
+        "fone": "KAPALOM",
+        "definition": "the future. [NEO]"
+    },
+    {
+        "word": "Hovbanasa",
+        "fone": "HOBANASA",
+        "definition": "population, demographic situation. [NEO]"
+    },
+    {
+        "word": "Aṉachur",
+        "fone": "ANACUR",
+        "definition": "a change, a shift. [NEO]"
+    },
+    {
+        "word": "Nelèpeto",
+        "fone": "NELEPETO",
+        "definition": "learnings, lessons, takeaways. [NEO]"
+    },
+    {
+        "word": "Naṅgam",
+        "fone": "NANGAM",
+        "definition": "the history. [NEO]"
+    },
+    {
+        "word": "Etochaṉal",
+        "fone": "ETOCANAL",
+        "definition": "culture, traditions. [NEO]"
+    },
+    {
+        "word": "Telanambiti",
+        "fone": "TELANAMBITI",
+        "definition": "heritage, inheritance. [NEO]"
+    },
+    {
+        "word": "salaèskar",
+        "fone": "SALAESKAR",
+        "definition": "Adj. unique. [NEO]"
+    },
+    {
+        "word": "gaṅtannga",
+        "fone": "GANG",
+        "definition": "to be isolated. [NEO]"
+    },
+    {
+        "word": "nelchika",
+        "fone": "NELCIKA",
+        "definition": "to handle, to deal with (a situation etc.) [NEO]"
+    },
+    {
+        "word": "aꝑatom",
+        "fone": "APATOM",
+        "definition": "to shift, to substitute, to transfer. [NEO]"
+    },
+    {
+        "word": "jangi",
+        "fone": "JANGI",
+        "definition": "to protect, to secure. [NEO]"
+    },
+    {
+        "word": "uruṕrevn",
+        "fone": "UDUP, UDUPREN",
+        "definition": "to caution, to alert, to make aware (someone of something) [NEO]"
+    },
+    {
+        "word": "tingusangi",
+        "fone": "TINGU, TINGUSANGI",
+        "definition": "to be in the majority. [NEO]"
+    },
+    {
+        "word": "Unduṕdisum",
+        "fone": "UNDUP, UNDUPDISUM",
+        "definition": "one's motherland. [NEO]"
+    },
+    {
+        "word": "tinguètaṅ",
+        "fone": "TINGUETAN, TINGUETANG",
+        "definition": "to be in the minority. [NEO]"
+    },
+    {
+        "word": "Goꝑoćtuꝑuń",
+        "fone": "GOPO, GOPOC, GOPOCTUPUN",
+        "definition": "a war, battle. [NEO]"
+    },
+    {
+        "word": "ṟaagu",
+        "fone": "RAAGU",
+        "definition": "to bring something down, to depose, make someone step down (from a position). [NEO]"
+    },
+    {
+        "word": "Aṉachupeeć",
+        "fone": "ANACHUPEEC",
+        "definition": "power to execute something, issue orders, executive power. [NEO]"
+    },
+    {
+        "word": "ochatiṅ",
+        "fone": "OCATIN, OCATING",
+        "definition": "to warn, to caution. [NEO]"
+    },
+    {
+        "word": "agubit́",
+        "fone": "AGUBIT",
+        "definition": "to implement (laws etc.) [NEO]"
+    },
+    {
+        "word": "saṕkur",
+        "fone": "SAPKUR",
+        "definition": "to arrest. [NEO]"
+    },
+    {
+        "word": "Saꝑakam",
+        "fone": "SAPAKAM",
+        "definition": "documents, paperwork. [NEO]"
+    },
+    {
+        "word": "olsit́",
+        "fone": "OLSIT",
+        "definition": "to sign (a document etc.) [NEO]"
+    },
+    {
+        "word": "rakajangi",
+        "fone": "RAKAJANGI",
+        "definition": "to preserve, to protect. [NEO]"
+    },
+    {
+        "word": "jagarùduṕ",
+        "fone": "JAGARUDUP",
+        "definition": "to demonstrate, to show, to portray. [NEO]"
+    },
+    {
+        "word": "umaasamaṅ",
+        "fone": "UMA, UMASAMAN",
+        "definition": "to compare, to weigh (against something). [NEO]"
+    },
+    {
+        "word": "soṅlavr",
+        "fone": "SONLAR, SONGLAR",
+        "definition": "to underestimate. [NEO]"
+    },
+    {
+        "word": "duḱjangi",
+        "fone": "DUKJANGI, DUJANGI",
+        "definition": "to save and protect. [NEO]"
+    },
+    {
+        "word": "ṟeneṭeć",
+        "fone": "RENETE, RENETEC",
+        "definition": "to cause (something). [NEO]"
+    },
+    {
+        "word": "Rebensayar",
+        "fone": "REBEN, REBENSAYAR",
+        "definition": "peace. [NEO]"
+    },
+    {
+        "word": "BasaSida",
+        "fone": "BASASIDA",
+        "definition": "original inhabitant, indigenous inhabitant. [NEO]"
+    },
+    {
+        "word": "Uꝑunduṕsoṯoṅ",
+        "fone": "UPUNDUPSOTON",
+        "definition": "birth rate. [NEO]"
     },
     {
         "word": "Legasala",
