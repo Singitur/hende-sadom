@@ -249,7 +249,7 @@
                 "sub_definition": "a long beak, e.g. of stork."
             },
             {
-                "subword": "*Á Daṭa",
+                "subword": "*Ah Daṭa",
                 "sub_definition": "a spell caused by flattery, mantras or other spoken words (compare nojor a spell cast by the evil eye); to speak ill of others; to so cast a spell on someone (thereby causing harm to him or to something belonging to him, e.g. his cultivation)."
             },
             {
@@ -14090,8 +14090,12 @@
                 "sub_definition": "to make wet by pouring some liquid"
             },
             {
-                "subword": "*dul-muyu",
+                "subword": "*dul-miw",
                 "sub_definition": "a calf-shaped statue made of cast metal dul-omon to make sprout by watering"
+            },
+            {
+                "subword": "*dul-omon",
+                "sub_definition": "to make sprout by watering"
             },
             {
                 "subword": "*dul-oḍann",
@@ -36180,12 +36184,12 @@
     {
         "word": "Miw",
         "fone": "MIU",
-        "definition": "a calf (also muyu). Sat. Mihu"
+        "definition": "a calf (also muyu). Sat. Mĩhũ"
     },
     {
         "word": "mó",
         "fone": "MO",
-        "definition": "swollen; to swell; pass. to become swollen",
+        "definition": "swollen; to swell; pass. to become swollen. Sat. mõ",
         "subwords": [
             {
                 "subword": "*mó-batua",
@@ -36210,9 +36214,9 @@
         ]
     },
     {
-        "word": "moć",
+        "word": "moy",
         "fone": "MOC, MO",
-        "definition": "to blossom, bud"
+        "definition": "to blossom, bud. Sat. mõhẽ"
     },
     {
         "word": "móć",
@@ -36221,7 +36225,7 @@
         "subwords": [
             {
                 "subword": "*móć-móćoḱ ge",
-                "sub_definition": "beautifully (moćmoć + oḱge) e.g. honte kui moćmojoḱgeć nel-senger eana, ‘His daughter grew into young womanhood beautifully’"
+                "sub_definition": "beautifully (moćmoć + oḱge) e.g. honte kui moćmoćoḱgeć nel-senger eana, ‘His daughter grew into young womanhood beautifully’"
             }
         ]
     },
@@ -36272,12 +36276,12 @@
         ]
     },
     {
-        "word": "mõe",
+        "word": "moe",
         "fone": "MOE, MOQ",
         "definition": "five (short form)"
     },
     {
-        "word": "mõea",
+        "word": "moea",
         "fone": "MOEA, MOQ",
         "definition": "five (long form)"
     },
@@ -37051,7 +37055,7 @@
     {
         "word": "muyu",
         "fone": "MUYU",
-        "definition": "a calf (also miyu)"
+        "definition": "a calf (also Miw)"
     },
     {
         "word": "muyuḱ",
@@ -50674,16 +50678,16 @@
         "definition": "used in phrase jumbui-soṛa (gluttonous, a term used in scolding), not used alone"
     },
     {
-        "word": "sórae",
+        "word": "sohrae",
         "fone": "SORAE, SORQ",
         "definition": "a feast celebrated by many other Adibasis of Chotanagpur but not by the Hos. Hos living in areas near where it is celebrated join in the dancing",
         "subwords": [
             {
-                "subword": "*sorae Bah",
+                "subword": "*sohrae Bah",
                 "sub_definition": "a name given to the nalgum Bah (q.v.) because it blossoms about the time of the sorae feast"
             },
             {
-                "subword": "*sórae chanḍuḱ",
+                "subword": "*sohrae chanḍuḱ",
                 "sub_definition": "the month when the sōrae feast is celebrated (the second part of Oct. and the first part of Nov.)"
             }
         ]
