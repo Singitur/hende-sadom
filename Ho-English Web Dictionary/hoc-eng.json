@@ -3158,12 +3158,12 @@
         ]
     },
     {
-        "word": "baguri",
+        "word": "baguṛi",
         "fone": "BAGURI, BAGURI",
         "definition": "to separate from the flock or herd.",
         "subwords": [
             {
-                "subword": "*baguri-olt́",
+                "subword": "*baguṛi-olt́",
                 "sub_definition": "to separate from the flock or herd."
             }
         ]
@@ -3180,11 +3180,11 @@
         "subwords": [
             {
                 "subword": "*bah basi",
-                "sub_definition": "the day after the ba feast."
+                "sub_definition": "the day after the Bah feast."
             },
             {
                 "subword": "*bah Chanḍuḱ",
-                "sub_definition": "the month (about March) when the sal (sarjom) trees blossom and the ba feast is observed."
+                "sub_definition": "the month (about March) when the sal (sarjom) trees blossom and the Bah feast is observed."
             },
             {
                 "subword": "*bah dumbu",
@@ -3196,7 +3196,7 @@
             },
             {
                 "subword": "*bah gurić",
-                "sub_definition": "the day before the ba feast, on which day the women clean the house and courtyard with guri: (wet cowdung); refl. -to observe the customs of the day before the ba feast."
+                "sub_definition": "the day before the Bah feast, on which day the women clean the house and courtyard with gurić (wet cowdung); refl. -to observe the customs of the day before the Bah feast."
             },
             {
                 "subword": "*bah jonoḱ",
@@ -5011,7 +5011,7 @@
         "subwords": [
             {
                 "subword": "*beja sim",
-                "sub_definition": "a chicken entrusted by the head of a household to be sacrificed by a diuri and then taken back to be eaten by the members of the household (this is done on the occasion of the ba feast and also at the time of a borobonji sacrifice) videdorg."
+                "sub_definition": "a chicken entrusted by the head of a household to be sacrificed by a diuri and then taken back to be eaten by the members of the household (this is done on the occasion of the Bah feast and also at the time of a borobonji sacrifice) videdorg."
             }
         ]
     },
@@ -6560,7 +6560,7 @@
             },
             {
                 "subword": "*bonga-uraa",
-                "sub_definition": "to sacrifice again (after some long interval, e.g. one year) e.g. on the annual hon ba feast or when someone who is sick has not recovered after the first sacrifice."
+                "sub_definition": "to sacrifice again (after some long interval, e.g. one year) e.g. on the annual Honbah feast or when someone who is sick has not recovered after the first sacrifice."
             },
             {
                 "subword": "*bonga uru",
@@ -8513,7 +8513,7 @@
     {
         "word": "Changuṛia",
         "fone": "CHANGUDIA, CANUDIQ",
-        "definition": "a drum-beat and dance of the ba feast (other beats of the Bah feast are Gena and Gadua or Jadur)"
+        "definition": "a drum-beat and dance of the Bah feast (other beats of the Bah feast are Gena and Gadua or Jadur)"
     },
     {
         "word": "Chanka",
@@ -13328,7 +13328,7 @@
         "subwords": [
             {
                 "subword": "*dóm-uraa",
-                "sub_definition": "an offering, e.g. paddy, made in order to appease a spirit, e.g. in the hon ba feast paddy is offered to Siṅgbonga to request him to have the baba-enga protect the paddy"
+                "sub_definition": "an offering, e.g. paddy, made in order to appease a spirit, e.g. in the hon Bah feast paddy is offered to Siṅgbonga to request him to have the baba-enga protect the paddy"
             }
         ]
     },
@@ -23836,7 +23836,7 @@
     {
         "word": "Jadur",
         "fone": "JADUR",
-        "definition": "a particular type of drum beat and tune used for the ba feast; to sing or dance to a Jadur tune (for this only a Dumaṅ is used, not a Dama)",
+        "definition": "a particular type of drum beat and tune used for the Bah feast; to sing or dance to a Jadur tune (for this only a Dumaṅ is used, not a Dama)",
         "subwords": [
             {
                 "subword": "*Jadur Dumaṅ",
