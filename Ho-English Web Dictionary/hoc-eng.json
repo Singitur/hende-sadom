@@ -298,7 +298,7 @@
             },
             {
                 "subword": "*mit́ Á",
-                "sub_definition": "a word, a few words (e.g. in the expression mit́ á reó kajièm, 'say at least something'); (when followed by a noun) a mouthful, e.g. mit́ á jilu, a mouthful of meat."
+                "sub_definition": "a word, a few words (e.g. in the expression mit́ Ah reó kajièm, 'say at least something'); (when followed by a noun) a mouthful, e.g. mit́ Ah jilu, a mouthful of meat."
             },
             {
                 "subword": "*mit́ Á taṕ",
@@ -1808,7 +1808,7 @@
             },
             {
                 "subword": "*Araḱ Bah Reht́",
-                "sub_definition": "medicine of the Araḱ Bah tree. Its medicine is said to be bitter (mér)."
+                "sub_definition": "medicine of the Araḱ Bah tree. Its medicine is said to be bitter (mevr)."
             },
             {
                 "subword": "*Araḱ Chãya",
@@ -1863,7 +1863,7 @@
     {
         "word": "aṛaḱ",
         "fone": "ADAK, ADQ",
-        "definition": "poetic form of áḱ, to release."
+        "definition": "poetic form of aaḱ, to release."
     },
     {
         "word": "araṅ",
@@ -8494,7 +8494,7 @@
         "definition": "of the mouth, to be opened wide",
         "subwords": [
             {
-                "subword": "*chango á",
+                "subword": "*chango Ah",
                 "sub_definition": "with mouth wide open, open-mouthed, loud mouthed (used of a person who is given to frequent scolding; also used with tan and verbs such as raḱ, iu)"
             }
         ]
@@ -18853,7 +18853,7 @@
                 "sub_definition": "the first pre-monsoon rains coming about May"
             },
             {
-                "subword": "*haaht́-mér (tan)",
+                "subword": "*haaht́-mevr (tan)",
                 "sub_definition": "of one's way of speaking, harsh (with verb kaji, etc.) had muć an ant with a stinging bite"
             },
             {
@@ -31420,7 +31420,7 @@
         "definition": "of the mouth, to be shrivelled up because toothless",
         "subwords": [
             {
-                "subword": "*lamuṅ á",
+                "subword": "*lamuṅ Ah",
                 "sub_definition": "having a shrivelled mouth"
             },
             {
@@ -32523,7 +32523,7 @@
         "definition": "to protrude or spread out the lower lip when crying or about to cry (esp. of children)",
         "subwords": [
             {
-                "subword": "*lila á",
+                "subword": "*lila Ah",
                 "sub_definition": "mouth with a protruding thick lower lip"
             }
         ]
@@ -32549,7 +32549,7 @@
         "definition": "of one's mouth, to be partly open and the lower lip protruding",
         "subwords": [
             {
-                "subword": "*lilua á",
+                "subword": "*lilua Ah",
                 "sub_definition": "a mouth as in lilua"
             }
         ]
@@ -32970,7 +32970,7 @@
         "definition": "same as mã lokin, q.v."
     },
     {
-        "word": "lola á",
+        "word": "lola Ah",
         "fone": "LOLA, LOLQ",
         "definition": "to turn up the lips when about to cry"
     },
@@ -32998,7 +32998,7 @@
         ]
     },
     {
-        "word": "lolonga á",
+        "word": "lolonga Ah",
         "fone": "LOLONGA, LOLONQ",
         "definition": "to hold one's mouth partly open with the lower lip protruding, e.g. when pouting"
     },
@@ -33094,17 +33094,17 @@
         ]
     },
     {
-        "word": "lor-lor á",
+        "word": "lor-lor Ah",
         "fone": "LOR",
         "definition": "same as lorka"
     },
     {
-        "word": "lorba á",
+        "word": "lorba Ah",
         "fone": "LORBA, LORBQ",
         "definition": "of the lips, esp. the upper one, to be swollen out, e.g after a wasp's bite or as a permanent feature"
     },
     {
-        "word": "lorka á",
+        "word": "lorka Ah",
         "fone": "LORKA, LORKQ",
         "definition": "to hold the lips slightly extended, e.g. of one about to cry, of one pouting, or of one in deep gloom (e.g. because hungry)"
     },
@@ -33731,7 +33731,7 @@
     {
         "word": "lunṭi, lunuṭi",
         "fone": "LUNTI",
-        "definition": "the lips (usually preceded by á)"
+        "definition": "the lips (usually preceded by Ah)"
     },
     {
         "word": "luṉukić",
@@ -33927,7 +33927,7 @@
     {
         "word": "macha-muchu",
         "fone": "MACHA, MACQ",
-        "definition": "used in the expression macha-muchu átenko to describe the mouth of Spirits (prob. connoting ‘pointed’)"
+        "definition": "used in the expression macha-muchu Ahtenko to describe the mouth of Spirits (prob. connoting ‘pointed’)"
     },
     {
         "word": "machakúmba",
@@ -34552,7 +34552,7 @@
         "definition": "big, great; to become big; to grow",
         "subwords": [
             {
-                "subword": "*maraṅ á",
+                "subword": "*maraṅ Ah",
                 "sub_definition": "to scold (implies a certain intimacy, e.g. a parent to a child) (can be used as a verb with a dir. animate obj., or can be used with a -te affix and the verb kaji , e.g. jahić ó maraṅ Á te kako kajiakoa , ‘No one will scold them’"
             },
             {
@@ -36277,7 +36277,7 @@
     {
         "word": "murluṅ",
         "fone": "MURLUNG, MURLUN",
-        "definition": "of a man, e.g. when speaking, to move his lips in a quick way resembling that of a muskrat (cf. lumur-lumur). This is normally used with the word á, mouth, e.g. áć murluṅè tana",
+        "definition": "of a man, e.g. when speaking, to move his lips in a quick way resembling that of a muskrat (cf. lumur-lumur). This is normally used with the word Ah, mouth, e.g. Ahć murluṅè tana",
         "subwords": [
             {
                 "subword": "*murluṅ-á",
@@ -36387,7 +36387,7 @@
         "definition": "a brass bowl, a lota",
         "subwords": [
             {
-                "subword": "*muta á",
+                "subword": "*muta Ah",
                 "sub_definition": "the mouth of a muta"
             },
             {
@@ -42724,7 +42724,7 @@
         "subwords": [
             {
                 "subword": "*raba daṭa",
-                "sub_definition": "same as raba á"
+                "sub_definition": "same as raba Ah"
             }
         ]
     },
@@ -44769,7 +44769,7 @@
         "definition": "to dry; dried (note the usage haku rwoo, to dry fish' i.e. in order to preserve it for future eating); of the body, lean, emaciated; pass. verb to become dry or emaciated; noun a dried condition or state (e.g. of land). Has. Nag. Sat. rohoṛ; Kork. lokhor",
         "subwords": [
             {
-                "subword": "*rwoo á",
+                "subword": "*rwoo Ah",
                 "sub_definition": "dry mouthed (from hunger or thirst), to become dry mouthed; disappointed due to some fruitless effort; to be thus disappointed"
             },
             {
@@ -48354,7 +48354,7 @@
         "definition": "a dog; there is a belief that if in a dream someone sicks (achu) a dog on the dreamer that a spirit would send a tiger to attack him",
         "subwords": [
             {
-                "subword": "*seta á",
+                "subword": "*seta Ah",
                 "sub_definition": "(literally dog's mouth) a baduṛi (flying fox) (a term used by someone watching over silkworm cultivation because of the taboo on saying the word baduṛi there)"
             },
             {
@@ -49827,7 +49827,7 @@
         "definition": "of e.g. a pig or crow, to eat with an elongated mouth",
         "subwords": [
             {
-                "subword": "*solṭaṕ á",
+                "subword": "*solṭaṕ Ah",
                 "sub_definition": "an elongated mouth (as in solṭab, sometimes used of men when scolding)"
             }
         ]
@@ -54479,7 +54479,7 @@
         "subwords": [
             {
                 "subword": "*tiril chaṭakam",
-                "sub_definition": "used in prayers with the meaning of tiril danḍaḱ, 'a staff of the tiril tree'. Exact meaning of chaṭakam is not certain; sometimes a tiril branch is split and a white stone is put into the crevise, and then this is planted to ward off á daṭa. There may be some reference to this in the term tiril chaṭakam"
+                "sub_definition": "used in prayers with the meaning of tiril danḍaḱ, 'a staff of the tiril tree'. Exact meaning of chaṭakam is not certain; sometimes a tiril branch is split and a white stone is put into the crevise, and then this is planted to ward off Ah daṭa. There may be some reference to this in the term tiril chaṭakam"
             },
             {
                 "subword": "*tiril guchaṅ",
