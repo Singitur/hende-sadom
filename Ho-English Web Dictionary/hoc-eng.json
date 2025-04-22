@@ -19266,9 +19266,9 @@
         ]
     },
     {
-        "word": "hã́l",
+        "word": "hál, hã́l",
         "fone": "HAL",
-        "definition": "the outer iron rim of a cart wheel"
+        "definition": "the outer iron rim of a cart wheel. Sat. hạl"
     },
     {
         "word": "halai",
@@ -26875,9 +26875,9 @@
         "definition": "a witch"
     },
     {
-        "word": "kae",
+        "word": "Kae",
         "fone": "KAE, KAQ",
-        "definition": "the part remaining after squeezing oil out of seeds"
+        "definition": "the part remaining after squeezing oil out of seeds. Mun. kaṛe"
     },
     {
         "word": "kae",
@@ -28324,7 +28324,7 @@
     {
         "word": "kea",
         "fone": "KEA, KEQ",
-        "definition": "to call, to invite to one’s house; to bring a girl home intending to make her one’s wife (see kepea)",
+        "definition": "to call, to invite to one’s house; to bring a girl home intending to make her one’s wife (see kepea). Mun. keṛa",
         "subwords": [
             {
                 "subword": "*kea-ader",
@@ -44460,7 +44460,7 @@
     {
         "word": "riṭiṅ",
         "fone": "RITING, RITIN",
-        "definition": "used in prayers par allel to bat́, 'to demand' with that meaning (see rinṭi)"
+        "definition": "used in prayers parallel to bat́, 'to demand' with that meaning (see rinṭi)"
     },
     {
         "word": "riu-riu tan",
@@ -44468,14 +44468,14 @@
         "definition": "of rain, falling copiously in big drops (with verb gama)"
     },
     {
-        "word": "rō",
+        "word": "ró, reó",
         "fone": "RO",
         "definition": "an alternate form of reó, even if, although"
     },
     {
-        "word": "rō",
+        "word": "ró",
         "fone": "RO",
-        "definition": "to singe hair or feathers (e.g. of a fowl)"
+        "definition": "to singe hair or feathers (e.g. of a fowl). Sat. ro"
     },
     {
         "word": "roa",
@@ -44977,9 +44977,9 @@
         "definition": "hair knot; refl, to put up one's hair in a knot"
     },
     {
-        "word": "rú",
+        "word": "ruu",
         "fone": "RU",
-        "definition": "rest; to rest (usually in the refl. -rūn)"
+        "definition": "rest; to rest (usually in the refl. -ruun). Mun. ruṛu"
     },
     {
         "word": "rú",
@@ -45306,8 +45306,8 @@
                 "sub_definition": "used in some places for the Barred Jungle Owlet"
             },
             {
-                "subword": "*rúṅ nai",
-                "sub_definition": "a thin climber of the rún daru"
+                "subword": "*Rúṅ Nai",
+                "sub_definition": "a thin climber of the Rúṅ Daru"
             },
             {
                 "subword": "*rūṅ sakam",
@@ -45745,8 +45745,8 @@
         "definition": "a grass with barbed seeds which get caught in the clothes, Prob. Chrysopogon acicula tus, Trin., Gramineae, E.M., H.139/ 71/1; of such barbed seeds, to be caught in one's clothes; sometimes a barbed seed of another grass such as sayit is also referred to as sagaḱ",
         "subwords": [
             {
-                "subword": "*sagaḱ sayú leka",
-                "sub_definition": "growing close together as do the sagaḱ and Sayú grasses (used in prayers)"
+                "subword": "*Sagaḱ-Saui leka",
+                "sub_definition": "growing close together as do the Sagaḱ and Saui grasses (used in prayers)"
             },
             {
                 "subword": "*sagaḱ ut́",
@@ -47568,36 +47568,36 @@
         ]
     },
     {
-        "word": "Sayú",
+        "word": "Sayú, Saui",
         "fone": "SAYU",
-        "definition": "the grass used for thatching, the Spear Grass, Heteropogon contortus, Roem., Gramineae, E.Μ., Β.139/24, Η.139/ 73/1",
+        "definition": "the grass used for thatching, the Spear Grass, Heteropogon contortus, Roem., Gramineae, E.Μ., Β.139/24, Η.139/ 73/1. Sat. sauṛi",
         "subwords": [
             {
-                "subword": "*Sayú dal",
+                "subword": "*Saui dal",
                 "sub_definition": "to thatch a roof"
             },
             {
-                "subword": "*Sayú Joṭo",
+                "subword": "*Saui Joṭo",
                 "sub_definition": "a matted cluster of thatching grass"
             },
             {
-                "subword": "*Sayú Muṭi",
+                "subword": "*Saui Muṭi",
                 "sub_definition": "a bundle (muṭi, q.v.) of thatching grass"
             },
             {
-                "subword": "*Sayú Oaḱ",
+                "subword": "*Saui Oaḱ",
                 "sub_definition": "a house thatched with Sayú grass"
             },
             {
-                "subword": "*Sayú raka",
+                "subword": "*Saui raka",
                 "sub_definition": "a section of field where much Sayú grass grows"
             },
             {
-                "subword": "*Sayú Sarlaḱ",
+                "subword": "*Saui Sarlaḱ",
                 "sub_definition": "thatching grass wrapped around a shaving of wood (e.g. such as would be cut off when making a plough). This is used for the agom (q.v.) of the heroḱ feast"
             },
             {
-                "subword": "*Sayú Ṭaṭi",
+                "subword": "*Saui Ṭaṭi",
                 "sub_definition": "a type of ṭaṭi (q.v.)"
             }
         ]
@@ -50282,9 +50282,9 @@
         ]
     },
     {
-        "word": "sosokeṛa",
+        "word": "sosokeṛa Daru",
         "fone": "SOSOKEDA, SOSOKQDQ",
-        "definition": "Daru a fig tree said by the villagers to be between the loa and the ãi trees in its characteristics, prob. as given by Haines, Ficus hispida, L., Moraceae, H. 125/8/20"
+        "definition": "a fig tree said by the villagers to be between the loa and the ãi trees in its characteristics, prob. as given by Haines, Ficus hispida, L., Moraceae, H. 125/8/20"
     },
     {
         "word": "sosta",
@@ -50493,7 +50493,7 @@
         "definition": "the Purple Sunbird, a bird which makes a sui-sui sound (in some places called chundi oe)"
     },
     {
-        "word": "suić (súć)",
+        "word": "súć",
         "fone": "SUIC, SUI",
         "definition": "to whistle by puckering the lower lip with the hand, or by putting one's finger(s) into the mouth; to pluck the upper petals from the Mat́kam flower before cooking it as food",
         "subwords": [
@@ -57969,7 +57969,7 @@
         ]
     },
     {
-        "word": "antar",
+        "word": "antar, antir",
         "fone": "ANTAR",
         "definition": "specific distance ploughed. mit́ antar geć sí let́a. [ADD]"
     },
@@ -57979,9 +57979,29 @@
         "definition": "to clean paddy or rice. [ADD]"
     },
     {
+        "word": "Net́",
+        "fone": "NET",
+        "definition": "to dye something; colour; to colour something. Mun. net́; Sat. ńet́ [BOR]"
+    },
+    {
         "word": "huć",
         "fone": "HUJ",
         "definition": "to come. Tickell (1840:1080) [ADD]"
+    },
+    {
+        "word": "Kuly",
+        "fone": "KULI",
+        "definition": "a corner; a street. Mun. kuli; Sat. Kulhi [BOR]"
+    },
+    {
+        "word": "kudh",
+        "fone": "KUDA",
+        "definition": "to heap something; gather something into a heap. Has. kudá; Nag. kudha; Sat. kudha [BOR]"
+    },
+    {
+        "word": "daaṅ",
+        "fone": "DAN, DANG",
+        "definition": "to pray; to utter prayers; to present a sacrificial chicken before the sacrifice. Tickell (1840). Mun. daṛaṅ [ADD]"
     },
     {
         "word": "Keṭećtiꝑingu",
