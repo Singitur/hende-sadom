@@ -1,3 +1,6 @@
+  function changeColour() {
+         document.getElementById("jh-ws-17").setAttribute("fill", "yellow");
+      }
 
     document.getElementById('fileInput').addEventListener('change', handleFile);
 
