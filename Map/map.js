@@ -1,4 +1,17 @@
-  function changeColour() {
+data = [
+  { id: "region-1", value: 10 },
+  { id: "region-2", value: 45 },
+  { id: "region-3", value: 90 },
+]
+
+const values = data.map(d => parseFloat(d.value));
+const min = Math.min(...values);  // e.g., 10
+const max = Math.max(...values);  // e.g., 90
+
+document.getElementById("comment").innerText = "dskfsk";
+
+
+function changeColour() {
          document.getElementById("jh-ws-17").setAttribute("fill", "yellow");
       }
 
