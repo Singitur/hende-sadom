@@ -8,13 +8,21 @@ const values = data.map(d => parseFloat(d.value));
 const min = Math.min(...values);  // e.g., 10
 const max = Math.max(...values);  // e.g., 90
 
+const colorScale = d3.scaleLinear()
+  .domain([min, max])              // Data range
+  .range(["#ffffcc", "#800026"]);  // Color range: light yellow to dark red
+
+const color = colorScale(value);
+region.setAttribute('fill', color);
 
 
-
+////////////////////////////////////////////////
 function changeColour() {
          document.getElementById("jh-ws-17").setAttribute("fill", "yellow");
          document.getElementById("comment").innerText = "dskfsk";
       }
+//////////////////////////////////////////////////////////////
+
 
     document.getElementById('fileInput').addEventListener('change', handleFile);
 
