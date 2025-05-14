@@ -8,11 +8,12 @@ const values = data.map(d => parseFloat(d.value));
 const min = Math.min(...values);  // e.g., 10
 const max = Math.max(...values);  // e.g., 90
 
-document.getElementById("comment").innerText = "dskfsk";
+
 
 
 function changeColour() {
          document.getElementById("jh-ws-17").setAttribute("fill", "yellow");
+         document.getElementById("comment").innerText = "dskfsk";
       }
 
     document.getElementById('fileInput').addEventListener('change', handleFile);
