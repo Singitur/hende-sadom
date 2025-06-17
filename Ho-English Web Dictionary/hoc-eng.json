@@ -661,7 +661,7 @@
         "definition": "to sneeze, (there is a belief that sneezing on the part of a sick person who does not have a cold can be a sign or omen that he will recover from his sickness, therefore in a prayer achuḱ kenoḱkâć/achuḱ kenkâć would mean 'may he recover'",
         "subwords": [
             {
-                "subword": "*Acuḱ Siń",
+                "subword": "*Acuḱ Siṅ",
                 "sub_definition": "a herb, the leaf of which if held near to the nose causes sneezing, prob. Centipeda venerated. orbicularis, Lour., Compositae, E.M., B.78/13, H.78/38/1"
             }
         ]
@@ -2790,11 +2790,11 @@
             },
             {
                 "subword": "*At́ Dumbu",
-                "sub_definition": "same as At́ Siń"
+                "sub_definition": "same as At́ Siṅ"
             },
             {
-                "subword": "*At́ Siń",
-                "sub_definition": "an imaginary grass which can cause one who steps over it to lose his way. One who loses his way will say (usually in jest) At́ Sińeń tayom ket́a toraṅ, 'perhaps I stepped over some At́ Siń'."
+                "subword": "*At́ Siṅ",
+                "sub_definition": "an imaginary grass which can cause one who steps over it to lose his way. One who loses his way will say (usually in jest) At́ Siṅeń tayom ket́a toraṅ, 'perhaps I stepped over some At́ Siṅ'."
             }
         ]
     },
@@ -3517,8 +3517,8 @@
                 "sub_definition": "used in prayers for baba jań, paddy seeds."
             },
             {
-                "subword": "*baba siń",
-                "sub_definition": "straw (also called busu)."
+                "subword": "*baba siṅ",
+                "sub_definition": "straw (also called busuḱ)."
             },
             {
                 "subword": "*baba sokoć",
@@ -4116,7 +4116,7 @@
         ]
     },
     {
-        "word": "baka-biuń",
+        "word": "baka-biuṅ",
         "kajion": "/baka-biuɲ/",
         "ety": "(unaivailable)",
         "fone": "BAKA, BAKQ",
@@ -4478,7 +4478,7 @@
                 "sub_definition": "a small black ant found in fields and trees, does not."
             },
             {
-                "subword": "*balu surpań",
+                "subword": "*balu surpaṅ",
                 "sub_definition": "a hornet (blackish and rather big)."
             }
         ]
@@ -5000,7 +5000,7 @@
         "kajion": "/bano/",
         "ety": "(unaivailable)",
         "fone": "BANO, BANO",
-        "definition": "a particle translated by 'is/are not', indicating that there is not an identity, e.g. enić ańaḱ hon do bano, he is not my child' (Les.18); used in phrases indicating one or other (a disjunction), e.g. musiń bano musiń, 'some day or other', midō bano midō, 'someone or other', jaiḱ bano jaiḱ, 'someone or other', chikanaḱ bano chikanaḱ, 'something or other' okontaḱ bano okontaḱ 'somewhere or other'."
+        "definition": "a particle translated by 'is/are not', indicating that there is not an identity, e.g. enić ańaḱ hon do bano, he is not my child' (Les.18); used in phrases indicating one or other (a disjunction), e.g. musiṅg bano musiṅg, 'some day or other', midō bano midō, 'someone or other', jaiḱ bano jaiḱ, 'someone or other', chikanaḱ bano chikanaḱ, 'something or other' okontaḱ bano okontaḱ 'somewhere or other'."
     },
     {
         "word": "banoḱ",
@@ -5152,7 +5152,7 @@
             },
             {
                 "subword": "*barsiṅg",
-                "sub_definition": "two days, used in express ne barsiń, nowadays (these two days)."
+                "sub_definition": "two days, used in express ne barsiṅg, nowadays (these two days)."
             },
             {
                 "subword": "*bar-tuku",
@@ -5552,7 +5552,7 @@
                 "sub_definition": "water which has been in the Chaṭu from the previous day."
             },
             {
-                "subword": "*basi diań",
+                "subword": "*basi diaṅ",
                 "sub_definition": "rice beer which has been strained the previous day."
             },
             {
@@ -6198,7 +6198,7 @@
         "definition": "a pick-axe."
     },
     {
-        "word": "beleń",
+        "word": "beleṅ",
         "kajion": "/beleɲ/",
         "ety": "(unaivailable)",
         "fone": "BELENJ, BELQN",
@@ -6226,7 +6226,7 @@
         "definition": "to become alarmed and fearful, e.g. of cattle sensing the approach of jungle animals. Can be used also of men."
     },
     {
-        "word": "bena jań",
+        "word": "bena jaṅ",
         "kajion": "/bena d͡ʑaɲ/",
         "ety": "(unaivailable)",
         "fone": "BENA, BENQ",
@@ -6528,7 +6528,7 @@
         "definition": "a day."
     },
     {
-        "word": "betarań",
+        "word": "betaraṅ",
         "kajion": "/bet̪araɲ/",
         "ety": "(unaivailable)",
         "fone": "BETARANJ, BETQRQN",
@@ -6555,7 +6555,7 @@
         ]
     },
     {
-        "word": "beṭeń",
+        "word": "beṭeṅ",
         "kajion": "/beʈeɲ/",
         "ety": "(unaivailable)",
         "fone": "BETENJ, BETQN",
@@ -6637,7 +6637,7 @@
         "definition": "to dismiss one's guests, i.e. to offer the farewell gifts to departing guests, e.g. tobacco, a last drink of rice beer, sometimes cooked rice, etc. (from Hindi, a better Ho word would be hanḍar)."
     },
     {
-        "word": "bit́ḍań",
+        "word": "bit́ḍaṅ",
         "kajion": "/biʔt̚ɖaɲ/",
         "ety": "(unaivailable)",
         "fone": "BIDDANJ, BIDDQN",
@@ -6820,7 +6820,7 @@
         "kajion": "/binɖa/",
         "ety": "(unaivailable)",
         "fone": "BINDA, BINDQ",
-        "definition": "the circular object (plaited straw, a cloth) which a woman puts on her head to help balance a load; the circular mat (made of palm leaves, straw, or erasiń) used to support circular earthen pots on the ground; to form something, e.g. a cloth, in a circular way; of stacking paddy on the threshing floor, to stack in a circular pattern.",
+        "definition": "the circular object (plaited straw, a cloth) which a woman puts on her head to help balance a load; the circular mat (made of palm leaves, straw, or Erasiṅ) used to support circular earthen pots on the ground; to form something, e.g. a cloth, in a circular way; of stacking paddy on the threshing floor, to stack in a circular pattern.",
         "subwords": [
             {
                 "subword": "*binḍa bandi",
@@ -6950,7 +6950,7 @@
         "definition": "prayer, to pray.",
         "subwords": [
             {
-                "subword": "*binti-ań",
+                "subword": "*binti-aṅg",
                 "sub_definition": "to pray throughout the night until dawn."
             },
             {
@@ -7114,7 +7114,7 @@
         "definition": "poetic parallel of uṭa (In Munda this is the common word used for 'to rise')."
     },
     {
-        "word": "birla-balań",
+        "word": "birla-balaṅ",
         "kajion": "/birla-balaɲ/",
         "ety": "(unaivailable)",
         "fone": "BIRLA, BIRLQ",
@@ -7300,7 +7300,7 @@
         ]
     },
     {
-        "word": "bitarań",
+        "word": "bitaraṅ",
         "kajion": "/bit̪araɲ/",
         "ety": "(unaivailable)",
         "fone": "BITARANJ, BITQRQN",
@@ -7394,7 +7394,7 @@
         ]
     },
     {
-        "word": "biyun-biyuń",
+        "word": "biuṅ-biuṅ",
         "kajion": "/biyun-biyuɲ/",
         "ety": "(unaivailable)",
         "fone": "BIYUN, BIYUN",
@@ -8201,7 +8201,7 @@
         "definition": "fear, to fear; to be afraid. When the object of the fear is not ex- pressed, this is used transitively, sete.g. boro ket́ać, 'He was afraid', alom boroya (boro-e-a), 'Don't be afraid'. When the object of fear is expressed it takes a te or a marker, e.g. alom borotekowa or alom borowakowa, 'Do not be afraid of them'. Boro is used in an impersonal construction with the experiencer as object, e.g. edka borokidińa, 'I was thoroughly scared. It is also sometimes used with a personal subject and a direct personal object with the meaning of 'to make someone give in (give up) out of fright $.",
         "subwords": [
             {
-                "subword": "*boro-beṭeń",
+                "subword": "*boro-beṭeṅ",
                 "sub_definition": "to scare causing one to be startled."
             },
             {
@@ -13430,7 +13430,7 @@
             },
             {
                 "subword": "*curui susun-rau",
-                "sub_definition": "a term used for the custom of dancing upon the dismantled churui which has been set up in the courtyard of the house of the diuri for the mage porob and which is broken down the following day (basi musiń) on which occasion the villagers come with drums and dance on this"
+                "sub_definition": "a term used for the custom of dancing upon the dismantled churui which has been set up in the courtyard of the house of the diuri for the mage porob and which is broken down the following day (basi musiṅg) on which occasion the villagers come with drums and dance on this"
             }
         ]
     },
@@ -14431,7 +14431,7 @@
         "kajion": "/d̪anaŋ/",
         "ety": "(unaivailable)",
         "fone": "DANANG, DANQN",
-        "definition": "to hide; to hide behind; behind (usually in space but sometimes also in time, e.g. musiń barsiń dananre, 'after a day or two)",
+        "definition": "to hide; to hide behind; behind (usually in space but sometimes also in time, e.g. musiṅg barsiṅg dananre, 'after a day or two)",
         "subwords": [
             {
                 "subword": "*danaṅ kaji",
@@ -17358,7 +17358,7 @@
         "kajion": "/ɖukuilaʔ/",
         "ety": "(unaivailable)",
         "fone": "DUKUILAK, DUKUILQ",
-        "definition": "a term used in the kea ader ceremony when inquiring whether the rowa of the dead person has yet entered the adiń"
+        "definition": "a term used in the kea ader ceremony when inquiring whether the rowa of the dead person has yet entered the Adiṅ"
     },
     {
         "word": "dukur-pukur",
@@ -19070,15 +19070,15 @@
         ]
     },
     {
-        "word": "Erasiń",
+        "word": "Erasiṅ",
         "kajion": "/Erasiɲ/",
         "ety": "(unaivailable)",
         "fone": "ERASINJ, ERQSIN",
         "definition": "a kind of jungle creeper which is very sturdy and is often used as a rope, e.g. in fencing a garden; prob. Porana paniculata, Roxb., Convolvulaceae, B.96/24, H.96/7/1",
         "subwords": [
             {
-                "subword": "*Erasiń Baver",
-                "sub_definition": "rope made from the Erasiń creeper"
+                "subword": "*Erasiṅ Baver",
+                "sub_definition": "rope made from the Erasiṅg creeper"
             }
         ]
     },
@@ -19642,7 +19642,7 @@
         "kajion": "/gaɖi/",
         "ety": "(unaivailable)",
         "fone": "GADI, GADI",
-        "definition": "a ravine cut out by water (the form gaḍia is also but less commonly used. See also Lór, Doṛa, Ḍakut́); used in prayers as poetical parallel with Siń or Sút́ probably with the meaning here given."
+        "definition": "a ravine cut out by water (the form gaḍia is also but less commonly used. See also Lór, Doṛa, Ḍakut́); used in prayers as poetical parallel with Siṅ or Sút́ probably with the meaning here given."
     },
     {
         "word": "Gaḍi",
@@ -19756,7 +19756,7 @@
             },
             {
                 "subword": "*gaiko lunḍić daru",
-                "sub_definition": "a tree, probably another name for sandab siń daru, q.v. (H. gives 'gae-ka-lundi as the Hindi name for his)."
+                "sub_definition": "a tree, probably another name for sanḍaṕ siṅ daru, q.v. (H. gives 'gae-ka-lundi as the Hindi name for his)."
             },
             {
                 "subword": "*gai saneć",
@@ -20102,12 +20102,12 @@
                 "sub_definition": "someone who exerts great efforts to get something (as a crow (Káḱ) does to get Gangai)."
             },
             {
-                "subword": "*Gangai Siń",
+                "subword": "*Gangai Siṅ",
                 "sub_definition": "the stalk of the Gangai plant."
             },
             {
-                "subword": "*Gangai Siń Carić",
-                "sub_definition": "same as Gangai Charić. q.v."
+                "subword": "*Gangai Siṅ Carić",
+                "sub_definition": "same as Gangai Carić. q.v."
             }
         ]
     },
@@ -21478,7 +21478,7 @@
                 "sub_definition": "to kill by draining off water (used esp. of the effect of the sun drying out paddy fields pre venting the grains from forming properly)."
             },
             {
-                "subword": "*goć tauć yan Babasiń",
+                "subword": "*goć tauć yan Babasiṅ",
                 "sub_definition": "straw which has not properly formed due to a lack of water."
             },
             {
@@ -22677,7 +22677,7 @@
         "definition": "tiny particles; small bits; powder; to reduce to tiny particles or powder (often used as verbal affix in this sense).",
         "subwords": [
             {
-                "subword": "*gunḍa babasiń",
+                "subword": "*gunḍa babasiṅ",
                 "sub_definition": "small broken off bits of straw."
             }
         ]
@@ -24721,7 +24721,7 @@
         "subwords": [
             {
                 "subword": "*hartaḱ-olt́",
-                "sub_definition": "to strip off hark (used in prayers in connection with the phrase siń suba Daru suba apparently in this sense, perhaps referring to the fact that e.g. hesel Daru is stripped of bark when used for certain sacrificial purposes) (In ordinary conversation they would say hartaḱ laḱ-epaḱ for 'strip off bark')"
+                "sub_definition": "to strip off hark (used in prayers in connection with the phrase siṅ suba Daru suba apparently in this sense, perhaps referring to the fact that e.g. hesel Daru is stripped of bark when used for certain sacrificial purposes) (In ordinary conversation they would say hartaḱ laḱ-epaḱ for 'strip off bark')"
             }
         ]
     },
@@ -26601,13 +26601,6 @@
         "definition": "to pulverize, make into dust e.g. a road by constantly walking on it"
     },
     {
-        "word": "hom",
-        "kajion": "/hom/",
-        "ety": "(unaivailable)",
-        "fone": "HOM",
-        "definition": "a Hinduized rite in which incense is burned (from Hindi 'hom')"
-    },
-    {
         "word": "homol",
         "kajion": "/homol/",
         "ety": "(unaivailable)",
@@ -27221,7 +27214,7 @@
         "definition": "to strip off e.g. grains or leaves by running one's fingers along a stalk. daḍia hot́ to run one's fingers through one's moustache from the centre to the sides; figuratively to display one's detemination e.g. to fight someone; (see also hot́-gaw, hot́-pachur)",
         "subwords": [
             {
-                "subword": "*hod Baba siń",
+                "subword": "*hot́ Baba siṅ",
                 "sub_definition": "paddy stalks stripped of side shoots and leaves"
             },
             {
@@ -27267,7 +27260,7 @@
             },
             {
                 "subword": "*hoṭaḱ nam",
-                "sub_definition": "to be able to get a hold of something with a thrust of a long stick, e.g. gundakan babasiń ka hoṭaḱ-namoḱa, 'broken off bits of straw cannot be gotten hold of with the thrust of an ankai, to finish up the work of removing with an ankać straw which has been threshed"
+                "sub_definition": "to be able to get a hold of something with a thrust of a long stick, e.g. gunḍa akan babasiṅ ká hoṭaḱ-namoḱa, 'broken off bits of straw cannot be gotten hold of with the thrust of an ankai, to finish up the work of removing with an ankać straw which has been threshed"
             },
             {
                 "subword": "*hoṭaḱ-olt́",
@@ -27313,7 +27306,7 @@
         "kajion": "/hot̪or/",
         "ety": "(unaivailable)",
         "fone": "HOTOR",
-        "definition": "to draw out of, unsheath; with babasiń as obj. - to pull straw out of a haystack hotor-biwr to go around pulling out (used to refer to the process of making a haystack more compact by pulling out straw which juts out too much)",
+        "definition": "to draw out of, unsheath; with babasiṅ as obj. - to pull straw out of a haystack hotor-biwr to go around pulling out (used to refer to the process of making a haystack more compact by pulling out straw which juts out too much)",
         "subwords": [
             {
                 "subword": "*hotor-bonoć",
@@ -29465,7 +29458,7 @@
         "kajion": "/d͡ʑãːl/",
         "ety": "(unaivailable)",
         "fone": "JAL",
-        "definition": "of vines, creepers (e.g. Jansiń ) to spread out extensively esp. on top of bushes"
+        "definition": "of vines, creepers (e.g. Jansiṅ) to spread out extensively esp. on top of bushes"
     },
     {
         "word": "jã́l",
@@ -29993,7 +29986,7 @@
                 "sub_definition": "to keep the eyes closed; to close the eyes permanently (in death)"
             },
             {
-                "subword": "*Japit́ Siń Dumbu",
+                "subword": "*Japit́ Siṅ Dumbu",
                 "sub_definition": "-a small herb with small leaves which close in on one-another whenever the plant is touched and at sunset. This is touched to small children to induce sleep. Prob. Biophytum reinwardti, Walp., Geraniaceae, B.34/2, H.34/2/3, and B. sensitivum, DC., H. 34/2"
             },
             {
@@ -30255,7 +30248,7 @@
         "definition": "of the hair, to become matted; a plant, the fruit of which when dried out becomes burrs which stick to one’s clothes; the burrs of this plant (see also joto)",
         "subwords": [
             {
-                "subword": "*Jaṭaṅ Siń",
+                "subword": "*Jaṭaṅ Siṅ",
                 "sub_definition": "a plant with burrs also called Minḍi Jaṭa; or Minḍi Joṭo, q.v."
             }
         ]
@@ -39071,7 +39064,7 @@
                 "sub_definition": "paddy grains detached from the stalks while threshing"
             },
             {
-                "subword": "*laut́-babasiń",
+                "subword": "*laut́-babasiṅ",
                 "sub_definition": "paddy stalks from which grains have been detached"
             },
             {
@@ -42203,7 +42196,7 @@
         "kajion": "/manɖal sakam/",
         "ety": "(unaivailable)",
         "fone": "MANDAL, MANDQL",
-        "definition": "a leaf of the siń Aaḱ tree or sometimes used of a rūṅ climber, folded and pinned with a Charić, on which punji is put when offerings are made to Maraṅbonga and sometimes to Siṅbonga (these are sometimes made three cornered)"
+        "definition": "a leaf of the Siṅ Aaḱ tree or sometimes used of a rūṅ climber, folded and pinned with a Charić, on which punji is put when offerings are made to Maraṅbonga and sometimes to Siṅbonga (these are sometimes made three cornered)"
     },
     {
         "word": "Mandali",
@@ -44798,7 +44791,7 @@
         "definition": "after a little while (sometimes to specify the time more exactly an expression such as nace tikin or nace ayub will be used (see also lika which implies a time slightly earlier than naze would imply",
         "subwords": [
             {
-                "subword": "*naeć pań",
+                "subword": "*naeć paṅ",
                 "sub_definition": "a time shortly after now (e.g. one or two hours from now"
             }
         ]
@@ -45459,7 +45452,7 @@
         "definition": "this (also nen",
         "subwords": [
             {
-                "subword": "*ne barsiń",
+                "subword": "*ne barsiṅg",
                 "sub_definition": "now-a-days (these two days repeatedly,"
             },
             {
@@ -45747,7 +45740,7 @@
                 "sub_definition": "to overlook; to lose sight of (to let escape from one's sight, e.g. a bird being chased"
             },
             {
-                "subword": "*nel-riiń",
+                "subword": "*nel-riiṅ",
                 "sub_definition": "to not recognize (also nel-ad; to fail to notice or to pass over when looking (e.g when looking at a group to fail to notice a particular person"
             },
             {
@@ -45755,7 +45748,7 @@
                 "sub_definition": "to select by observing. e.g. a partner for marriage, something to be purchased"
             },
             {
-                "subword": "*nel-sahtiń",
+                "subword": "*nel-sahtiṅ",
                 "sub_definition": "to stand the sight of nel-senger to reach a grown- up state, esp. of young girls (12-14 years old."
             },
             {
@@ -51259,10 +51252,10 @@
         ]
     },
     {
-        "word": "poroań",
+        "word": "poroaṅ",
         "kajion": "/poroaɲ/",
         "ety": "(unaivailable)",
-        "fone": "POROANJ, POROQN",
+        "fone": "POROANG, POROQN",
         "definition": "same as poraṅ"
     },
     {
@@ -52081,12 +52074,12 @@
         "definition": "a hay stack; to make a hay stack; to stack hay",
         "subwords": [
             {
-                "subword": "*púṭu babasiń",
-                "sub_definition": "stacked straw (same as púṭu akan babasiń)"
+                "subword": "*púṭu babasiṅ",
+                "sub_definition": "stacked straw (same as púṭu akan babasiṅ)"
             },
             {
                 "subword": "*púṭu",
-                "sub_definition": "rakab to put up in a hay stack (with babasiń, straw, as object)"
+                "sub_definition": "rakaṕ to put up in a hay stack (with babasiṅ, straw, as object)"
             }
         ]
     },
@@ -56984,7 +56977,7 @@
         "definition": "to lie on the back with hands or wings outstretched"
     },
     {
-        "word": "sanḍaṕ siń",
+        "word": "sanḍaṕ siṅ",
         "kajion": "/sanɖaʔp̚ siɲ/",
         "ety": "(unaivailable)",
         "fone": "SANDAP, SANDQP",
@@ -57033,7 +57026,7 @@
         "kajion": "/sanɖom/",
         "ety": "(unaivailable)",
         "fone": "SANDOM",
-        "definition": "used in phrase siń sanḍom, q.v."
+        "definition": "used in phrase siṅ sanḍom, q.v."
     },
     {
         "word": "saneć",
@@ -59834,18 +59827,18 @@
         "definition": "a bean, also siṛimi, q.v."
     },
     {
-        "word": "Siń",
+        "word": "Siṅ",
         "kajion": "/Siɲ/",
         "ety": "(unaivailable)",
         "fone": "SINJ, SIN",
-        "definition": "a tree, esp. when used as poetic parallel with Daru (Singhbhum could possibly be derived from this, 'the land of trees'); a stalk e.g. as used in the term baba siń, 'straw'; pass. verb of a stalk, to develop",
+        "definition": "a tree, esp. when used as poetic parallel with Daru (Singhbhum could possibly be derived from this, 'the land of trees'); a stalk e.g. as used in the term babasiṅ, 'straw'; pass. verb of a stalk, to develop",
         "subwords": [
             {
-                "subword": "*Siń Sakam",
+                "subword": "*Siṅ Sakam",
                 "sub_definition": "the leaves of any tree (so used in songs and prayers)"
             },
             {
-                "subword": "*Siń Sanḍom",
+                "subword": "*Siṅ Sanḍom",
                 "sub_definition": "used in prayers parallel to Bir Daru, Bir Patá, 'trees of the jungle', apparently with the same meaning (meaning of Sanḍom not known)"
             }
         ]
@@ -59887,7 +59880,7 @@
         "definition": "a lion (also joṭo kula)",
         "subwords": [
             {
-                "subword": "*Siń Kula Hon ko Kindar Kula Hon ko",
+                "subword": "*Siṅ Kula Hon ko Kindar Kula Hon ko",
                 "sub_definition": "terms used to refer to the Magea ko (q.v.) who supposedly sometimes come in the form of lions or panthers"
             }
         ]
@@ -59904,7 +59897,7 @@
         "kajion": "/Siŋbui/",
         "ety": "(unaivailable)",
         "fone": "SINGBUI, SINBUI",
-        "definition": "the Singhbhum Dt., (see siń, tree)"
+        "definition": "the Singhbhum Dt., (see siṅ, tree)"
     },
     {
         "word": "Sinduri",
@@ -60238,7 +60231,7 @@
         "kajion": "/Siraʔe Oe/",
         "ety": "( Mun. Sirać)",
         "fone": "SIRAK, SIRQ",
-        "definition": "the Pipit, a bird usually found on the ground and hence also called Pii Sirać. Also of the same family are Siń Sirać, the Tree Pipit, Daḱ/Gaḍa Sirać, the White Wagtail and Liat́/Danḍet́ Sirać, the Grey Wagtail."
+        "definition": "the Pipit, a bird usually found on the ground and hence also called Pii Sirać. Also of the same family are Siṅ Sirać, the Tree Pipit, Daḱ/Gaḍa Sirać, the White Wagtail and Liat́/Danḍet́ Sirać, the Grey Wagtail."
     },
     {
         "word": "sirgiṭi Aaḱ",
@@ -60897,9 +60890,9 @@
         ]
     },
     {
-        "word": "sokoć siń",
+        "word": "Sokoć/Sokoe Siṅ",
         "kajion": "/sokoʔe siɲ/",
-        "ety": "(unaivailable)",
+        "ety": "Mun. Sokoe",
         "fone": "SOKOC, SOKO",
         "definition": "a name given to one or more shrubs of the same family (Crotalaria) as the jĩ plant. Some also give this name to the jĩ plant"
     },
@@ -60908,7 +60901,7 @@
         "kajion": "/sol/",
         "ety": "(unaivailable)",
         "fone": "SOL",
-        "definition": "a cork e.g. for plugging up a bottle; soft matter found inside gangai siń (maize stalks) (also see sol dumbu below)",
+        "definition": "a cork e.g. for plugging up a bottle; soft matter found inside gangai siṅ (maize stalks) (also see sol dumbu below)",
         "subwords": [
             {
                 "subword": "*sol dumbu",
@@ -62580,15 +62573,15 @@
         "definition": "pass. of cattle, to have the nose blocked up, e.g. due to a head cold or some sickness"
     },
     {
-        "word": "sursiń",
+        "word": "Sursiṅ",
         "kajion": "/sursiɲ/",
         "ety": "(unaivailable)",
         "fone": "SURSINJ, SURSIN",
         "definition": "prob. as in B., a shrub up to 15 ft. high strongly scented with purple (H. white or lavender) flowers, Vitex negundo, L., Verbenacene, B.105/21, H.105/10/2 (at least near Chaibasa more commonly called begena)",
         "subwords": [
             {
-                "subword": "*sursiń Bah",
-                "sub_definition": "the flower of the sursiń shrub"
+                "subword": "*Sursiṅ Bah",
+                "sub_definition": "the flower of the Sursiṅ shrub"
             }
         ]
     },
@@ -62988,7 +62981,7 @@
         "kajion": "/t̪ae/",
         "ety": "(unaivailable)",
         "fone": "TAE, TAQ",
-        "definition": "to remain, to stay (around Chaibasa the form ṭae seems more common, in some areas, esp. to the North, tae is used, which is the common form. in Mundari); to have sexual intercourse (a mild inoffensive expression which will be understood in certain contexts, e.g. en musińkin taekena, 'they were together that day', ṭae yanakiń, ' they had relations' (over some period of time)",
+        "definition": "to remain, to stay (around Chaibasa the form ṭae seems more common, in some areas, esp. to the North, tae is used, which is the common form. in Mundari); to have sexual intercourse (a mild inoffensive expression which will be understood in certain contexts, e.g. en musiṅgkin taekena, 'they were together that day', ṭae yanakiń, ' they had relations' (over some period of time)",
         "subwords": [
             {
                 "subword": "*tae-aṅg",
@@ -66344,7 +66337,7 @@
         "kajion": "/Ṭiɲ Siraʔe Oe/",
         "ety": "(unaivailable)",
         "fone": "TINJ, TIN",
-        "definition": "a bird of the Sirać family, smaller than the Gaḍa Sirać, makes a ṭin-ṭiń sound, found in flocks, esp. in mango trees (prob. same as siń Sirać oe, q.v.)"
+        "definition": "a bird of the Sirać family, smaller than the Gaḍa Sirać, makes a ṭin-ṭiń sound, found in flocks, esp. in mango trees (prob. same as Siṅ Sirać oe, q.v.)"
     },
     {
         "word": "tinḍim",
@@ -68255,15 +68248,15 @@
         "definition": "to touch to; to prod gently into, e.g. a stick to a beehive, the mouth of a sacrificial chicken to the punji"
     },
     {
-        "word": "tumiń",
+        "word": "tumiṅ",
         "kajion": "/t̪umiɲ/",
         "ety": "(unaivailable)",
-        "fone": "TUMINJ, TUMIN",
+        "fone": "TUMING, TUMIN",
         "definition": "a medium sized narrow necked earthen pot, much like a kanda, but smaller",
         "subwords": [
             {
-                "subword": "*tumiń caṭu",
-                "sub_definition": "same as tumiń"
+                "subword": "*tumiṅ caṭu",
+                "sub_definition": "same as tumiṅ"
             }
         ]
     },
@@ -70298,7 +70291,7 @@
         "definition": "in one's full senses (e.g. not drunk nor half-asleep, see suti)."
     },
     {
-        "word": "Utiń",
+        "word": "Utiṅ",
         "kajion": "/Ut̪iɲ/",
         "ety": "(unaivailable)",
         "fone": "UTIN, UTINJ",
