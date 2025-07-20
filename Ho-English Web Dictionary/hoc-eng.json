@@ -443,7 +443,7 @@
 		"kajion": "/aːʔ/",
 		"ety": "Mun. Sat. aṛaḱ",
 		"fone": "AK, A",
-		"definition": "to let free, release; to pardon; to let go of the hand one is holding when dancing in order to make room for someone else in the line; with Bohḱ to let down one's hair; of one herding cattle, goats, etc. to let them roam (e.g. into another's field); to release a fighting cock for a fight.",
+		"definition": "to let free, release; to pardon; to let go of the hand one is holding when dancing in order to make room for someone else in the line; with Bowḱ to let down one's hair; of one herding cattle, goats, etc. to let them roam (e.g. into another's field); to release a fighting cock for a fight.",
 		"subwords": [
 		{
 		"subword": "*aaḱ ader",
@@ -7240,15 +7240,15 @@
 		"definition": "to plant (by digging a hole, etc.); to erect by planting; refl. -of a plough, to dig (itself) into the ground at too deep an angle so that it cannot move along properly; as used with bōḱ and kaṭa see below.",
 		"subwords": [
 		{
-		"subword": "*bohḱ biden",
+		"subword": "*bowḱ bit́enn",
 		"sub_definition": "to stand on one's head, e.g. bō:eć bidentana, 'He is standing on his head'."
 		},
 		{
-		"subword": "*kaṭa biden",
+		"subword": "*kaṭa bit́enn",
 		"sub_definition": "to stand or walk on tiptoes, e.g. kaṭać bidentana, 'He is standing on tiptoes'."
 		},
 		{
-		"subword": "*bit́-bid(tan)",
+		"subword": "*bit́-bit́ (tan)",
 		"sub_definition": "on tiptoes (with verbs of walking or standing)."
 		},
 		{
@@ -7613,66 +7613,66 @@
 		"definition": "the color of a hen. white and light brown."
 		},
 		{
-"word":	"bohḱ",
+"word":	"bowḱ",
 		"kajion": "/bohʔ/",
 		"ety": "Has. bóḱ; Nag. Sat. bohoḱ",
 		"fone": "BOHK, BO",
-		"definition": "head; a leader; the part of a tank, pond, etc. where the water enters; a man's height (when measuring the depth of water, e.g. bar bohḱ twice the height of a man); to face one's head or the head of some object, e.g. a bed, in a certain direction. ",
+		"definition": "head; a leader; the part of a tank, pond, etc. where the water enters; a man's height (when measuring the depth of water, e.g. bar bowḱ twice the height of a man); to face one's head or the head of some object, e.g. a bed, in a certain direction. ",
 		"subwords": [
 		{
-		"subword": "*bohḱ aaà",
+		"subword": "*bowḱ aaà",
 		"sub_definition": "to let down one's hair."
 		},
 		{
-		"subword": "*bohḱ ataṅ",
-		"sub_definition": "same as bohḱ hataṅ."
+		"subword": "*bowḱ ataṅ",
+		"sub_definition": "same as bowḱ hataṅ."
 		},
 		{
-		"subword": "*bohḱ bale",
+		"subword": "*bowḱ bale",
 		"sub_definition": "hair of the human head; pass. verb of one's hair to grow, (e.g. to a certain height)."
 		},
 		{
-		"subword": "*bohḱ bale panaa",
+		"subword": "*bowḱ bale panaa",
 		"sub_definition": "a part in one's hair."
 		},
 		{
-		"subword": "*bohḱ bit́enn",
+		"subword": "*bowḱ bit́enn",
 		"sub_definition": "to stand on one's head."
 		},
 		{
-		"subword": "*bohḱ biuṅ-biuṅ",
+		"subword": "*bowḱ biuṅ-biuṅ",
 		"sub_definition": "to feel a spinning sensation in the head, to feel giddy de."
 		},
 		{
-		"subword": "*bohḱ biwr-biwr",
+		"subword": "*bowḱ biwr-biwr",
 		"sub_definition": "same as boḱ biyun- biyun."
 		},
 		{
-		"subword": "*bohḱ daḱ",
+		"subword": "*bowḱ daḱ",
 		"sub_definition": "a honey comb, the cells of which are full of honey; of cattle, sheep, goats, etc. to stagger around in a daze because of weakness or a serious wound."
 		},
 		{
-		"subword": "*bohḱ hataṅ",
+		"subword": "*bowḱ hataṅ",
 		"sub_definition": "the brain, also called merely hataṅ or ataṅ."
 		},
 		{
-		"subword": "*bohḱ heeht́",
-		"sub_definition": "to pull the hair, e.g. bohḱć heeht́ ket́ińa, she pulled my hair."
+		"subword": "*bowḱ heeht́",
+		"sub_definition": "to pull the hair, e.g. bowḱć heeht́ ket́ińa, she pulled my hair."
 		},
 		{
-		"subword": "*bohḱ jaṅ",
+		"subword": "*bowḱ jaṅ",
 		"sub_definition": "a skull."
 		},
 		{
-		"subword": "*bohḱ kandua",
+		"subword": "*bowḱ kandua",
 		"sub_definition": "South, referring to the position of the head of a buried person. Hos bury North-Sount with the head to the South, so that the body is facing North (should it sit up), the direction from which their ancestors have come."
 		},
 		{
-		"subword": "*bohḱ munḍu",
+		"subword": "*bowḱ munḍu",
 		"sub_definition": "reaching to the top of one's head, e.g. of the depth of water."
 		},
 		{
-		"subword": "*bohḱann hoo ko",
+		"subword": "*bowḱann hoo ko",
 		"sub_definition": "the leaders."
 }
 ]
@@ -8044,11 +8044,11 @@
 		"definition": "to tie something with a slip-knot."
 		},
 		{
-"word":	"boṉohḱ",
+"word":	"boṉowḱ",
 		"kajion": "/bonohʔ/",
-		"ety": "Bohḱ + -ṉ-",
+		"ety": "Bowḱ + -ṉ-",
 		"fone": "BONOK, BONO",
-		"definition": "headship, leadership; responsibility for some work (verbal noun of bohḱ)"
+		"definition": "headship, leadership; responsibility for some work (verbal noun of bowḱ)"
 		},
 		{
 "word":	"boṉolo",
@@ -10666,7 +10666,7 @@
 		{
 "word":	"capu",
 		"kajion": "/t͡ɕapu/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. capu",
 		"fone": "CHAPU, CAPU",
 		"definition": "to feel with the hands; to feel in order to examine e.g. the pulse; to catch fish by putting the two hands over them",
 		"subwords": [
@@ -11140,9 +11140,9 @@
 		"definition": "a small worm which comes out of a silkworm cocoon and is eaten by villagers"
 		},
 		{
-"word":	"cãya",
+"word":	"Cãya, Caya",
 		"kajion": "/t͡ɕãya/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. caya",
 		"fone": "CHAYA, CAYQ",
 		"definition": "a green flying bug which attacks paddy, to cause destruction (as these flying bugs do); (less commonly) a beetle which has pink wings and which eats the fresh leaves of the baru daru tree (also called Araḱ Chãya or Baru Chãya); of a village, to get a bad name because of repeated infidelity of one or more people of the village; also used of traders buying up things and selling at higher prices (Háṭ Chãya ko)",
 		"subwords": [
@@ -11281,18 +11281,18 @@
 ]
 		},
 		{
-"word":	"cẽ́l",
+"word":	"Cẽhl, Cehl",
 		"kajion": "/t͡ɕẽː/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. cehel",
 		"fone": "CHEL, CEL",
 		"definition": "a wave; to form waves; pass, of waves, to be formed",
 		"subwords": [
 		{
-		"subword": "*cẽ́l-copol",
+		"subword": "*cehl-copol",
 		"sub_definition": "of water in a field, etc., to be about 6in, or 1ft. deep, so as to cause small waves and a splashing sound when one walks in it; the waves and sound so made; of water in a Chaṭu, etc. to be full, splashing around"
 		},
 		{
-		"subword": "*cẽ́l-topa",
+		"subword": "*cehl-topa",
 		"sub_definition": "of waves, to swallow up (someone, something); pass. to be swallowed up in waves"
 }
 ]
@@ -12116,7 +12116,7 @@
 		{
 "word":	"cirgal",
 		"kajion": "/t͡ɕirgal/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. cirgâl",
 		"fone": "CHIRGAL, CIRGQL",
 		"definition": "to be aware of; to recognize or consider as something (like atkar in this meaning); to be wary of; to be cautious",
 		"subwords": [
@@ -12420,7 +12420,7 @@
 		{
 "word":	"cokaḱ",
 		"kajion": "/t͡ɕokaʔ/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. cokaḱ",
 		"fone": "CHOKAK, COKQ",
 		"definition": "the covering or shell of eggs, peanuts, fruits, etc.; the shell of a tortoise; the bark of certain trees which have thick bark, such as the Gaḍa Hatanaḱ (for thin bark, e.g. of the Jojo tree, the word Hartaḱ is used); the husks of grains (sometimes but not commonly used for this. The ordinary word for this is Hẽ́)",
 		"subwords": [
@@ -12574,7 +12574,7 @@
 		{
 "word":	"conda",
 		"kajion": "/t͡ɕond̪a/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. conda",
 		"fone": "CHONDA, CONDQ",
 		"definition": "to lift something on to a stove"
 		},
@@ -12900,7 +12900,7 @@
 		{
 "word":	"cubaḱ",
 		"kajion": "/t͡ɕubaʔ/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. cubâḱ",
 		"fone": "CHUBAK, CUBQ",
 		"definition": "of some tiny particle e.g. of dust, to get into the eye; to bribe"
 		},
@@ -12948,7 +12948,7 @@
 		{
 "word":	"cucungúr, cucungurt́",
 		"kajion": "/t͡ɕut͡ɕunguːr, t͡ɕut͡ɕungu:ʔr/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. cûcûngût́",
 		"fone": "CHUCHUNGUR, CUCUNUR",
 		"definition": "to sit on the haunches (usually used with a te construction, e.g. chuchungurt́ teć duṕ akana)"
 		},
@@ -13147,12 +13147,12 @@
 		{
 "word":	"cundi",
 		"kajion": "/t͡ɕund̪i/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. cund",
 		"fone": "CHUNDI, CUNDI",
 		"definition": "a muskrat"
 		},
 		{
-"word":	"cundi Oe",
+"word":	"Cundi Oe",
 		"kajion": "/t͡ɕund̪i Oe/",
 		"ety": "(unaivailable)",
 		"fone": "CHUNDI, CUNDI",
@@ -13730,7 +13730,7 @@
 		"kajion": "/ɖaːɖaː/",
 		"ety": "(unaivailable)",
 		"fone": "DADA, DADQ",
-		"definition": "bald (of the head of a man, with Bohḱ; also in songs or jest of the head of an elephant); bare of trees and shrubs (of a hillock)"
+		"definition": "bald (of the head of a man, with Bowḱ; also in songs or jest of the head of an elephant); bare of trees and shrubs (of a hillock)"
 		},
 		{
 "word":	"daḍa-duḍu",
@@ -13789,7 +13789,7 @@
 		"definition": "of the head, to be big (used as the nickname of a tiger)",
 		"subwords": [
 		{
-		"subword": "*ḍaḍu bohḱ",
+		"subword": "*ḍaḍu bowḱ",
 		"sub_definition": "big headed"
 		},
 		{
@@ -14096,7 +14096,7 @@
 		"kajion": "/d̪akin/",
 		"ety": "(unaivailable)",
 		"fone": "DAKIN",
-		"definition": "South (from Hindi, more proper Ho would be Bohḱ Kandua)"
+		"definition": "South (from Hindi, more proper Ho would be Bowḱ Kandua)"
 		},
 		{
 "word":	"ḍáko",
@@ -14732,7 +14732,7 @@
 		"definition": "pass. (esp in form darchaḱ akana) of the hairs of the head, to extend out in all directions",
 		"subwords": [
 		{
-		"subword": "*darcaḱ Bohḱ",
+		"subword": "*darcaḱ Bowḱ",
 		"sub_definition": "a head with hair extending out in an unruly fashion in all directions"
 }
 ]
@@ -15483,7 +15483,7 @@
 		{
 "word":	"ḍera",
 		"kajion": "/ɖera/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. ḍhera",
 		"fone": "DERA, DERQ",
 		"definition": "to screw e.g. a cap onto a bottle; to twist together 2 or 3 strands of bat́chom in order to form a rope; to twist one's arm; a painful sensation in the stomach, figur. in stories, to twirl the end of one's mustache in the thumb and finger as a show of power",
 		"subwords": [
@@ -15662,7 +15662,7 @@
 		{
 "word":	"ḍiḍi",
 		"kajion": "/ɖiɖi/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. ḍiḍâ/ḍiḍi",
 		"fone": "DIDI",
 		"definition": "to stand on tiptoes",
 		"subwords": [
@@ -16463,14 +16463,14 @@
 		"definition": "Dalma hill near Jamshedpur"
 		},
 		{
-"word":	"dóm",
+"word":	"doom",
 		"kajion": "/d̪oːm/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. doṛom",
 		"fone": "DOM",
-		"definition": "an offering, sukul or rice-beer, made to the ancestors to appease them when they are inflicting some punishment; to say the sacrificial formula over a victim (for this the word dan is more usually used, dom is more properly the first meaning given above)",
+		"definition": "an offering, sukul or rice-beer, made to the ancestors to appease them when they are inflicting some punishment; to say the sacrificial formula over a victim (for this the word daaṅ is more usually used, doom is more properly the first meaning given above)",
 		"subwords": [
 		{
-		"subword": "*dóm-uraa",
+		"subword": "*doom-uraa",
 		"sub_definition": "an offering, e.g. paddy, made in order to appease a spirit, e.g. in the hon Bah feast paddy is offered to Siṅgbonga to request him to have the baba-enga protect the paddy"
 }
 ]
@@ -17679,11 +17679,11 @@
 		"definition": "a bee (smaller than nili or tumbuli but bigger than hurum suku)",
 		"subwords": [
 		{
-		"subword": "*dumur bohḱ",
+		"subword": "*dumur bowḱ",
 		"sub_definition": "crinkly hair"
 		},
 		{
-		"subword": "*dumur bohḱ daḱ",
+		"subword": "*dumur bowḱ daḱ",
 		"sub_definition": "honey of the dumur bee"
 		},
 		{
@@ -17740,7 +17740,7 @@
 		{
 "word":	"dundu",
 		"kajion": "/d̪und̪u/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. dundu",
 		"fone": "DUNDU",
 		"definition": "a big owl"
 		},
@@ -17911,7 +17911,7 @@
 		"sub_definition": "to harass by sitting, (e.g. to harass a nage bonga by sitting on a rock under which the spirit dwells)"
 		},
 		{
-		"subword": "*duṕ donḍa bohḱ",
+		"subword": "*duṕ donḍa bowḱ",
 		"sub_definition": "to sit quietly"
 		},
 		{
@@ -20575,7 +20575,7 @@
 		{
 "word":	"Gaya",
 		"kajion": "/Gaya/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. gaya",
 		"fone": "GAYA, GAYQ",
 		"definition": "a eunuch."
 		},
@@ -22724,7 +22724,7 @@
 		{
 "word":	"gungut́",
 		"kajion": "/gunguʔt̚/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. gungut́",
 		"fone": "GUNGUT, GUNUT",
 		"definition": "poetic parallel of hambut́, 'to embrace'."
 		},
@@ -24835,7 +24835,7 @@
 		"kajion": "/hasu/",
 		"ety": "(unaivailable)",
 		"fone": "HASU",
-		"definition": "sickness; pain; to feel sick; to feel pain; e.g. Bohḱ hasuń tana, 'I have a headache'; trans. of a spirit, to inflict sicknessḱ intrans. - to be sick (be in a sick state), pass. - to become sick (Note usage - rola muć ko hasugêko huúaḱa, 'rola ants bite causing pain')",
+		"definition": "sickness; pain; to feel sick; to feel pain; e.g. Bowḱ hasuń tana, 'I have a headache'; trans. of a spirit, to inflict sicknessḱ intrans. - to be sick (be in a sick state), pass. - to become sick (Note usage - rola muć ko hasugêko huúaḱa, 'rola ants bite causing pain')",
 		"subwords": [
 		{
 		"subword": "*hasu-duku",
@@ -25171,8 +25171,8 @@
 		"definition": "a red ant",
 		"subwords": [
 		{
-		"subword": "*hau Bohḱ",
-		"sub_definition": "the head of a red ant; used in prayers to the ancestors in the expression hau-Bohḱ, tonto Bohḱ to refer to rice grains offered to them in the Adiṅ"
+		"subword": "*hau Bowḱ",
+		"sub_definition": "the head of a red ant; used in prayers to the ancestors in the expression hau-Bowḱ, Ṭonṭo Bowḱ to refer to rice grains offered to them in the Adiṅ"
 		},
 		{
 		"subword": "*hau jujun",
@@ -25387,7 +25387,7 @@
 		{
 "word":	"Hee, Hẽe",
 		"kajion": "/Heː (Hẽe)/",
-		"ety": "Mun. heṛe",
+		"ety": "Mun. Sat. heṛe",
 		"fone": "HE",
 		"definition": "chaff, husk (of grains).",
 		"subwords": [
@@ -25456,7 +25456,7 @@
 		"definition": "to scrape off some of the outer surface of the skin",
 		"subwords": [
 		{
-		"subword": "*heje Bohḱ",
+		"subword": "*heje Bowḱ",
 		"sub_definition": "a head scraped clear of bair; a hald head"
 }
 ]
@@ -25756,7 +25756,7 @@
 		"definition": "bald; stripped of all foliage, etc.; to make bald; to strip of all foliage",
 		"subwords": [
 		{
-		"subword": "*hereca Bohḱ",
+		"subword": "*hereca Bowḱ",
 		"sub_definition": "bald headed"
 }
 ]
@@ -25886,7 +25886,7 @@
 		{
 "word":	"heta",
 		"kajion": "/het̪a/",
-		"ety": "(unaivailable)",
+		"ety": "Mun. Sat. heta",
 		"fone": "HETA, HETQ",
 		"definition": "to turn the head; to look to the side or to look back",
 		"subwords": [
@@ -26322,7 +26322,7 @@
 		{
 "word":	"Hita",
 		"kajion": "/hit̪a/",
-		"ety": "Sat. Ita",
+		"ety": "Sat. Itạ",
 		"fone": "HITA, HITQ",
 		"definition": "a seed (for propagation); a progenitor or ancestor, e.g. ale miat́ hitaren honko, 'We are children of a common ancestor'; to use as a seed; to propagate or beget e.g. nen sim hitako/hita-honko, 'descendants (offspring) of this chicken (cock or hen), in a figurative sense to propagate, e.g. a disease",
 		"subwords": [
@@ -26366,7 +26366,7 @@
 		{
 "word":	"hitat́",
 		"kajion": "/hit̪aʔt̚/",
-		"ety": "Sat. Itat́",
+		"ety": "Sat. Itạt́",
 		"fone": "HITAT, HITQT",
 		"definition": "a share",
 		"subwords": [
@@ -26462,7 +26462,7 @@
 		{
 "word":	"hocaḱ",
 		"kajion": "/hot͡ɕaʔ/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. hucạḱ",
 		"fone": "HOCHAK, HOCQ",
 		"definition": "to break off a large branch of a tree (e.g. by the action of a man pulling, of a heavy wind, of the weight of the fruit) (samage hochaḱ yana would indicate that the branch was torn, but is still not completely severed from the tree)"
 		},
@@ -26529,7 +26529,7 @@
 		{
 "word":	"holat́",
 		"kajion": "/holaʔt̚/",
-		"ety": "(unaivailable)",
+		"ety": "Mun. Sat. holat́",
 		"fone": "HOLAT, HOLQT",
 		"definition": "a straight razor"
 		},
@@ -27018,7 +27018,7 @@
 		"sub_definition": "a sickness in which the stomach swells up"
 		},
 		{
-		"subword": "*horo-Bohḱ",
+		"subword": "*horo-Bowḱ",
 		"sub_definition": "the head of a tortoise (this is given as medicine to someone with hemorrhoids)"
 		},
 		{
@@ -28806,7 +28806,7 @@
 		{
 "word":	"itika nai",
 		"kajion": "/it̪ika nai/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. îtka",
 		"fone": "ITIKA, ITIKQ",
 		"definition": "a vine with slender stem, purple flowers and grey pods covered with hairs which remain sticking to the skin of whoever touches them, Cowhage; Mucuna prurita, Hook, Papilionaceae, B.53/80, H.53/ 47/3",
 		"subwords": [
@@ -30710,7 +30710,7 @@
 ]
 		},
 		{
-"word":	"jiaa (jiãa)",
+"word":	"jiaa, jiãa",
 		"kajion": "/d͡ʑiaː (d͡ʑiãa)/",
 		"ety": "( Sat. jiaṛ)",
 		"fone": "JIA, JIQ",
@@ -34164,7 +34164,7 @@
 		},
 		{
 		"subword": "*Kaṭa-cambara",
-		"sub_definition": "the North (the -foot position of a buried person, see Bohḱ kandua )"
+		"sub_definition": "the North (the -foot position of a buried person, see Bowḱ kandua )"
 		},
 		{
 		"subword": "*Kaṭa canḍaṅ",
@@ -36308,7 +36308,7 @@
 		"definition": "a wooden mallet",
 		"subwords": [
 		{
-		"subword": "*korau Bohḱ",
+		"subword": "*korau Bowḱ",
 		"sub_definition": "a big head"
 }
 ]
@@ -37346,7 +37346,7 @@
 		{
 "word":	"kumbuu",
 		"kajion": "/kumbuː/",
-		"ety": "Sat. kumbṛu",
+		"ety": "Sat. kûmbṛû",
 		"fone": "KUMBA, KUMBQ",
 		"definition": "to steal; a thief; theft",
 		"subwords": [
@@ -39845,7 +39845,7 @@
 		"definition": "a large honey bee (also nili, lele)",
 		"subwords": [
 		{
-		"subword": "*lili bohḱ daḱ",
+		"subword": "*lili bowḱ daḱ",
 		"sub_definition": "honey of the lili bee"
 		},
 		{
@@ -40080,7 +40080,7 @@
 		"kajion": "/lisiʔi-lisiʔi t̪an/",
 		"ety": "(unaivailable)",
 		"fone": "LISIC, LISI",
-		"definition": "experiencing (or 'due to') intense itching (usuallly with verb gotaḱn, ‘to scratch oneself’)"
+		"definition": "experiencing (or 'due to') intense itching (usuallly with verb gotaḱnn, ‘to scratch oneself’)"
 		},
 		{
 "word":	"lita",
@@ -42783,7 +42783,7 @@
 		"kajion": "/maʈukal/",
 		"ety": "(unaivailable)",
 		"fone": "MATUKAL, MATUKQL",
-		"definition": "of the head of a man, to be big (ḍaḍu Bohḱ or maraṅ Bohḱ is more often used for this)"
+		"definition": "of the head of a man, to be big (ḍaḍu Bowḱ or maraṅ Bowḱ is more often used for this)"
 		},
 		{
 "word":	"matut́ ‌",
@@ -43121,7 +43121,7 @@
 		"kajion": "/mera/",
 		"ety": "(unaivailable)",
 		"fone": "MERA, MERQ",
-		"definition": "let not (same meaning as aloka, but used only in prayers) (usually used in expressions such as meralê Láć hasuoḱ, meralê bohḱ hasuoḱ, meralê kulaoḱ, meralê biṅoḱ, ‘May we suffer no stomachache nor headache, may we not be attacked by a tiger nor a snake’, however sometimes the phrase is expressed in an abbreviated way, e.g. mera kula, mera biṅa, mera diri, mera sampura, ‘may we suffer no harm from a tiger, a snake, a stone, may we not suddenly come to harm’; sometimes used for kage, ‘no’, in stories"
+		"definition": "let not (same meaning as aloka, but used only in prayers) (usually used in expressions such as meralê Láć hasuoḱ, meralê bowḱ hasuoḱ, meralê kulaoḱ, meralê biṅoḱ, ‘May we suffer no stomachache nor headache, may we not be attacked by a tiger nor a snake’, however sometimes the phrase is expressed in an abbreviated way, e.g. mera kula, mera biṅa, mera diri, mera sampura, ‘may we suffer no harm from a tiger, a snake, a stone, may we not suddenly come to harm’; sometimes used for kage, ‘no’, in stories"
 		},
 		{
 "word":	"merce miluṅ",
@@ -44297,7 +44297,7 @@
 		"definition": "to enter a body of water, a pit, etc., to the height indicated by the part of the body mentioned (e.g. mukui munḍu, ‘to the knee’); if no part of the body is mentioned it means to enter to a height over one’s head; for the full length of something, e.g. an arrow or a stick to enter into some object; in some expressions munḍu seems to refer to the end or completion of something, e.g. hal munḍu, q.v., and ote munḍu, q.v.",
 		"subwords": [
 		{
-		"subword": "*bohḱ munḍu",
+		"subword": "*bowḱ munḍu",
 		"sub_definition": "to a height over one’s head"
 		},
 		{
@@ -45951,7 +45951,7 @@
 		"definition": "a large honey bee (also called lili, lele)",
 		"subwords": [
 		{
-		"subword": "*Nili Bohḱ Daḱ",
+		"subword": "*Nili Bowḱ Daḱ",
 		"sub_definition": "honey of the nili bee"
 		},
 		{
@@ -47520,7 +47520,7 @@
 		"kajion": "/or/",
 		"ety": "(unaivailable)",
 		"fone": "OR",
-		"definition": "to pull, drag (note a phrase used in a story - Ote te or tangeć Bohḱbaleana, 'She had hair which went down to (dragged on) the ground')",
+		"definition": "to pull, drag (note a phrase used in a story - Ote te or tangeć Bowḱbaleana, 'She had hair which went down to (dragged on) the ground')",
 		"subwords": [
 		{
 		"subword": "*or-ader",
@@ -48538,7 +48538,7 @@
 		},
 		{
 		"subword": "*paṅ samaṅ",
-		"sub_definition": "to have a high forehead (less bald then paṅ Bohḱ)"
+		"sub_definition": "to have a high forehead (less bald then paṅ Bowḱ)"
 }
 ]
 		},
@@ -48664,7 +48664,7 @@
 		"sub_definition": "a cobra"
 		},
 		{
-		"subword": "*panḍu bohḱ",
+		"subword": "*panḍu bowḱ",
 		"sub_definition": "grey haired"
 		},
 		{
@@ -49910,7 +49910,7 @@
 		"definition": "to shake slowly, e.g the tail of a fish wiggling around in water"
 		},
 		{
-"word":	"pet́ka Bohḱ",
+"word":	"pet́ka Bowḱ",
 		"kajion": "/peʔt̚ka bohʔ/",
 		"ety": "(unaivailable)",
 		"fone": "PETKA, PETKQ",
@@ -50567,7 +50567,7 @@
 		},
 		{
 		"subword": "*piṭu guṛut́",
-		"sub_definition": "same as piṭu Bohḱ"
+		"sub_definition": "same as piṭu Bowḱ"
 		},
 		{
 		"subword": "*pitu patni",
@@ -58877,14 +58877,14 @@
 		{
 "word":	"ser",
 		"kajion": "/ser/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. cher",
 		"fone": "SER",
 		"definition": "to melt"
 		},
 		{
 "word":	"sert́",
 		"kajion": "/se:ʔr/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. seret́",
 		"fone": "SER",
 		"definition": "to crush into small particles",
 		"subwords": [
@@ -64171,7 +64171,7 @@
 		"definition": "bald (same as chaḍa)",
 		"subwords": [
 		{
-		"subword": "*ṭara bohḱ",
+		"subword": "*ṭara bowḱ",
 		"sub_definition": "bald headed"
 }
 ]
@@ -64529,7 +64529,7 @@
 		{
 "word":	"tavć",
 		"kajion": "/t̪auʔi/",
-		"ety": "Sat. tavić",
+		"ety": "Sat. tavić [UNC]",
 		"fone": "TAUC, TAU",
 		"definition": "to stretch, pull; to pull up, e.g. plants from the ground; to milk; to drain off water (from a field, by the heat of the sun or e.g. by letting the water go off into a lower field); of the body, to be arched back as in tetanus",
 		"subwords": [
@@ -66617,7 +66617,7 @@
 		{
 "word":	"tiuḱ",
 		"kajion": "/t̪iuʔ/",
-		"ety": "Sat. tiuḱ",
+		"ety": "Sat. tiûḱ",
 		"fone": "TIUK, TIU",
 		"definition": "to reach up and take hold of in one hand, e.g. a fruit",
 		"subwords": [
@@ -66846,7 +66846,7 @@
 		"kajion": "/ʈoʔ/",
 		"ety": "(unaivailable)",
 		"fone": "TOK, TO",
-		"definition": "to hit e.g. a target with an arrow; to knock against; to make a catch of fish; pass. to befall; happen to (ṭoḱ has extensive idiomatic usages, e.g. Hasuć ṭoḱ yana, he was struck by a (contagious) disease'; puraḱ Kanarcha ṭoḱoḱa, 'there will be heavy expenses'; aćaḱ Bohḱ re Oaḱ-Duar reaḱ Boja ṭoḱoḱa, 'the burden of running the house will be his responsibility', am buginaḱ gem ṭoḱoḱa, 'good things will befall you'; Ḍiaṅ rágo redo bar-apé Maṭia redo joka-jokakô ṭoḱ baaoḱa, 'if rice beer is strong they will feel some effect by taking 2 or 3 maṭias of it')",
+		"definition": "to hit e.g. a target with an arrow; to knock against; to make a catch of fish; pass. to befall; happen to (ṭoḱ has extensive idiomatic usages, e.g. Hasuć ṭoḱ yana, he was struck by a (contagious) disease'; puraḱ Kanarcha ṭoḱoḱa, 'there will be heavy expenses'; aćaḱ Bowḱ re Oaḱ-Duar reaḱ Boja ṭoḱoḱa, 'the burden of running the house will be his responsibility', am buginaḱ gem ṭoḱoḱa, 'good things will befall you'; Ḍiaṅ rágo redo bar-apé Maṭia redo joka-jokakô ṭoḱ baaoḱa, 'if rice beer is strong they will feel some effect by taking 2 or 3 maṭias of it')",
 		"subwords": [
 		{
 		"subword": "*ṭoḱ-boro",
@@ -67140,7 +67140,7 @@
 		"subwords": [
 		{
 		"subword": "*ṭonṭo bóḱ",
-		"sub_definition": "the head of a ṭonṭo, figur, usage, see hau Bohḱ"
+		"sub_definition": "the head of a ṭonṭo, figur, usage, see hau Bowḱ"
 }
 ]
 		},
@@ -69492,7 +69492,7 @@
 		"kajion": "/Uʔp̚/",
 		"ety": "(unaivailable)",
 		"fone": "UP",
-		"definition": "pubic hair, the hair of animals (for the hair of a person's head Bohḱbale is used"
+		"definition": "pubic hair, the hair of animals (for the hair of a person's head Bowḱbale is used"
 		},
 		{
 "word":	"úṕ-úṕ",
