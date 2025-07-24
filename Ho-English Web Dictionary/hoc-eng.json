@@ -4029,7 +4029,7 @@
 		"subwords": [
 		{
 		"subword": "*baja-baver",
-		"sub_definition": "a rope used for the early stages of supporting paddy to be stored in a bandi, (not the large straw-rope 		{bor} used on the outside of a bandi)."
+		"sub_definition": "a rope used for the early stages of supporting paddy to be stored in a bandi, (not the large straw-rope, bóṛ used on the outside of a bandi)."
 }
 ]
 		},
@@ -27142,7 +27142,7 @@
 		{
 "word":	"hosokot́",
 		"kajion": "/hosokoʔt̚/",
-		"ety": "(unaivailable)",
+		"ety": "Mun. Sat. hosot́?",
 		"fone": "HOSOKOT",
 		"definition": "to move along in a sitting position; of a small child, to drag himself along on the stomach"
 		},
@@ -30358,9 +30358,9 @@
 		"definition": "the pieces of wood running across the rafters (Seneor) to support the tiles or thatch of a roof, to attach these to the rafters"
 		},
 		{
-"word":	"jeber-jeber",
+"word":	"jeber-jeber, jever-jever",
 		"kajion": "/d͡ʑeber-d͡ʑeber/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. jever",
 		"fone": "JEBER, JEBQR",
 		"definition": "to form a paste of something; to put oil on thickly"
 		},
@@ -32793,14 +32793,14 @@
 ]
 		},
 		{
-"word":	"kaet́",
+"word":	"Kaet́",
 		"kajion": "/kaeʔt̚/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. kawet́",
 		"fone": "KAET, KAQT",
 		"definition": "-a ‘twining slender shrub with pods containing brilliant red seeds with a black spot. This is very pretty when the pods open showing the seeds. Abrus precatorius, L ., Papilionaceae, E.M. H.53/12/2, B.53/1",
 		"subwords": [
 		{
-		"subword": "*kaeh leka meḍanić",
+		"subword": "*kaet́ leka meḍanić",
 		"sub_definition": "one having eyes which are red like the seeds of the kaet́ plant"
 }
 ]
@@ -34992,7 +34992,7 @@
 		"kajion": "/keːʔt̚/",
 		"ety": "(unaivailable)",
 		"fone": "KET",
-		"definition": "a sheaf of grass as much as is held in one hand holding the thinner upper part of the grass (this is normally formed of many toaṕ (see mi toaṕ) each separately tied and then all tied together to form m1 kéq)"
+		"definition": "a sheaf of grass as much as is held in one hand holding the thinner upper part of the grass (this is normally formed of many towṕ (see mí towṕ) each separately tied and then all tied together to form m1 kéq)"
 		},
 		{
 "word":	"két́",
@@ -44254,7 +44254,7 @@
 		"kajion": "/munt͡ɕi/",
 		"ety": "(unaivailable)",
 		"fone": "MUNCHI, MUNCI",
-		"definition": "to divide about a toaṕ of reaped paddy down the middle and then tie two ends together, and use this in order to tie together a muṭi of paddy; paddy thus tied together for this purpose (also manchi)"
+		"definition": "to divide about a towṕ of reaped paddy down the middle and then tie two ends together, and use this in order to tie together a muṭi of paddy; paddy thus tied together for this purpose (also manchi)"
 		},
 		{
 "word":	"munḍa",
@@ -66703,7 +66703,7 @@
 		{
 "word":	"toaṕ",
 		"kajion": "/t̪oaʔp̚/",
-		"ety": "(unaivailable)",
+		"ety": "Sat. tohoṕ",
 		"fone": "TOAP, TOQP",
 		"definition": "to close the hand at least partially around something",
 		"subwords": [
@@ -70723,7 +70723,7 @@
 		"kajion": "/Neʔt̚/",
 		"ety": "( Mun. net́; Sat. ńet́ )",
 		"fone": "NET",
-		"definition": "to dye something; colour; to colour something. [BOR]"
+		"definition": "to dye something; colour; to colour something. [REV]"
 		},
 		{
 "word":	"huć",
@@ -70737,14 +70737,14 @@
 		"kajion": "/kuli/",
 		"ety": "( Mun. kuli; Sat. Kulhi )",
 		"fone": "KULI",
-		"definition": "a corner; a street. [BOR]"
+		"definition": "a corner; a street. [REV]"
 		},
 		{
 "word":	"kudh",
 		"kajion": "/kud̪a/",
 		"ety": "( Has. kudá; Nag. kudha; Sat. kudha )",
 		"fone": "KUDA",
-		"definition": "to heap something; gather something into a heap. [BOR]"
+		"definition": "to heap something; gather something into a heap. [REV]"
 		},
 		{
 "word":	"daaṅ",
