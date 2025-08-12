@@ -27578,9 +27578,9 @@
         "definition": "of e.g. the fine hairs of the mindi chidu, of the pods of the itika vine, of the fine hairs of a squirrel (tl), to be short, soft and thick"
     },
     {
-        "word": "káka/kaká-rambat́",
+        "word": "kaaka/kakaa-rambat́",
         "kajion": "/kaːka/kakaː-rambaʔt̚/",
-        "ety": "(unaivailable)",
+        "ety": "Sat. kakṛa",
         "fone": "HULUM",
         "definition": "the praying mantis; in some places this is used for a large jungle lizard whose bite is believed to be poisonous"
     },
@@ -52283,13 +52283,6 @@
         "definition": "tuberculosis"
     },
     {
-        "word": "ráj, rájo",
-        "kajion": "/raːd͡ʑ, raːd͡ʑo/",
-        "ety": "(unaivailable)",
-        "fone": "RAJ",
-        "definition": "kingdom; to rule"
-    },
-    {
         "word": "raja",
         "kajion": "/rad͡ʑa/",
         "ety": "(unaivailable)",
@@ -52322,20 +52315,6 @@
         ]
     },
     {
-        "word": "raji",
-        "kajion": "/rad͡ʑi/",
-        "ety": "(unaivailable)",
-        "fone": "RAJI",
-        "definition": "agreement; agreed, to be willing"
-    },
-    {
-        "word": "rajisṭiri",
-        "kajion": "/rad͡ʑisʈiri/",
-        "ety": "(unaivailable)",
-        "fone": "RAJISTIRI",
-        "definition": "a registration of land ownership in the courts"
-    },
-    {
         "word": "rájo",
         "kajion": "/raːd͡ʑo/",
         "ety": "(unaivailable)",
@@ -52359,13 +52338,6 @@
                 "sub_definition": "a royal crown"
             }
         ]
-    },
-    {
-        "word": "rajpal",
-        "kajion": "/rad͡ʑpal/",
-        "ety": "(unaivailable)",
-        "fone": "RAJPAL, RAJPQL",
-        "definition": "governor"
     },
     {
         "word": "raḱ",
@@ -52445,11 +52417,11 @@
         "definition": "to become very weak and thin from a long sickness, although one can still move around (used with verbs rikawoḱ etc., also in expressions such as raká-raká-chaba yanać)"
     },
     {
-        "word": "raká-rambat́",
+        "word": "rakaa-rambat́",
         "kajion": "/rakaː-rambaʔt̚/",
         "ety": "(unaivailable)",
         "fone": "RAKA, RAKQ",
-        "definition": "same as kaká-rambat́, the praying mantis, figur. a lanky thin man"
+        "definition": "same as kakaa-rambat́, the praying mantis, figur. a lanky thin man"
     },
     {
         "word": "ráka-rumbaḱ tan",
@@ -52528,9 +52500,9 @@
         ]
     },
     {
-        "word": "rám",
+        "word": "rahm",
         "kajion": "/raːm/",
-        "ety": "(unaivailable)",
+        "ety": "Sat. raham",
         "fone": "RAM",
         "definition": "having a salty taste (used with daḱ and hasa)"
     },
@@ -68641,10 +68613,10 @@
         ]
     },
     {
-        "word": "Ui",
+        "word": "Uić",
         "kajion": "/Ui/",
-        "ety": "(unaivailable)",
-        "fone": "UI",
+        "ety": "Sat. uṛić",
+        "fone": "UI, UIC",
         "definition": "poetic parallel of Ere, an omen; to cause an omen (ui is prob. from húć. Mundari Uṛić, the Indian Robin, see Ency. Mund., article cẽṛẽ uṛić)"
     },
     {
@@ -71262,14 +71234,63 @@
         "kajion": "/Legasala/",
         "ety": "(unaivailable)",
         "fone": "LEGA",
-        "definition": "an experiment [NEO]"
+        "definition": "an experiment. [NEO]"
     },
     {
         "word": "Dirisunum",
         "kajion": "/d̪irisunum/",
         "ety": "(unaivailable)",
         "fone": "DIRI",
-        "definition": "petroleum [NEO]"
+        "definition": "petroleum. [NEO]"
+    },
+    {
+        "word": "kumujoṅ",
+        "kajion": "/kumujoṅ/",
+        "ety": "kumu+joṅ",
+        "fone": "KUMU",
+        "definition": "to imagine. [NEO]"
+    },
+    {
+        "word": "Jangatega",
+        "kajion": "/jaṅgatega/",
+        "ety": "janga+tega",
+        "fone": "JANGA",
+        "definition": "footwear. [NEO]"
+    },    
+    {
+        "word": "Maraṅèm",
+        "kajion": "/maraṅem/",
+        "ety": "maraṅ+em",
+        "fone": "MARANG",
+        "definition": "Selflessness. [NEO]"
+    },
+    {
+        "word": "Maraṅtí",
+        "kajion": "/maraṅti:/",
+        "ety": "maraṅ+tí",
+        "fone": "MARANG",
+        "definition": "Generosity. [NEO]"
+    },
+    {
+        "word": "Tiniuḱ",
+        "kajion": "/tiniuḱ/",
+        "ety": "tiuḱ+-ṉ-",
+        "fone": "TIU",
+        "definition": "A tong. [NEO]"
+    },    
+    {
+        "word": "Anala",
+        "kajion": "/anala/",
+        "ety": "ala+-ṉ-",
+        "fone": "ALA",
+        "definition": "A pan. [NEO]"
+    },
+    {
+        "word": "Hucut́sadom",
+        "kajion": "/hucut́sadom/",
+        "ety": "hucut́+sadom",
+        "fone": "HUCUT",
+        "definition": "A camel. [NEO]"
     },
     {
         "word": "eree",
