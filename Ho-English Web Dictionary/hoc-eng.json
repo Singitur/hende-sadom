@@ -6883,34 +6883,34 @@
         "definition": "putam a variety of pigeon which the villagers identify as the Common Green Pigeon."
     },
     {
-        "word": "bindīram",
+        "word": "bindiram, bindíram",
         "kajion": "/bind̪īram/",
         "ety": "(unaivailable)",
         "fone": "BINDIRAM, BINDIRQM",
         "definition": "a spider fu.",
         "subwords": [
             {
-                "subword": "*bindıram Aaḱ",
-                "sub_definition": "same as bindıram red, q.v."
+                "subword": "*bindiram Aaḱ",
+                "sub_definition": "same as bindiram reht́, q.v."
             },
             {
-                "subword": "*bindıram cãi",
+                "subword": "*bindiram cãi",
                 "sub_definition": "a spider web."
             },
             {
-                "subword": "*bindıram duki",
+                "subword": "*bindiram duki",
                 "sub_definition": "spider lick, a burn-like skin irritation supposedly caused by the urine of a spider."
             },
             {
-                "subword": "*bindıram jalom",
+                "subword": "*bindiram jalom",
                 "sub_definition": "same as bindīram chãi, q.v."
             },
             {
-                "subword": "*bindıram nai",
+                "subword": "*bindiram nai",
                 "sub_definition": "same as bindīram rēd, q.v."
             },
             {
-                "subword": "*bindıram ret́",
+                "subword": "*bindiram reht́",
                 "sub_definition": "a climbing vine which has its small fruit wrapped up in a web-like formation. The leaves and fruit of this are eaten and it gives a medicine which is applied to spider-lick (also called bindīram Aaḱ, bindīram nai, sikuwar."
             }
         ]
@@ -7128,7 +7128,7 @@
         "definition": "delay; to delay; to spend an unduly long time over."
     },
     {
-        "word": "bis-maura",
+        "word": "bis-mawra",
         "kajion": "/bis-maura/",
         "ety": "(unaivailable)",
         "fone": "BIS, BIS",
@@ -26770,11 +26770,11 @@
         ]
     },
     {
-        "word": "hóṕ",
+        "word": "haoṕ, hooṕ",
         "kajion": "/hoːʔp̚/",
-        "ety": "(unaivailable)",
+        "ety": "Mun. hãṛoṕ, hãṛãṕ, hõṛõṕ; Sat. hãṛõṕ",
         "fone": "HOP",
-        "definition": "to put something into some container hóṕ-hunḍi to put together into sorne receptacle"
+        "definition": "to put something into some container haoṕ-hunḍi to put together into sorne receptacle"
     },
     {
         "word": "hopat́",
@@ -26813,7 +26813,7 @@
     {
         "word": "hora",
         "kajion": "/hora/",
-        "ety": "(unaivailable)",
+        "ety": "Sat. hor, hora.",
         "fone": "HORA, HORQ",
         "definition": "a road; a path; a passage; a means; in connection with, due to e.g. paeṭi hora, 'in connection with work', jahn horako kapaji tana, 'they are quarrelling about something or other'; a way of life or belief, apeaḱ hora, 'your way of life (belief, religion); in transplanting, a length-wise strip of the field along which a person works, (When transplanting a person stays in one line moving her hand along planting one line, then she steps back and does the same for the next line, etc. When one has completed a certain planned lengh (or in a small field the whole length of the field) she has done one hora); in reference to a bandi, a section of the outer rope (bandi Baver) from the centre of the base to the centre of the top",
         "subwords": [
@@ -26841,7 +26841,7 @@
     {
         "word": "horw",
         "kajion": "/horw/",
-        "ety": "( Sat. horho)",
+        "ety": "Sat. horho.",
         "fone": "horw",
         "definition": "to guard; of a wild animal, to keep someone trapped, e.g. up a tree; of a spirit or sickness, to keep someone on his sickbed.",
         "subwords": [
@@ -26858,13 +26858,6 @@
                 "sub_definition": "to guard so as to allow to grow properly (e.g. a crop, a child)"
             }
         ]
-    },
-    {
-        "word": "horiból",
-        "kajion": "/horiboːl/",
-        "ety": "(unaivailable)",
-        "fone": "HORIBOL",
-        "definition": "an exclamation called out by many people together e.g. at one stage of driving out a karo pira spirit (see kar)"
     },
     {
         "word": "horlosi",
@@ -26911,7 +26904,7 @@
     {
         "word": "hoṛo",
         "kajion": "/hoɽo/",
-        "ety": "(unaivailable)",
+        "ety": "Mun. hoṛo; Sat. hoṛ",
         "fone": "HORO",
         "definition": "poetic form for hoo, 'man'"
     },
@@ -26930,18 +26923,18 @@
         "definition": "to be in a hurry (for usage see hor-bor)"
     },
     {
-        "word": "horor",
+        "word": "hoṭor, hoṛor",
         "kajion": "/horor/",
         "ety": "(unaivailable)",
         "fone": "HOROR",
         "definition": "to push into, e.g. a key into a key hole; to prod, poke",
         "subwords": [
             {
-                "subword": "*horor-ader",
+                "subword": "*hoṭor-ader",
                 "sub_definition": "to push into"
             },
             {
-                "subword": "*horor mundu",
+                "subword": "*hoṭor munḍu",
                 "sub_definition": "to push something in so that it goes right up to its end (e.g. to push the whole of a stick into a hole)"
             }
         ]
@@ -36100,35 +36093,35 @@
         "definition": "a thick white cloth"
     },
     {
-        "word": "koram",
-        "kajion": "/koram/",
+        "word": "koṭam, koṛam",
+        "kajion": "/koṛam/",
         "ety": "(unaivailable)",
         "fone": "KORAM, KORQM",
         "definition": "to hammer, strike with a hammer or a blunt object",
         "subwords": [
             {
-                "subword": "*koram-goć",
+                "subword": "*koṭam-goć",
                 "sub_definition": "to kill by hitting with a hammer or a blunt object"
             },
             {
-                "subword": "*koram-lutuḱ-lutuḱ",
+                "subword": "*koṭam-lutuḱ-lutuḱ",
                 "sub_definition": "to hammer into tiny particles"
             },
             {
-                "subword": "*koram-poca",
+                "subword": "*koṭam-poca",
                 "sub_definition": "to miss when trying to hit with a blunt object"
             },
             {
-                "subword": "*koram-sert́",
+                "subword": "*koṭam-sert́",
                 "sub_definition": "to hammer into small particles |"
             },
             {
-                "subword": "*koram-sombogt́",
+                "subword": "*koṭam-sombot́",
                 "sub_definition": "to club with a heavy blunt object making the one hit fall head first"
             },
             {
-                "subword": "*koram-tumbit́",
-                "sub_definition": "same as koramsombod"
+                "subword": "*koṭam-tumbit́",
+                "sub_definition": "same as koṭam sombot́"
             }
         ]
     },
@@ -70027,9 +70020,9 @@
         "definition": "a book. [NEO]"
     },
     {
-        "word": "Raánpai",
-        "kajion": "/Raaːnpai/",
-        "ety": "(unaivailable)",
+        "word": "Aranpai",
+        "kajion": "/Aranpai/",
+        "ety": "a + ran + pai",
         "fone": "RANU",
         "definition": "a hospital. [NEO]"
     },
@@ -70085,7 +70078,7 @@
     {
         "word": "Hasahandii",
         "kajion": "/Hasahand̪iː/",
-        "ety": "(unaivailable)",
+        "ety": "Hasa + handii",
         "fone": "HASA",
         "definition": "landslide [NEO]"
     },
@@ -70099,28 +70092,28 @@
     {
         "word": "osarhataṅ",
         "kajion": "/osarhat̪aŋ/",
-        "ety": "(unaivailable)",
+        "ety": "osar + hataṅ",
         "fone": "OSAR",
         "definition": "adj. intelligent [NEO]"
     },
     {
         "word": "gaán",
         "kajion": "/gaaːn/",
-        "ety": "(unaivailable)",
+        "ety": "gan + -v́-",
         "fone": "GAN",
         "definition": "adj. effective [NEO]"
     },
     {
         "word": "lavrtí",
         "kajion": "/lavrt̪iː/",
-        "ety": "(unaivailable)",
+        "ety": "lavr + tí",
         "fone": "LAR",
         "definition": "adj. simple [NEO]"
     },
     {
         "word": "Isinbasaṅ",
         "kajion": "/Isinbasaŋ/",
-        "ety": "(unaivailable)",
+        "ety": "Isin + basaṅ",
         "fone": "ISIN",
         "definition": "cooking, cousine [NEO]"
     },
@@ -70129,7 +70122,7 @@
         "kajion": "/Urumsẽa/",
         "ety": "(unaivailable)",
         "fone": "URUM",
-        "definition": "education [NEO]"
+        "definition": "Philosophy [NEO]"
     },
     {
         "word": "Ayumcirgal",
@@ -70190,35 +70183,35 @@
     {
         "word": "Siṅjivt́",
         "kajion": "/Siŋd͡ʑivʔt̚/",
-        "ety": "(unaivailable)",
+        "ety": "Siṅ + jivt́",
         "fone": "SING, SIN",
         "definition": "bio. plants [NEO]"
     },
     {
         "word": "Seꝑenjivt́",
         "kajion": "/Sepend͡ʑivʔt̚/",
-        "ety": "(unaivailable)",
+        "ety": "Seꝑen + jivt́",
         "fone": "SEPEN",
         "definition": "bio. animals [NEO]"
     },
     {
         "word": "Birjivt́",
         "kajion": "/bird͡ʑivʔt̚/",
-        "ety": "(unaivailable)",
+        "ety": "Bir + jivt́",
         "fone": "Bir",
         "definition": "animal [NEO]"
     },
     {
         "word": "osarsangin",
         "kajion": "/osarsangin/",
-        "ety": "(unaivailable)",
+        "ety": "osar + sangin",
         "fone": "OSAR",
         "definition": "widespread [NEO]"
     },
     {
         "word": "Namsaṅ",
         "kajion": "/Namsaŋ/",
-        "ety": "(unaivailable)",
+        "ety": "Nam + saṅ",
         "fone": "SER",
         "definition": "source [NEO]"
     },
@@ -70357,16 +70350,23 @@
     {
         "word": "Naṅgam",
         "kajion": "/Naŋgam/",
-        "ety": "(unaivailable)",
+        "ety": "naṅ (ancient) + gamu (song, poem, tale)",
         "fone": "NANGAM, NAGAM",
-        "definition": "history. naṅ (ancient) + gamu (song, poem, tale) [NEO]"
+        "definition": "history. [NEO]"
     },
     {
-        "word": "Hat́ran",
+        "word": "Hat́aran",
         "kajion": "/Haʔt̚ran/",
         "ety": "(unaivailable)",
         "fone": "HAT",
-        "definition": "surgery [NEO]"
+        "definition": "med. surgery [NEO]"
+    },
+    {
+        "word": "Hat́asum",
+        "kajion": "/Haʔt̚asum/",
+        "ety": "(unaivailable)",
+        "fone": "HAT",
+        "definition": "med. surgery [NEO]"
     },
     {
         "word": "rokasẽa",
@@ -71331,14 +71331,119 @@
         "word": "Íar, Ĩ́ar",
         "kajion": "/ĩ:ar/",
         "ety": "Mun. Iar; Sat. Iạr",
-        "fone": "KECEL",
+        "fone": "IAR",
         "definition": "a deer species. [ADD]"
+    },
+    {
+        "word": "tulsoṅ",
+        "kajion": "/tulsoṅ/",
+        "ety": "tul + soṅ",
+        "fone": "TULSONG, TULSON",
+        "definition": "a measure with a weight scale. [NEO]"
+    },
+    {
+        "word": "Hatisadom Inuṅ",
+        "kajion": "/Hatisadom Inuṅ/",
+        "ety": "Hati + Sadom",
+        "fone": "HATI",
+        "definition": "the game of Chess. [ADD]"
+    },
+    {
+        "word": "Sowṕsam, Sawṕsam",
+        "kajion": "/so:psam/",
+        "ety": "sowṕ + sam",
+        "fone": "SOPSAM",
+        "definition": "the universe. [NEO]"
+    },
+    {
+        "word": "Jaṅsirma",
+        "kajion": "/jaṅsirma/",
+        "ety": "(unaivailable)",
+        "fone": "SOPSAM",
+        "definition": "outer space. [NEO]"
+    },
+    {
+        "word": "Ipilèmansẽa",
+        "kajion": "/Ipilèmansẽa/",
+        "ety": "(unaivailable)",
+        "fone": "SOPSAM",
+        "definition": "Astronomy. [NEO]"
+    },
+    {
+        "word": "Joaran, Joaransẽa",
+        "kajion": "/joaran/",
+        "ety": "joa + ran",
+        "fone": "JOARAN",
+        "definition": "Chemistry. [NEO]"
+    },
+    {
+        "word": "Ranselt́",
+        "kajion": "/ranse:ʔl/",
+        "ety": "(unaivailable)",
+        "fone": "RANSEL",
+        "definition": "chem. compound. [NEO]"
+    },
+    {
+        "word": "Runu",
+        "kajion": "/runu/",
+        "ety": "(unaivailable)",
+        "fone": "RANSEL",
+        "definition": "rhythm, beat. [NEO]"
+    },
+    {
+        "word": "Siniriṅ",
+        "kajion": "/sinriṅ/",
+        "ety": "(unaivailable)",
+        "fone": "RANSEL",
+        "definition": "music, singing. [NEO]"
+    },
+    {
+        "word": "Seꝑenjivt́sẽa",
+        "kajion": "/Seꝑenjivt́sẽa/",
+        "ety": "(unaivailable)",
+        "fone": "RANSEL",
+        "definition": "sci. Zoology. [NEO]"
+    },
+    {
+        "word": "Tinguduṕ",
+        "kajion": "/Tinguduṕ/",
+        "ety": "(unaivailable)",
+        "fone": "RANSEL",
+        "definition": "situation, circumstance, standing. [NEO]"
+    },
+    {
+        "word": "Siṅjivt́sẽa",
+        "kajion": "/Siṅjivt́sẽa/",
+        "ety": "(unaivailable)",
+        "fone": "RANSEL",
+        "definition": "sci. Botany. [NEO]"
+    },
+    {
+        "word": "Teṅjil",
+        "kajion": "/teṅjil/",
+        "ety": "teṅ + jil",
+        "fone": "IAR",
+        "definition": "bio. tissue. [ADD]"
+    },
+    {
+        "word": "Meeht́kil",
+        "kajion": "/meeht́kil/",
+        "ety": "(unaivailable)",
+        "fone": "MEETKIL",
+        "definition": "chem. metals. [ADD]"
+    },
+    {
+        "word": "Meeht́kankil",
+        "kajion": "/Meeht́kankil/",
+        "ety": "(unaivailable)",
+        "fone": "IAR",
+        "definition": "chem. non-metals. [ADD]"
     },
     {
         "word": "toht́",
         "kajion": "/toht́/",
         "ety": "Sat. tohot́",
-        "fone": "KECEL",
+        "fone": "TOT",
         "definition": "a deer species. [ADD]"
     },
     {
